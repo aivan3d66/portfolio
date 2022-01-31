@@ -18,3 +18,9 @@ body {
   padding: 0;
   background-color: rgba(220, 220, 220, 0.5);
 }
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}

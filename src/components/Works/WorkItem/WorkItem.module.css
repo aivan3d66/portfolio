@@ -1,0 +1,41 @@
+.workItem {
+  flex-grow: 1;
+  flex-wrap: wrap;
+  min-width: 100px;
+  max-width: 380px;
+  text-align: center;
+  border: 1px solid blue;
+}
+
+.workPreview{
+  width: 100%;
+  padding: 40px 0;
+  min-height: 140px;
+  margin: 0 auto;
+  background-color: red;
+}
+
+.workPreview__link {
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.workDescription {
+  padding: 0 20px;
+
+  border: 1px solid blue;
+}
+
+.workItem__title {
+  margin: 20px 0;
+  font-weight: bold;
+
+  background-color: darkgray;
+}
+
+.workItem__text {
+  margin: 20px 0;
+
+  background-color: darkgray;
+
+}

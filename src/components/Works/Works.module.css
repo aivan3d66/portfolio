@@ -1,0 +1,25 @@
+.worksContainer {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: darkseagreen;
+}
+
+.worksContainer h2 {
+  margin: 0;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.worksWrapper {
+  max-width: 1120px;
+  min-height: 100px;
+  margin: 0 auto;
+
+  border: 1px solid red;
+}
+
+.worksList {
+  display: flex;
+  justify-content: space-between;
+}

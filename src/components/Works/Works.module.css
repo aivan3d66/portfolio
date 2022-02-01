@@ -13,13 +13,37 @@
 
 .worksWrapper {
   max-width: 1120px;
+  min-width: 320px;
   min-height: 100px;
   margin: 0 auto;
-
   border: 1px solid red;
 }
 
 .worksList {
   display: flex;
   justify-content: space-between;
+}
+
+@media (max-width: 320px) {
+  .worksWrapper {
+    max-width: 320px;
+  }
+
+  .worksList {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+}
+
+@media (min-width: 768px) {
+  .worksWrapper {
+    min-width: 768px;
+  }
+
+  .worksList {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
 }

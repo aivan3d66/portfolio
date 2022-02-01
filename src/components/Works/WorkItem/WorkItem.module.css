@@ -23,6 +23,7 @@
 .workDescription {
   padding: 0 20px;
 
+  text-align: left;
   border: 1px solid blue;
 }
 

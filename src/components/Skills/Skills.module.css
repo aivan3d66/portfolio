@@ -43,5 +43,22 @@
   .skillsList {
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+  }
+}
+
+@media (min-width: 1120px) {
+  .skillsWrapper {
+    min-width: 1120px;
+    padding: 0;
+  }
+
+  .skillsList {
+    width: 100%;
+    padding: 0;
+    margin: 0;
   }
 }

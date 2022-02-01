@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add new sizes of workItem">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add adaptive mobile, tablet and desktop versions of Socials">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Contacts/Contacts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts/Contacts.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer/Socials/Socials.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Socials/Socials.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1643652205192</updated>
       <workItem from="1643652207291" duration="5424000" />
-      <workItem from="1643739582178" duration="7605000" />
+      <workItem from="1643739582178" duration="7960000" />
     </task>
     <task id="LOCAL-00001" summary="add basic project files">
       <created>1643652665818</created>
@@ -332,7 +330,28 @@
       <option name="project" value="LOCAL" />
       <updated>1643746552331</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="add new contactsWrapper min width">
+      <created>1643747261974</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1643747261974</updated>
+    </task>
+    <task id="LOCAL-00036" summary="add adaptive mobile, tablet and desktop versions of Footer">
+      <created>1643747323497</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1643747323497</updated>
+    </task>
+    <task id="LOCAL-00037" summary="add adaptive mobile, tablet and desktop versions of Socials">
+      <created>1643747334864</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1643747334864</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -351,9 +370,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add basic AboutMe markup" />
-    <MESSAGE value="add basic markup styles" />
-    <MESSAGE value="add basic Employ markup styles" />
     <MESSAGE value="add basic Employ styles" />
     <MESSAGE value="add mew text-align value of workDescription" />
     <MESSAGE value="add Employ import" />
@@ -376,6 +392,9 @@
     <MESSAGE value="add margin null of skillItem" />
     <MESSAGE value="add new sizes of skillList" />
     <MESSAGE value="add new sizes of workItem" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new sizes of workItem" />
+    <MESSAGE value="add new contactsWrapper min width" />
+    <MESSAGE value="add adaptive mobile, tablet and desktop versions of Footer" />
+    <MESSAGE value="add adaptive mobile, tablet and desktop versions of Socials" />
+    <option name="LAST_COMMIT_MESSAGE" value="add adaptive mobile, tablet and desktop versions of Socials" />
   </component>
 </project>

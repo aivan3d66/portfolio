@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add adaptive mobile, tablet and desktop versions of SkillsItems">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add new Skills max-width">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Skills/SkillItem/SkillItem.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/SkillItem/SkillItem.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Works/Works.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/Works.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1643652205192</updated>
       <workItem from="1643652207291" duration="5424000" />
-      <workItem from="1643739582178" duration="6270000" />
+      <workItem from="1643739582178" duration="6850000" />
     </task>
     <task id="LOCAL-00001" summary="add basic project files">
       <created>1643652665818</created>
@@ -289,7 +291,21 @@
       <option name="project" value="LOCAL" />
       <updated>1643745531336</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="add adaptive mobile, tablet and desktop versions of Works">
+      <created>1643745908608</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1643745908608</updated>
+    </task>
+    <task id="LOCAL-00030" summary="add new Skills max-width">
+      <created>1643745924964</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1643745924964</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,8 +324,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add basic Header markup" />
-    <MESSAGE value="add basic Navigation markup" />
     <MESSAGE value="add basic SkillItem markup" />
     <MESSAGE value="add basic Skills markup" />
     <MESSAGE value="add basic WorkItem markup" />
@@ -333,6 +347,8 @@
     <MESSAGE value="add adaptive mobile, tablet and desktop versions of AboutMe" />
     <MESSAGE value="add adaptive mobile, tablet and desktop versions of Skills" />
     <MESSAGE value="add adaptive mobile, tablet and desktop versions of SkillsItems" />
-    <option name="LAST_COMMIT_MESSAGE" value="add adaptive mobile, tablet and desktop versions of SkillsItems" />
+    <MESSAGE value="add adaptive mobile, tablet and desktop versions of Works" />
+    <MESSAGE value="add new Skills max-width" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new Skills max-width" />
   </component>
 </project>

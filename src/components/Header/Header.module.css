@@ -25,7 +25,7 @@
   }
 
   .headerWrapper {
-    max-width: 768px;
+    min-width: 768px;
     min-height: 40px;
     margin: 0 auto;
     padding: 20px 20px;

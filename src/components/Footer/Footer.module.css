@@ -13,6 +13,7 @@
 
 .footerWrapper {
   max-width: 1120px;
+  min-width: 320px;
   min-height: 60px;
   margin: 0 auto;
   padding: 0 20px;
@@ -25,4 +26,29 @@
   margin: 20px auto;
   text-align: center;
   background-color: darkgray;
+}
+
+@media (max-width: 320px) {
+  .footerWrapper {
+    max-width: 320px;
+    margin: 0 auto;
+    padding: 0;
+  }
+}
+
+@media (min-width: 768px) {
+  .footerWrapper {
+    min-width: 768px;
+    margin: 0 auto;
+    padding: 0;
+  }
+
+  .contactsForm {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-width: 320px;
+    max-width: 400px;
+    margin: 0 auto;
+  }
 }

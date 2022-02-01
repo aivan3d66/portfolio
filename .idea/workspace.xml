@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add Footer directory">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add adaptive mobile, tablet and desktop versions of Header">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer/Socials/Socials.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Socials/Socials.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer/Socials/Socials.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Socials/Socials.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1643652205192</updated>
       <workItem from="1643652207291" duration="5424000" />
-      <workItem from="1643739582178" duration="3254000" />
+      <workItem from="1643739582178" duration="5397000" />
     </task>
     <task id="LOCAL-00001" summary="add basic project files">
       <created>1643652665818</created>
@@ -229,7 +225,49 @@
       <option name="project" value="LOCAL" />
       <updated>1643741832319</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="add basic Socials markup">
+      <created>1643742879318</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1643742879318</updated>
+    </task>
+    <task id="LOCAL-00021" summary="add basic Socials markup style">
+      <created>1643742889698</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1643742889698</updated>
+    </task>
+    <task id="LOCAL-00022" summary="add basic Footer markup">
+      <created>1643742901481</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1643742901481</updated>
+    </task>
+    <task id="LOCAL-00023" summary="add basic Footer styles">
+      <created>1643742918962</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1643742918962</updated>
+    </task>
+    <task id="LOCAL-00024" summary="add Footer import">
+      <created>1643742928165</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1643742928165</updated>
+    </task>
+    <task id="LOCAL-00025" summary="add adaptive mobile, tablet and desktop versions of Header">
+      <created>1643744021422</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1643744021422</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,6 +305,12 @@
     <MESSAGE value="add basic Contacts markup styles" />
     <MESSAGE value="add Contacts import" />
     <MESSAGE value="add Footer directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Footer directory" />
+    <MESSAGE value="add basic Socials markup" />
+    <MESSAGE value="add basic Socials markup style" />
+    <MESSAGE value="add basic Footer markup" />
+    <MESSAGE value="add basic Footer styles" />
+    <MESSAGE value="add Footer import" />
+    <MESSAGE value="add adaptive mobile, tablet and desktop versions of Header" />
+    <option name="LAST_COMMIT_MESSAGE" value="add adaptive mobile, tablet and desktop versions of Header" />
   </component>
 </project>

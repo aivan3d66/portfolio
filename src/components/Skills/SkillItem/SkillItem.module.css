@@ -27,5 +27,7 @@
 }
 
 @media (min-width: 768px) {
-
+  .skillItem {
+    margin: 0;
+  }
 }

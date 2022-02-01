@@ -1,9 +1,9 @@
 .skillItem {
-  flex-grow: 1;
   flex-wrap: wrap;
   min-width: 100px;
   max-width: 280px;
   padding: 0 20px;
+  margin: 0 auto 20px auto;
   text-align: center;
   border: 1px solid blue;
 }
@@ -18,14 +18,14 @@
 .skillItem__title {
   margin: 20px 0;
   font-weight: bold;
-
   background-color: darkgray;
-
 }
 
 .skillItem__text {
   margin: 20px 0;
-
   background-color: darkgray;
+}
+
+@media (min-width: 768px) {
 
 }

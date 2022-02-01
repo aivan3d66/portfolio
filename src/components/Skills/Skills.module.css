@@ -12,14 +12,35 @@
 }
 
 .skillsWrapper {
-  max-width: 1120px;
-  min-height: 100px;
   margin: 0 auto;
-
   border: 1px solid red;
 }
 
 .skillsList {
-  display: flex;
-  justify-content: space-between;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0;
+}
+
+@media (max-width: 320px) {
+  .skillsWrapper {
+    min-width: 320px;
+    max-width: 320px;
+  }
+
+  .skillsList {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media (min-width: 768px) {
+  .skillsWrapper {
+    min-width: 768px;
+  }
+
+  .skillsList {
+    display: flex;
+    flex-direction: row;
+  }
 }

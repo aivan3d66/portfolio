@@ -12,6 +12,7 @@ export const Works = () => {
   const works: WorksType = [
     {id: 1, title: "Name of project", text: "project description"},
     {id: 2, title: "Name of project", text: "project description"},
+    {id: 2, title: "Name of project", text: "project description"},
   ];
 
   const worksList = works.map(w => <WorkItem title={w.title}

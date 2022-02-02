@@ -70,18 +70,19 @@
   .aboutText {
     display: flex;
     flex-direction: column;
+    min-width: 300px;
     min-height: 100px;
     margin: 20px 0;
 
     text-align: left;
-    font-size: 20px;
+    font-size: 22px;
     font-weight: bold;
     border: 1px solid blue;
   }
 
   .aboutImage {
-    min-width: 200px;
-    min-height: 200px;
+    width: 300px;
+    min-height: 400px;
     margin: 0;
     background-color: darkgray;
     border: 1px solid blue;
@@ -91,5 +92,10 @@
 @media (min-width: 1120px) {
   .aboutWrapper {
     max-width: 1120px;
+  }
+
+  .aboutText {
+    min-width: 400px;
+    font-size: 26px;
   }
 }

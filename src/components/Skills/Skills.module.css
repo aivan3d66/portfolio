@@ -1,5 +1,5 @@
 .skillsContainer {
-  width: 100%;
+  min-width: 320px;
   margin: 0;
   padding: 0;
   background-color: mediumpurple;
@@ -43,7 +43,8 @@
   .skillsList {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    flex-wrap: wrap;
+    justify-content: center;
     width: 100%;
     padding: 0;
     margin: 0;

@@ -1,8 +1,9 @@
 .workItem {
   flex-grow: 1;
   flex-wrap: wrap;
-  min-width: 100px;
+  min-width: 320px;
   max-width: 360px;
+  margin: 0 auto;
   text-align: center;
   border: 1px solid blue;
 }
@@ -35,5 +36,4 @@
 .workItem__text {
   margin: 20px 0;
   background-color: darkgray;
-
 }

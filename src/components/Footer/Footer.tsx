@@ -4,8 +4,8 @@ import { Socials } from './Socials/Socials';
 export const Footer = () => {
   return (
     <section className={style.footerContainer}>
-      <h2>Ivan Adamouski</h2>
       <div className={style.footerWrapper}>
+        <h2>Ivan Adamouski</h2>
         <Socials/>
         <div className={style.footerInform}>
           2022 All rights reserved

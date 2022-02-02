@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add adaptive mobile, tablet and desktop versions of Socials">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add fix of workList markup styles">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Skills/SkillItem/SkillItem.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/SkillItem/SkillItem.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +93,8 @@
       <option name="presentableId" value="Default" />
       <updated>1643652205192</updated>
       <workItem from="1643652207291" duration="5424000" />
-      <workItem from="1643739582178" duration="7960000" />
+      <workItem from="1643739582178" duration="8120000" />
+      <workItem from="1643781979991" duration="3251000" />
     </task>
     <task id="LOCAL-00001" summary="add basic project files">
       <created>1643652665818</created>
@@ -351,7 +355,91 @@
       <option name="project" value="LOCAL" />
       <updated>1643747334864</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="add correct Header container width">
+      <created>1643747623022</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1643747623022</updated>
+    </task>
+    <task id="LOCAL-00039" summary="add fix of AboutMe markup styles">
+      <created>1643784172478</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1643784172478</updated>
+    </task>
+    <task id="LOCAL-00040" summary="add fix of Contacts width value">
+      <created>1643784203259</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1643784203259</updated>
+    </task>
+    <task id="LOCAL-00041" summary="add fix of Employ width value">
+      <created>1643784214296</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1643784214296</updated>
+    </task>
+    <task id="LOCAL-00042" summary="add fix of Footer width value">
+      <created>1643784225316</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1643784225316</updated>
+    </task>
+    <task id="LOCAL-00043" summary="add fix of Header width value">
+      <created>1643784235430</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1643784235430</updated>
+    </task>
+    <task id="LOCAL-00044" summary="add fix of Navlist width value">
+      <created>1643784255522</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1643784255522</updated>
+    </task>
+    <task id="LOCAL-00045" summary="add fix of skillItem margin value">
+      <created>1643784276963</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1643784276963</updated>
+    </task>
+    <task id="LOCAL-00046" summary="add fix of skillContainer width value">
+      <created>1643784293876</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1643784293876</updated>
+    </task>
+    <task id="LOCAL-00047" summary="add fix of socialList padding value">
+      <created>1643784312564</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1643784312564</updated>
+    </task>
+    <task id="LOCAL-00048" summary="add fix of workItem width value">
+      <created>1643784325583</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1643784325583</updated>
+    </task>
+    <task id="LOCAL-00049" summary="add fix of workList markup styles">
+      <created>1643784353481</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1643784353481</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -370,18 +458,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add basic Employ styles" />
-    <MESSAGE value="add mew text-align value of workDescription" />
-    <MESSAGE value="add Employ import" />
-    <MESSAGE value="add basic Contacts markup" />
-    <MESSAGE value="add basic Contacts markup styles" />
-    <MESSAGE value="add Contacts import" />
-    <MESSAGE value="add Footer directory" />
-    <MESSAGE value="add basic Socials markup" />
-    <MESSAGE value="add basic Socials markup style" />
-    <MESSAGE value="add basic Footer markup" />
-    <MESSAGE value="add basic Footer styles" />
-    <MESSAGE value="add Footer import" />
     <MESSAGE value="add adaptive mobile, tablet and desktop versions of Header" />
     <MESSAGE value="add adaptive mobile, tablet and desktop versions of AboutMe" />
     <MESSAGE value="add adaptive mobile, tablet and desktop versions of Skills" />
@@ -395,6 +471,18 @@
     <MESSAGE value="add new contactsWrapper min width" />
     <MESSAGE value="add adaptive mobile, tablet and desktop versions of Footer" />
     <MESSAGE value="add adaptive mobile, tablet and desktop versions of Socials" />
-    <option name="LAST_COMMIT_MESSAGE" value="add adaptive mobile, tablet and desktop versions of Socials" />
+    <MESSAGE value="add correct Header container width" />
+    <MESSAGE value="add fix of AboutMe markup styles" />
+    <MESSAGE value="add fix of Contacts width value" />
+    <MESSAGE value="add fix of Employ width value" />
+    <MESSAGE value="add fix of Footer width value" />
+    <MESSAGE value="add fix of Header width value" />
+    <MESSAGE value="add fix of Navlist width value" />
+    <MESSAGE value="add fix of skillItem margin value" />
+    <MESSAGE value="add fix of skillContainer width value" />
+    <MESSAGE value="add fix of socialList padding value" />
+    <MESSAGE value="add fix of workItem width value" />
+    <MESSAGE value="add fix of workList markup styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="add fix of workList markup styles" />
   </component>
 </project>

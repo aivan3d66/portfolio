@@ -30,10 +30,14 @@
 .workItem__title {
   margin: 20px 0;
   font-weight: bold;
+  overflow: hidden;
+  text-overflow: ellipsis;
   background-color: darkgray;
 }
 
 .workItem__text {
   margin: 20px 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
   background-color: darkgray;
 }

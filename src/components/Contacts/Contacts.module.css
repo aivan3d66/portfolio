@@ -1,5 +1,5 @@
 .contactsContainer {
-  width: 100%;
+  min-width: 320px;
   margin: 0;
   padding: 0;
   background-color: tan;
@@ -24,6 +24,7 @@
   flex-direction: column;
   justify-content: space-between;
   min-width: 320px;
+  max-width: 400px;
   margin: 0 auto;
 }
 

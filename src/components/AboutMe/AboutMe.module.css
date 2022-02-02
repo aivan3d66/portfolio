@@ -6,6 +6,7 @@
 }
 
 .aboutWrapper {
+  min-height: 100vh;
   margin: 0 auto;
   padding: 0 20px;
   border: 1px solid red;
@@ -16,7 +17,7 @@
   flex-direction: column;
   max-width: 320px;
   min-height: 100px;
-  margin: 20px auto;
+  margin: 120px auto 40px auto;
 
   text-align: center;
   font-size: 18px;
@@ -36,10 +37,8 @@
   .aboutWrapper {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
     min-width: 320px;
     max-width: 320px;
-    min-height: 100px;
   }
 
   .aboutText {
@@ -47,7 +46,7 @@
     flex-direction: column;
     max-width: 320px;
     min-height: 100px;
-    margin: 20px 0;
+    margin: 120px 0 40px 0;
   }
 
   .aboutImage {
@@ -65,7 +64,7 @@
     justify-content: space-between;
     align-items: center;
     min-width: 768px;
-    padding: 20px 40px;
+    padding: 20px 50px;
   }
 
   .aboutText {
@@ -92,6 +91,5 @@
 @media (min-width: 1120px) {
   .aboutWrapper {
     max-width: 1120px;
-    padding: 20px 200px;
   }
 }

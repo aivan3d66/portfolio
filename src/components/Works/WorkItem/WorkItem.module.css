@@ -9,15 +9,22 @@
 }
 
 .workPreview{
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 100%;
-  padding: 40px 0;
-  min-height: 200px;
+  height: 200px;
   margin: 0 auto;
   background-color: red;
 }
 
 .workPreview__link {
+  width: 80px;
+  padding: 4px;
+  background-color: darkgray;
+
   font-size: 20px;
+  text-align: center;
   text-transform: uppercase;
 }
 

@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add fix of workList markup styles">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add two skills items">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Skills/SkillItem/SkillItem.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/SkillItem/SkillItem.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Contacts/Contacts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts/Contacts.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Works/Works.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/Works.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,28 +96,7 @@
       <updated>1643652205192</updated>
       <workItem from="1643652207291" duration="5424000" />
       <workItem from="1643739582178" duration="8120000" />
-      <workItem from="1643781979991" duration="3251000" />
-    </task>
-    <task id="LOCAL-00001" summary="add basic project files">
-      <created>1643652665818</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1643652665818</updated>
-    </task>
-    <task id="LOCAL-00002" summary="add import of Header, AboutMe, Skills, Works components">
-      <created>1643657447650</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1643657447650</updated>
-    </task>
-    <task id="LOCAL-00003" summary="add global App styles">
-      <created>1643657470644</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1643657470644</updated>
+      <workItem from="1643781979991" duration="5901000" />
     </task>
     <task id="LOCAL-00004" summary="add basic Header markup">
       <created>1643657491874</created>
@@ -439,7 +420,28 @@
       <option name="project" value="LOCAL" />
       <updated>1643784353481</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="add global a styles">
+      <created>1643785361913</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1643785361914</updated>
+    </task>
+    <task id="LOCAL-00051" summary="add fix overflow text">
+      <created>1643785390925</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1643785390925</updated>
+    </task>
+    <task id="LOCAL-00052" summary="add two skills items">
+      <created>1643785405688</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1643785405688</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -458,9 +460,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add adaptive mobile, tablet and desktop versions of Header" />
-    <MESSAGE value="add adaptive mobile, tablet and desktop versions of AboutMe" />
-    <MESSAGE value="add adaptive mobile, tablet and desktop versions of Skills" />
     <MESSAGE value="add adaptive mobile, tablet and desktop versions of SkillsItems" />
     <MESSAGE value="add adaptive mobile, tablet and desktop versions of Works" />
     <MESSAGE value="add new Skills max-width" />
@@ -483,6 +482,9 @@
     <MESSAGE value="add fix of socialList padding value" />
     <MESSAGE value="add fix of workItem width value" />
     <MESSAGE value="add fix of workList markup styles" />
-    <option name="LAST_COMMIT_MESSAGE" value="add fix of workList markup styles" />
+    <MESSAGE value="add global a styles" />
+    <MESSAGE value="add fix overflow text" />
+    <MESSAGE value="add two skills items" />
+    <option name="LAST_COMMIT_MESSAGE" value="add two skills items" />
   </component>
 </project>

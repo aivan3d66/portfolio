@@ -1,5 +1,5 @@
 .worksContainer {
-  width: 100%;
+  min-width: 320px;
   margin: 0;
   padding: 0;
   background-color: darkseagreen;
@@ -21,18 +21,14 @@
 
 .worksList {
   display: flex;
+  flex-direction: column;
   justify-content: space-between;
+  margin: 0 auto;
 }
 
 @media (max-width: 320px) {
   .worksWrapper {
     max-width: 320px;
-  }
-
-  .worksList {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
   }
 }
 
@@ -42,7 +38,6 @@
   }
 
   .worksList {
-    display: flex;
     flex-direction: row;
     justify-content: space-between;
   }

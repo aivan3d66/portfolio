@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add upd all containers styles">
-      <change beforePath="$PROJECT_DIR$/src/components/Works/Works.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/Works.tsx" afterDir="false" />
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add fix item work id">
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,14 +92,7 @@
       <updated>1643652205192</updated>
       <workItem from="1643652207291" duration="5424000" />
       <workItem from="1643739582178" duration="8120000" />
-      <workItem from="1643781979991" duration="9401000" />
-    </task>
-    <task id="LOCAL-00008" summary="add basic WorkItem markup">
-      <created>1643657523572</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1643657523572</updated>
+      <workItem from="1643781979991" duration="9922000" />
     </task>
     <task id="LOCAL-00009" summary="add basic Works markup">
       <created>1643657529490</created>
@@ -435,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643791444946</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="add fix item work id">
+      <created>1643791629351</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1643791629351</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -454,7 +456,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add margin null of skillItem" />
     <MESSAGE value="add new sizes of skillList" />
     <MESSAGE value="add new sizes of workItem" />
     <MESSAGE value="add new contactsWrapper min width" />
@@ -479,6 +480,7 @@
     <MESSAGE value="add rebase h2 to footerWrapper" />
     <MESSAGE value="add new works item" />
     <MESSAGE value="add upd all containers styles" />
-    <option name="LAST_COMMIT_MESSAGE" value="add upd all containers styles" />
+    <MESSAGE value="add fix item work id" />
+    <option name="LAST_COMMIT_MESSAGE" value="add fix item work id" />
   </component>
 </project>

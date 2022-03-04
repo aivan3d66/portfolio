@@ -1,4 +1,4 @@
-import style from "./Works.module.css";
+import style from "./Works.module.scss";
 import {WorkItem} from "./WorkItem/WorkItem";
 
 type WorkItemType = {

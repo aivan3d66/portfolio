@@ -1,5 +1,5 @@
 import {Navigation} from "./Navigation/Navigation";
-import style from './Header.module.css';
+import style from './Header.module.scss';
 
 export const Header = () => {
   return (

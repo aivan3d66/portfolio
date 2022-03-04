@@ -1,4 +1,4 @@
-import style from './Socials.module.css';
+import style from './Socials.module.scss';
 
 export const Socials = () => {
   return (

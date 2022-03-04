@@ -1,4 +1,4 @@
-import style from "./SkillItem.module.css";
+import style from "./SkillItem.module.scss";
 import React from "react";
 
 type SkillItemType = {

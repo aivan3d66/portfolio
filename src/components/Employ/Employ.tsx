@@ -1,4 +1,4 @@
-import style from './Employ.module.css';
+import style from './Employ.module.scss';
 
 export const Employ = () => {
   return (

@@ -1,4 +1,4 @@
-import style from "./WorkItem.module.css";
+import style from "./WorkItem.module.scss";
 import React from "react";
 
 type WorkItemType = {

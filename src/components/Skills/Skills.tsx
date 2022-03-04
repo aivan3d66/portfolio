@@ -1,4 +1,4 @@
-import style from "./Skills.module.css";
+import style from "./Skills.module.scss";
 import {SkillItem} from "./SkillItem/SkillItem";
 
 type SkillItemType = {

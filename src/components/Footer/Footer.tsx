@@ -1,5 +1,5 @@
-import style from './Footer.module.css';
-import { Socials } from './Socials/Socials';
+import style from './Footer.module.scss';
+import {Socials} from './Socials/Socials';
 
 export const Footer = () => {
   return (

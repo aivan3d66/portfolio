@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add colour scheme variables">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add viewports variables">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.module.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,14 +98,7 @@
       <workItem from="1644254608208" duration="1615000" />
       <workItem from="1644850974869" duration="621000" />
       <workItem from="1646159297029" duration="712000" />
-      <workItem from="1646418365186" duration="2523000" />
-    </task>
-    <task id="LOCAL-00021" summary="add basic Socials markup style">
-      <created>1643742889698</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1643742889698</updated>
+      <workItem from="1646418365186" duration="2918000" />
     </task>
     <task id="LOCAL-00022" summary="add basic Footer markup">
       <created>1643742901481</created>
@@ -442,7 +436,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646420733494</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="add viewports variables">
+      <created>1646420907276</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1646420907276</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -461,7 +462,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add fix of skillItem margin value" />
     <MESSAGE value="add fix of skillContainer width value" />
     <MESSAGE value="add fix of socialList padding value" />
     <MESSAGE value="add fix of workItem width value" />
@@ -486,6 +486,7 @@
     <MESSAGE value="add conversion css App file to scss" />
     <MESSAGE value="add fix App scss import" />
     <MESSAGE value="add colour scheme variables" />
-    <option name="LAST_COMMIT_MESSAGE" value="add colour scheme variables" />
+    <MESSAGE value="add viewports variables" />
+    <option name="LAST_COMMIT_MESSAGE" value="add viewports variables" />
   </component>
 </project>

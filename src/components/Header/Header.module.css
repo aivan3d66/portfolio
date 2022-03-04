@@ -3,7 +3,8 @@
   width: 100%;
   margin: 0;
   padding: 0;
-  background-color: cadetblue;
+  color: #ffffff;
+  background-color: #262626;
 }
 
 .headerWrapper {
@@ -27,7 +28,6 @@
     min-width: 768px;
     margin: 0;
     padding: 0;
-    background-color: cadetblue;
   }
 
   .headerWrapper {
@@ -45,7 +45,6 @@
     width: 100%;
     margin: 0;
     padding: 0;
-    background-color: cadetblue;
   }
 
   .headerWrapper {

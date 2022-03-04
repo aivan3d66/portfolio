@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add gh-pages dependencies">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add new value skillItem margin">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Skills/SkillItem/SkillItem.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/SkillItem/SkillItem.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,14 +94,12 @@
       <workItem from="1643652207291" duration="5424000" />
       <workItem from="1643739582178" duration="8120000" />
       <workItem from="1643781979991" duration="10721000" />
-      <workItem from="1643916764801" duration="877000" />
-    </task>
-    <task id="LOCAL-00010" summary="add basic AboutMe markup">
-      <created>1643657537422</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1643657537422</updated>
+      <workItem from="1643916764801" duration="1007000" />
+      <workItem from="1643975907306" duration="199000" />
+      <workItem from="1644254608208" duration="1615000" />
+      <workItem from="1644850974869" duration="621000" />
+      <workItem from="1646159297029" duration="712000" />
+      <workItem from="1646418365186" duration="490000" />
     </task>
     <task id="LOCAL-00011" summary="add basic markup styles">
       <created>1643657575655</created>
@@ -437,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643792157975</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="add new value skillItem margin">
+      <created>1643917711011</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1643917711011</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -456,7 +463,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add new sizes of workItem" />
     <MESSAGE value="add new contactsWrapper min width" />
     <MESSAGE value="add adaptive mobile, tablet and desktop versions of Footer" />
     <MESSAGE value="add adaptive mobile, tablet and desktop versions of Socials" />
@@ -481,6 +487,7 @@
     <MESSAGE value="add upd all containers styles" />
     <MESSAGE value="add fix item work id" />
     <MESSAGE value="add gh-pages dependencies" />
-    <option name="LAST_COMMIT_MESSAGE" value="add gh-pages dependencies" />
+    <MESSAGE value="add new value skillItem margin" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new value skillItem margin" />
   </component>
 </project>

@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add sass dependencies">
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Navigation/Navigation.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Navigation/Navigation.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Navigation/Navigation.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Navigation/Navigation.tsx" afterDir="false" />
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add conversion css App file to scss">
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,28 +96,7 @@
       <workItem from="1644254608208" duration="1615000" />
       <workItem from="1644850974869" duration="621000" />
       <workItem from="1646159297029" duration="712000" />
-      <workItem from="1646418365186" duration="1214000" />
-    </task>
-    <task id="LOCAL-00016" summary="add basic Contacts markup">
-      <created>1643741711114</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1643741711114</updated>
-    </task>
-    <task id="LOCAL-00017" summary="add basic Contacts markup styles">
-      <created>1643741720014</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1643741720014</updated>
-    </task>
-    <task id="LOCAL-00018" summary="add Contacts import">
-      <created>1643741734527</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1643741734527</updated>
+      <workItem from="1646418365186" duration="1545000" />
     </task>
     <task id="LOCAL-00019" summary="add Footer directory">
       <created>1643741832319</created>
@@ -444,7 +420,28 @@
       <option name="project" value="LOCAL" />
       <updated>1646419531990</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="add conversion css files to scss">
+      <created>1646419853410</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1646419853410</updated>
+    </task>
+    <task id="LOCAL-00066" summary="add fix imports scss files">
+      <created>1646419878885</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1646419878885</updated>
+    </task>
+    <task id="LOCAL-00067" summary="add conversion css App file to scss">
+      <created>1646419910377</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1646419910377</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -463,9 +460,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add fix of Contacts width value" />
-    <MESSAGE value="add fix of Employ width value" />
-    <MESSAGE value="add fix of Footer width value" />
     <MESSAGE value="add fix of Header width value" />
     <MESSAGE value="add fix of Navlist width value" />
     <MESSAGE value="add fix of skillItem margin value" />
@@ -488,6 +482,9 @@
     <MESSAGE value="add new headerContainer font-color and bg-color" />
     <MESSAGE value="add @fortawesome/react-fontawesome dependencies" />
     <MESSAGE value="add sass dependencies" />
-    <option name="LAST_COMMIT_MESSAGE" value="add sass dependencies" />
+    <MESSAGE value="add conversion css files to scss" />
+    <MESSAGE value="add fix imports scss files" />
+    <MESSAGE value="add conversion css App file to scss" />
+    <option name="LAST_COMMIT_MESSAGE" value="add conversion css App file to scss" />
   </component>
 </project>

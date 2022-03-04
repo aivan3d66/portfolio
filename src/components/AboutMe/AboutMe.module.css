@@ -2,7 +2,6 @@
   min-width: 320px;
   margin: 0;
   padding: 0;
-  background-color: burlywood;
 }
 
 .aboutWrapper {
@@ -53,7 +52,6 @@
     max-width: 320px;
     min-height: 200px;
     margin: 0 0 40px 0;
-    background-color: darkgray;
     border: 1px solid blue;
   }
 }
@@ -84,7 +82,6 @@
     width: 300px;
     min-height: 400px;
     margin: 0;
-    background-color: darkgray;
     border: 1px solid blue;
   }
 }

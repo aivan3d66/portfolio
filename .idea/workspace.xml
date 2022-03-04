@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add viewports variables">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add new font family">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.module.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,28 +97,7 @@
       <workItem from="1644254608208" duration="1615000" />
       <workItem from="1644850974869" duration="621000" />
       <workItem from="1646159297029" duration="712000" />
-      <workItem from="1646418365186" duration="2918000" />
-    </task>
-    <task id="LOCAL-00022" summary="add basic Footer markup">
-      <created>1643742901481</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1643742901481</updated>
-    </task>
-    <task id="LOCAL-00023" summary="add basic Footer styles">
-      <created>1643742918962</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1643742918962</updated>
-    </task>
-    <task id="LOCAL-00024" summary="add Footer import">
-      <created>1643742928165</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1643742928165</updated>
+      <workItem from="1646418365186" duration="3173000" />
     </task>
     <task id="LOCAL-00025" summary="add adaptive mobile, tablet and desktop versions of Header">
       <created>1643744021422</created>
@@ -443,7 +421,28 @@
       <option name="project" value="LOCAL" />
       <updated>1646420907276</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="add fonts variables">
+      <created>1646421352449</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1646421352449</updated>
+    </task>
+    <task id="LOCAL-00072" summary="add Poppins and Josefine Sans fonts">
+      <created>1646421379492</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1646421379492</updated>
+    </task>
+    <task id="LOCAL-00073" summary="add new font family">
+      <created>1646421467252</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1646421467252</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -462,9 +461,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add fix of skillContainer width value" />
-    <MESSAGE value="add fix of socialList padding value" />
-    <MESSAGE value="add fix of workItem width value" />
     <MESSAGE value="add fix of workList markup styles" />
     <MESSAGE value="add global a styles" />
     <MESSAGE value="add fix overflow text" />
@@ -487,6 +483,9 @@
     <MESSAGE value="add fix App scss import" />
     <MESSAGE value="add colour scheme variables" />
     <MESSAGE value="add viewports variables" />
-    <option name="LAST_COMMIT_MESSAGE" value="add viewports variables" />
+    <MESSAGE value="add fonts variables" />
+    <MESSAGE value="add Poppins and Josefine Sans fonts" />
+    <MESSAGE value="add new font family" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new font family" />
   </component>
 </project>

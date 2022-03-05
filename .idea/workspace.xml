@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add text-transform titleText">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add titleText margin">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/common/BlockTitle.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/BlockTitle.module.scss" afterDir="false" />
     </list>
@@ -98,21 +98,7 @@
       <workItem from="1644850974869" duration="621000" />
       <workItem from="1646159297029" duration="712000" />
       <workItem from="1646418365186" duration="4004000" />
-      <workItem from="1646502395620" duration="7064000" />
-    </task>
-    <task id="LOCAL-00043" summary="add fix of Header width value">
-      <created>1643784235430</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1643784235430</updated>
-    </task>
-    <task id="LOCAL-00044" summary="add fix of Navlist width value">
-      <created>1643784255522</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1643784255522</updated>
+      <workItem from="1646502395620" duration="7250000" />
     </task>
     <task id="LOCAL-00045" summary="add fix of skillItem margin value">
       <created>1643784276963</created>
@@ -443,7 +429,21 @@
       <option name="project" value="LOCAL" />
       <updated>1646511567819</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="add titleWrapper padding">
+      <created>1646512074798</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1646512074798</updated>
+    </task>
+    <task id="LOCAL-00093" summary="add titleText margin">
+      <created>1646512083389</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1646512083389</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -462,8 +462,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add conversion css App file to scss" />
-    <MESSAGE value="add fix App scss import" />
     <MESSAGE value="add colour scheme variables" />
     <MESSAGE value="add viewports variables" />
     <MESSAGE value="add fonts variables" />
@@ -487,6 +485,8 @@
     <MESSAGE value="add new default bg-color" />
     <MESSAGE value="add upd of default bg-color" />
     <MESSAGE value="add text-transform titleText" />
-    <option name="LAST_COMMIT_MESSAGE" value="add text-transform titleText" />
+    <MESSAGE value="add titleWrapper padding" />
+    <MESSAGE value="add titleText margin" />
+    <option name="LAST_COMMIT_MESSAGE" value="add titleText margin" />
   </component>
 </project>

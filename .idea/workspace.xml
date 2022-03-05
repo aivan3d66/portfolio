@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add BlockTitle styles">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add substitute h2 tag by BlockTitle">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/BlockTitle.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/BlockTitle.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/BlockTitle.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/BlockTitle.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Contacts/Contacts.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts/Contacts.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Employ/Employ.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Employ/Employ.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Works/Works.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/Works.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,28 +99,7 @@
       <workItem from="1644850974869" duration="621000" />
       <workItem from="1646159297029" duration="712000" />
       <workItem from="1646418365186" duration="4004000" />
-      <workItem from="1646502395620" duration="2053000" />
-    </task>
-    <task id="LOCAL-00030" summary="add new Skills max-width">
-      <created>1643745924964</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1643745924964</updated>
-    </task>
-    <task id="LOCAL-00031" summary="add min width of headerWrapper">
-      <created>1643746492455</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1643746492455</updated>
-    </task>
-    <task id="LOCAL-00032" summary="add margin null of skillItem">
-      <created>1643746510022</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1643746510022</updated>
+      <workItem from="1646502395620" duration="3375000" />
     </task>
     <task id="LOCAL-00033" summary="add new sizes of skillList">
       <created>1643746536623</created>
@@ -448,7 +423,28 @@
       <option name="project" value="LOCAL" />
       <updated>1646506652008</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="add BlockTitle titleText styles">
+      <created>1646507075557</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1646507075557</updated>
+    </task>
+    <task id="LOCAL-00080" summary="add BlockTitle title props">
+      <created>1646507089870</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1646507089870</updated>
+    </task>
+    <task id="LOCAL-00081" summary="add substitute h2 tag by BlockTitle">
+      <created>1646507124127</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1646507124127</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -467,9 +463,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add rebase h2 to footerWrapper" />
-    <MESSAGE value="add new works item" />
-    <MESSAGE value="add upd all containers styles" />
     <MESSAGE value="add fix item work id" />
     <MESSAGE value="add gh-pages dependencies" />
     <MESSAGE value="add new value skillItem margin" />
@@ -492,6 +485,9 @@
     <MESSAGE value="add faReact import" />
     <MESSAGE value="add BlockTitle component" />
     <MESSAGE value="add BlockTitle styles" />
-    <option name="LAST_COMMIT_MESSAGE" value="add BlockTitle styles" />
+    <MESSAGE value="add BlockTitle titleText styles" />
+    <MESSAGE value="add BlockTitle title props" />
+    <MESSAGE value="add substitute h2 tag by BlockTitle" />
+    <option name="LAST_COMMIT_MESSAGE" value="add substitute h2 tag by BlockTitle" />
   </component>
 </project>

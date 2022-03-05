@@ -3,10 +3,10 @@ import React from "react";
 
 type WorkItemType = {
   title: string,
-  text: string
+  description: string
 }
 
-export const WorkItem: React.FC<WorkItemType> = ({title, text}) => {
+export const WorkItem: React.FC<WorkItemType> = ({title, description}) => {
   return (
     <div className={style.workItem}>
       <div className={style.workPreview}>
@@ -14,7 +14,7 @@ export const WorkItem: React.FC<WorkItemType> = ({title, text}) => {
       </div>
       <div className={style.workDescription}>
         <div className={style.workItem__title}>{title}</div>
-        <div className={style.workItem__text}>{text}</div>
+        <div className={style.workItem__text}>{description}</div>
       </div>
     </div>
   )

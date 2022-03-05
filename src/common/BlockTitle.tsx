@@ -8,7 +8,7 @@ type BlockTitleType = {
 export const BlockTitle: React.FC<BlockTitleType> = ({title}) => {
   return (
     <div className={s.titleWrapper}>
-      <h2 className={s.titleText}>My skills</h2>
+      <h2 className={s.titleText}>{title}</h2>
       <span className={s.titleLine}></span>
     </div>
   )

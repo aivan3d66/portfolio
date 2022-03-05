@@ -1,5 +1,6 @@
 import style from "./Works.module.scss";
 import {WorkItem} from "./WorkItem/WorkItem";
+import {BlockTitle} from "../../common/BlockTitle";
 
 type WorkItemType = {
   id: number,
@@ -21,7 +22,7 @@ export const Works = () => {
 
   return (
     <section className={style.worksContainer}>
-      <h2>My works</h2>
+      <BlockTitle title={"My works"}/>
       <div className={style.worksWrapper}>
         <div className={style.worksList}>
           {worksList}

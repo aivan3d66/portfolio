@@ -1,5 +1,6 @@
 import style from "./Skills.module.scss";
 import {SkillItem} from "./SkillItem/SkillItem";
+import {BlockTitle} from "../../common/BlockTitle";
 
 type SkillItemType = {
   id: number,
@@ -23,7 +24,7 @@ export const Skills = () => {
 
   return (
     <section className={style.skillsContainer}>
-      <h2>My skills</h2>
+      <BlockTitle title={"My skills"}/>
       <div className={style.skillsWrapper}>
         <div className={style.skillsList}>
           {skillsList}

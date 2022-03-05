@@ -1,9 +1,11 @@
 import style from "./Contacts.module.scss";
+import {BlockTitle} from "../../common/BlockTitle";
 
 export const Contacts = () => {
   return (
     <section className={style.contactsContainer}>
-      <h2>Contacts</h2>
+      <BlockTitle title={"Contacts"}/>
+
       <div className={style.contactsWrapper}>
         <form className={style.contactsForm} action="#">
           <div className={style.contactsForm__fields}>

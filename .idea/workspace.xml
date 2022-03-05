@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add upd of default bg-color">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add text-transform titleText">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/common/BlockTitle.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/BlockTitle.module.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,14 +98,7 @@
       <workItem from="1644850974869" duration="621000" />
       <workItem from="1646159297029" duration="712000" />
       <workItem from="1646418365186" duration="4004000" />
-      <workItem from="1646502395620" duration="6570000" />
-    </task>
-    <task id="LOCAL-00042" summary="add fix of Footer width value">
-      <created>1643784225316</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1643784225316</updated>
+      <workItem from="1646502395620" duration="7064000" />
     </task>
     <task id="LOCAL-00043" summary="add fix of Header width value">
       <created>1643784235430</created>
@@ -442,7 +436,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646511380728</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="add text-transform titleText">
+      <created>1646511567819</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1646511567819</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -461,7 +462,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add fix imports scss files" />
     <MESSAGE value="add conversion css App file to scss" />
     <MESSAGE value="add fix App scss import" />
     <MESSAGE value="add colour scheme variables" />
@@ -486,6 +486,7 @@
     <MESSAGE value="add new class names" />
     <MESSAGE value="add new default bg-color" />
     <MESSAGE value="add upd of default bg-color" />
-    <option name="LAST_COMMIT_MESSAGE" value="add upd of default bg-color" />
+    <MESSAGE value="add text-transform titleText" />
+    <option name="LAST_COMMIT_MESSAGE" value="add text-transform titleText" />
   </component>
 </project>

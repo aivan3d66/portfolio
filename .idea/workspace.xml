@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add substitute h2 tag by BlockTitle">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add upd projects">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Works/Works.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/Works.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,21 +98,7 @@
       <workItem from="1644850974869" duration="621000" />
       <workItem from="1646159297029" duration="712000" />
       <workItem from="1646418365186" duration="4004000" />
-      <workItem from="1646502395620" duration="3375000" />
-    </task>
-    <task id="LOCAL-00033" summary="add new sizes of skillList">
-      <created>1643746536623</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1643746536623</updated>
-    </task>
-    <task id="LOCAL-00034" summary="add new sizes of workItem">
-      <created>1643746552331</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1643746552331</updated>
+      <workItem from="1646502395620" duration="3697000" />
     </task>
     <task id="LOCAL-00035" summary="add new contactsWrapper min width">
       <created>1643747261974</created>
@@ -444,7 +429,21 @@
       <option name="project" value="LOCAL" />
       <updated>1646507124127</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="add rename text - description">
+      <created>1646508437069</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1646508437069</updated>
+    </task>
+    <task id="LOCAL-00083" summary="add upd projects">
+      <created>1646508458258</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1646508458258</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -463,8 +462,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add fix item work id" />
-    <MESSAGE value="add gh-pages dependencies" />
     <MESSAGE value="add new value skillItem margin" />
     <MESSAGE value="delete aboutContainer bg-colour" />
     <MESSAGE value="add body bg-colour" />
@@ -488,6 +485,8 @@
     <MESSAGE value="add BlockTitle titleText styles" />
     <MESSAGE value="add BlockTitle title props" />
     <MESSAGE value="add substitute h2 tag by BlockTitle" />
-    <option name="LAST_COMMIT_MESSAGE" value="add substitute h2 tag by BlockTitle" />
+    <MESSAGE value="add rename text - description" />
+    <MESSAGE value="add upd projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="add upd projects" />
   </component>
 </project>

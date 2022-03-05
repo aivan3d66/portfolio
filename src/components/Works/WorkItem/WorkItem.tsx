@@ -13,8 +13,8 @@ export const WorkItem: React.FC<WorkItemType> = ({title, description}) => {
         <a className={style.workPreview__link} href={'#'}>Look</a>
       </div>
       <div className={style.workDescription}>
-        <div className={style.workItem__title}>{title}</div>
-        <div className={style.workItem__text}>{description}</div>
+        <h3 className={style.workItem__title}>{title}</h3>
+        <p className={style.workItem__text}>{description}</p>
       </div>
     </div>
   )

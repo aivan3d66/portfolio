@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add submit type">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add new class names">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/BlockTitle.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/BlockTitle.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Contacts/Contacts.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts/Contacts.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Employ/Employ.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Employ/Employ.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Footer/Footer.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Works/Works.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/Works.module.scss" afterDir="false" />
     </list>
@@ -103,28 +104,7 @@
       <workItem from="1644850974869" duration="621000" />
       <workItem from="1646159297029" duration="712000" />
       <workItem from="1646418365186" duration="4004000" />
-      <workItem from="1646502395620" duration="4978000" />
-    </task>
-    <task id="LOCAL-00037" summary="add adaptive mobile, tablet and desktop versions of Socials">
-      <created>1643747334864</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1643747334864</updated>
-    </task>
-    <task id="LOCAL-00038" summary="add correct Header container width">
-      <created>1643747623022</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1643747623022</updated>
-    </task>
-    <task id="LOCAL-00039" summary="add fix of AboutMe markup styles">
-      <created>1643784172478</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1643784172478</updated>
+      <workItem from="1646502395620" duration="6325000" />
     </task>
     <task id="LOCAL-00040" summary="add fix of Contacts width value">
       <created>1643784203259</created>
@@ -448,7 +428,28 @@
       <option name="project" value="LOCAL" />
       <updated>1646509290338</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="add new titleText styles">
+      <created>1646509975600</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1646509975600</updated>
+    </task>
+    <task id="LOCAL-00087" summary="delete all titleText (h2) styles">
+      <created>1646509998000</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1646509998000</updated>
+    </task>
+    <task id="LOCAL-00088" summary="add new class names">
+      <created>1646510136159</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1646510136159</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -467,9 +468,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add body bg-colour" />
-    <MESSAGE value="add new headerContainer font-color and bg-color" />
-    <MESSAGE value="add @fortawesome/react-fontawesome dependencies" />
     <MESSAGE value="add sass dependencies" />
     <MESSAGE value="add conversion css files to scss" />
     <MESSAGE value="add fix imports scss files" />
@@ -492,6 +490,9 @@
     <MESSAGE value="add upd projects" />
     <MESSAGE value="add valid tags" />
     <MESSAGE value="add submit type" />
-    <option name="LAST_COMMIT_MESSAGE" value="add submit type" />
+    <MESSAGE value="add new titleText styles" />
+    <MESSAGE value="delete all titleText (h2) styles" />
+    <MESSAGE value="add new class names" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new class names" />
   </component>
 </project>

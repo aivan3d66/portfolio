@@ -5,9 +5,9 @@ export const AboutMe = () => {
     <section className={style.aboutContainer}>
       <div className={style.aboutWrapper}>
         <div className={style.aboutText}>
-          <span>Hello!</span>
-          <span>My name is Ivan Adamouski</span>
-          <span>I am a Front-end developer</span>
+          <span className={style.aboutText__greeting}>Hello there!</span>
+          <span className={style.aboutText__name}>My name is Ivan Adamouski</span>
+          <span className={style.aboutText__profession}>And I am a Front-end Developer</span>
         </div>
         <div className={style.aboutImage}>
           *beautiful me*

@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add bg-img styles to props">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add bg-img styles type">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.module.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,14 +100,7 @@
       <workItem from="1646159297029" duration="712000" />
       <workItem from="1646418365186" duration="4004000" />
       <workItem from="1646502395620" duration="7823000" />
-      <workItem from="1646586819834" duration="7208000" />
-    </task>
-    <task id="LOCAL-00058" summary="add gh-pages dependencies">
-      <created>1643792157975</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1643792157975</updated>
+      <workItem from="1646586819834" duration="7325000" />
     </task>
     <task id="LOCAL-00059" summary="add new value skillItem margin">
       <created>1643917711011</created>
@@ -445,7 +438,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646598051300</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="add bg-img styles type">
+      <created>1646598114249</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1646598114249</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -464,7 +464,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add rename text - description" />
     <MESSAGE value="add upd projects" />
     <MESSAGE value="add valid tags" />
     <MESSAGE value="add submit type" />
@@ -489,6 +488,7 @@
     <MESSAGE value="add default bg-img styles" />
     <MESSAGE value="add img imports" />
     <MESSAGE value="add bg-img styles to props" />
-    <option name="LAST_COMMIT_MESSAGE" value="add bg-img styles to props" />
+    <MESSAGE value="add bg-img styles type" />
+    <option name="LAST_COMMIT_MESSAGE" value="add bg-img styles type" />
   </component>
 </project>

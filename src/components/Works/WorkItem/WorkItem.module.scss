@@ -21,6 +21,18 @@
   background-size: cover;
 }
 
+.workPreview::before {
+  position: absolute;
+  z-index: 0;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  content: '';
+  background-color: #000000;
+  opacity: 0.4;
+}
+
 .workPreview__link {
   position: relative;
   z-index: 1;

@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add workDescription font styles">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add workPreview__link styles">
+      <change afterPath="$PROJECT_DIR$/src/assets/images/social.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/todos.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/trip.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Works/Works.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/Works.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,14 +103,7 @@
       <workItem from="1646159297029" duration="712000" />
       <workItem from="1646418365186" duration="4004000" />
       <workItem from="1646502395620" duration="7823000" />
-      <workItem from="1646586819834" duration="4584000" />
-    </task>
-    <task id="LOCAL-00053" summary="add fix height of all components">
-      <created>1643788216560</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1643788216560</updated>
+      <workItem from="1646586819834" duration="5383000" />
     </task>
     <task id="LOCAL-00054" summary="add rebase h2 to footerWrapper">
       <created>1643791413621</created>
@@ -445,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646593837233</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="add workPreview__link styles">
+      <created>1646595449832</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1646595449832</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -464,7 +467,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add BlockTitle component" />
     <MESSAGE value="add BlockTitle styles" />
     <MESSAGE value="add BlockTitle titleText styles" />
     <MESSAGE value="add BlockTitle title props" />
@@ -489,6 +491,7 @@
     <MESSAGE value="add new Skills items" />
     <MESSAGE value="add workDescription font family" />
     <MESSAGE value="add workDescription font styles" />
-    <option name="LAST_COMMIT_MESSAGE" value="add workDescription font styles" />
+    <MESSAGE value="add workPreview__link styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="add workPreview__link styles" />
   </component>
 </project>

@@ -31,8 +31,10 @@
 .workDescription {
   padding: 0 20px;
   text-align: left;
-  border: 1px solid blue;
+  color: #ffffff;
   font-family: 'Josefin Sans', sans-serif;
+  font-size: 16px;
+  letter-spacing: 1px;
 }
 
 .workItem__title {
@@ -40,14 +42,12 @@
   font-weight: bold;
   overflow: hidden;
   text-overflow: ellipsis;
-  background-color: darkgray;
 }
 
 .workItem__text {
   margin: 20px 0;
   overflow: hidden;
   text-overflow: ellipsis;
-  background-color: darkgray;
 }
 
 @media (min-width: 768px) {

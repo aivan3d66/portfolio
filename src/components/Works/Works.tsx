@@ -25,14 +25,17 @@ export const Works = () => {
       <div className={style.worksWrapper}>
         <div className={style.worksList}>
           <WorkItem
+            style={todoListBgImg}
             title={"Todo List"}
             description={"Simple todo list with storage of data on remote server. Technology stack: React, Redux, REST API, Storybook, Unit and snapshot tests"}
           />
           <WorkItem
+            style={socialNetworkBgImg}
             title={"Social Network"}
             description={"Mini-version of Social network. It is possible to write messages to another users, add posts, and search for new friends."}
           />
           <WorkItem
+            style={bigTripBgImg}
             title={"Big trip"}
             description={"Features: The MVP architectural pattern is used, based on the Object-oriented programming (classes)"}
           />

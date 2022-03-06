@@ -1,5 +1,5 @@
 import style from './Employ.module.scss';
-import {BlockTitle} from "../../common/BlockTitle";
+import {BlockTitle} from "../../common/Title/BlockTitle";
 
 export const Employ = () => {
   return (

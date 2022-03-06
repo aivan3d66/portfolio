@@ -1,6 +1,6 @@
 import style from "./Skills.module.scss";
 import {SkillItem} from "./SkillItem/SkillItem";
-import {BlockTitle} from "../../common/BlockTitle";
+import {BlockTitle} from "../../common/Title/BlockTitle";
 
 type SkillItemType = {
   id: number,

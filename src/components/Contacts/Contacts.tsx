@@ -1,5 +1,5 @@
 import style from "./Contacts.module.scss";
-import {BlockTitle} from "../../common/BlockTitle";
+import {BlockTitle} from "../../common/Title/BlockTitle";
 
 export const Contacts = () => {
   return (

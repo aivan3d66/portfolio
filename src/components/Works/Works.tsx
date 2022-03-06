@@ -1,6 +1,6 @@
 import style from "./Works.module.scss";
 import {WorkItem} from "./WorkItem/WorkItem";
-import {BlockTitle} from "../../common/BlockTitle";
+import {BlockTitle} from "../../common/Title/BlockTitle";
 
 export const Works = () => {
   return (

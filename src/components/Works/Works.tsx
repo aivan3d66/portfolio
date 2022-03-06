@@ -1,19 +1,22 @@
 import style from "./Works.module.scss";
 import {WorkItem} from "./WorkItem/WorkItem";
 import {BlockTitle} from "../../common/Title/BlockTitle";
-import todos from "./../../assets/images/todos.png";
-import trip from "./../../assets/images/trip.png"
-import social from "./../../assets/images/social.png"
+// @ts-ignore
+import todos from "../../assets/images/todos.PNG";
+// @ts-ignore
+import trip from "./../../assets/images/trip.PNG";
+// @ts-ignore
+import social from "./../../assets/images/social.PNG";
 
 export const Works = () => {
   const todoListBgImg = {
-    backgroundImage: 'url(' + todos + ')',
+    backgroundImage: `url(${todos})`,
   };
   const socialNetworkBgImg = {
-    backgroundImage: 'url(' + trip + ')',
+    backgroundImage: `url(${trip})`,
   };
   const bigTripBgImg = {
-    backgroundImage: 'url(' + social + ')',
+    backgroundImage: `url(${social})`,
   };
 
   return (

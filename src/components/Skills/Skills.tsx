@@ -10,24 +10,31 @@ type SkillItemType = {
 type SkillsType = Array<SkillItemType>
 
 export const Skills = () => {
-  const skills: SkillsType = [
-    {id: 1, title: "React", text: "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."},
-    {id: 2, title: "React", text: "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."},
-    {id: 3, title: "React", text: "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."},
-    {id: 4, title: "React", text: "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."},
-    {id: 5, title: "React", text: "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."},
-  ];
-
-  const skillsList = skills.map(skill => <SkillItem title={skill.title}
-                                                    key={skill.id}
-                                                    text={skill.text}/>)
-
   return (
     <section className={style.skillsContainer}>
       <BlockTitle title={"My skills"}/>
       <div className={style.skillsWrapper}>
         <div className={style.skillsList}>
-          {skillsList}
+          <SkillItem
+            title={"JavaScript"}
+            text={"Every programmer has once killed entire hours to a funny little problem - two parameters, not in the order, variable that's somewhere with a big letter, but somewhere else not (Thank you JavaScript!"}
+          />
+          <SkillItem
+            title={"TypeScript"}
+            text={"This thing helps to love JavaScript"}
+          />
+          <SkillItem
+            title={"React"}
+            text={"Library? Software framework? We can argue on this subject for a very long time, and it doesn 't make any sense"}
+          />
+          <SkillItem
+            title={"Redux"}
+            text={"A powerful library of state management for the proper construction of an application architecture"}
+          />
+          <SkillItem
+            title={"Unit test / Jest"}
+            text={"TDD -  correct the error before the millions of your nerve cells die"}
+          />
         </div>
       </div>
     </section>

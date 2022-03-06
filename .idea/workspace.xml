@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add upd workItem styles">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add upd workPreview before styles">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.module.scss" afterDir="false" />
     </list>
@@ -100,21 +100,7 @@
       <workItem from="1646159297029" duration="712000" />
       <workItem from="1646418365186" duration="4004000" />
       <workItem from="1646502395620" duration="7823000" />
-      <workItem from="1646586819834" duration="7998000" />
-    </task>
-    <task id="LOCAL-00061" summary="add body bg-colour">
-      <created>1646418912676</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1646418912676</updated>
-    </task>
-    <task id="LOCAL-00062" summary="add new headerContainer font-color and bg-color">
-      <created>1646418940171</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1646418940171</updated>
+      <workItem from="1646586819834" duration="8263000" />
     </task>
     <task id="LOCAL-00063" summary="add @fortawesome/react-fontawesome dependencies">
       <created>1646419465610</created>
@@ -445,7 +431,21 @@
       <option name="project" value="LOCAL" />
       <updated>1646598489313</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary="add upd workPreview__link hover styles">
+      <created>1646598920480</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1646598920480</updated>
+    </task>
+    <task id="LOCAL-00111" summary="add upd workPreview before styles">
+      <created>1646598931719</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1646598931719</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -464,8 +464,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add submit type" />
-    <MESSAGE value="add new titleText styles" />
     <MESSAGE value="delete all titleText (h2) styles" />
     <MESSAGE value="add new class names" />
     <MESSAGE value="add new default bg-color" />
@@ -489,6 +487,8 @@
     <MESSAGE value="add bg-img styles type" />
     <MESSAGE value="add workPreview bg styles" />
     <MESSAGE value="add upd workItem styles" />
-    <option name="LAST_COMMIT_MESSAGE" value="add upd workItem styles" />
+    <MESSAGE value="add upd workPreview__link hover styles" />
+    <MESSAGE value="add upd workPreview before styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="add upd workPreview before styles" />
   </component>
 </project>

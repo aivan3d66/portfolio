@@ -1,0 +1,27 @@
+// Colour scheme
+
+$basic_black: #000000;
+$basic_white: #ffffff;
+$basic_green: #68b738;
+$basic_blue: #007bff;
+
+$special_blue: #4e93e6;
+$special_dark-gray: #1f1f20;
+$special_dark-gray-1: #343a40;
+$special_dark-gray-2: #252527;
+$special_dark-gray-3: rgba(255,255,255,0.1);
+
+$status_error: #dc3545;
+$basic_success: #68b738;
+$status_warning: #ffc107;
+
+// Fonts
+
+$basic_font: "Poppins", sans-serif;
+$additional_font: "Josefin Sans", sans-serif;
+
+// Viewports
+
+$mobile-width-only: 320px;
+$tablet-width: 768px;
+$desktop-width: 1120px;

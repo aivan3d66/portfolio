@@ -26,6 +26,15 @@
   border: 1px solid blue;
 }
 
+.aboutText__greeting {
+  font-size: 16px;
+}
+
+.aboutText__name {
+  font-weight: 400;
+  font-size: 50px;
+}
+
 .aboutImage {
   max-width: 320px;
   min-height: 200px;
@@ -70,12 +79,12 @@
   .aboutText {
     display: flex;
     flex-direction: column;
-    min-width: 300px;
+    min-width: 470px;
     min-height: 100px;
     margin: 20px 0;
 
     text-align: left;
-    font-size: 22px;
+    font-size: 26px;
     border: 1px solid blue;
   }
 
@@ -90,10 +99,5 @@
 @media (min-width: 1120px) {
   .aboutWrapper {
     max-width: 1120px;
-  }
-
-  .aboutText {
-    min-width: 400px;
-    font-size: 26px;
   }
 }

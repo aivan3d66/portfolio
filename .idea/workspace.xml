@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add workPreview__link styles">
-      <change afterPath="$PROJECT_DIR$/src/assets/images/social.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/todos.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/trip.PNG" afterDir="false" />
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add bg-img styles to props">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Works/Works.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/Works.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,35 +100,7 @@
       <workItem from="1646159297029" duration="712000" />
       <workItem from="1646418365186" duration="4004000" />
       <workItem from="1646502395620" duration="7823000" />
-      <workItem from="1646586819834" duration="5383000" />
-    </task>
-    <task id="LOCAL-00054" summary="add rebase h2 to footerWrapper">
-      <created>1643791413621</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1643791413621</updated>
-    </task>
-    <task id="LOCAL-00055" summary="add new works item">
-      <created>1643791427773</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1643791427773</updated>
-    </task>
-    <task id="LOCAL-00056" summary="add upd all containers styles">
-      <created>1643791444946</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1643791444946</updated>
-    </task>
-    <task id="LOCAL-00057" summary="add fix item work id">
-      <created>1643791629351</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1643791629351</updated>
+      <workItem from="1646586819834" duration="7208000" />
     </task>
     <task id="LOCAL-00058" summary="add gh-pages dependencies">
       <created>1643792157975</created>
@@ -448,7 +417,35 @@
       <option name="project" value="LOCAL" />
       <updated>1646595449832</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="add default img's">
+      <created>1646596278211</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1646596278211</updated>
+    </task>
+    <task id="LOCAL-00104" summary="add default bg-img styles">
+      <created>1646596293459</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1646596293459</updated>
+    </task>
+    <task id="LOCAL-00105" summary="add img imports">
+      <created>1646598032018</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1646598032018</updated>
+    </task>
+    <task id="LOCAL-00106" summary="add bg-img styles to props">
+      <created>1646598051300</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1646598051300</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -467,10 +464,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add BlockTitle styles" />
-    <MESSAGE value="add BlockTitle titleText styles" />
-    <MESSAGE value="add BlockTitle title props" />
-    <MESSAGE value="add substitute h2 tag by BlockTitle" />
     <MESSAGE value="add rename text - description" />
     <MESSAGE value="add upd projects" />
     <MESSAGE value="add valid tags" />
@@ -492,6 +485,10 @@
     <MESSAGE value="add workDescription font family" />
     <MESSAGE value="add workDescription font styles" />
     <MESSAGE value="add workPreview__link styles" />
-    <option name="LAST_COMMIT_MESSAGE" value="add workPreview__link styles" />
+    <MESSAGE value="add default img's" />
+    <MESSAGE value="add default bg-img styles" />
+    <MESSAGE value="add img imports" />
+    <MESSAGE value="add bg-img styles to props" />
+    <option name="LAST_COMMIT_MESSAGE" value="add bg-img styles to props" />
   </component>
 </project>

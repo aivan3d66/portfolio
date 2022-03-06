@@ -1,8 +1,21 @@
 import style from "./Works.module.scss";
 import {WorkItem} from "./WorkItem/WorkItem";
 import {BlockTitle} from "../../common/Title/BlockTitle";
+import todos from "./../../assets/images/todos.png";
+import trip from "./../../assets/images/trip.png"
+import social from "./../../assets/images/social.png"
 
 export const Works = () => {
+  const todoListBgImg = {
+    backgroundImage: 'url(' + todos + ')',
+  };
+  const socialNetworkBgImg = {
+    backgroundImage: 'url(' + trip + ')',
+  };
+  const bigTripBgImg = {
+    backgroundImage: 'url(' + social + ')',
+  };
+
   return (
     <section className={style.worksContainer}>
       <BlockTitle title={"My works"}/>

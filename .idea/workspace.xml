@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add upd workPreview__link paddings">
-      <change afterPath="$PROJECT_DIR$/src/components/styles/variables.scss" afterDir="false" />
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add variables file to src folder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/variables.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +62,7 @@
       <recent name="E:\rjs\portfolio\src\components\Skills\SkillItem" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\rjs\portfolio\src" />
       <recent name="E:\rjs\portfolio\src\common\Title" />
       <recent name="E:\rjs\portfolio\src\components\Works\WorkItem" />
       <recent name="E:\rjs\portfolio\src\components" />
@@ -101,28 +102,7 @@
       <workItem from="1646159297029" duration="712000" />
       <workItem from="1646418365186" duration="4004000" />
       <workItem from="1646502395620" duration="7823000" />
-      <workItem from="1646586819834" duration="9059000" />
-    </task>
-    <task id="LOCAL-00064" summary="add sass dependencies">
-      <created>1646419531990</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1646419531990</updated>
-    </task>
-    <task id="LOCAL-00065" summary="add conversion css files to scss">
-      <created>1646419853410</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1646419853410</updated>
-    </task>
-    <task id="LOCAL-00066" summary="add fix imports scss files">
-      <created>1646419878885</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1646419878885</updated>
+      <workItem from="1646586819834" duration="9618000" />
     </task>
     <task id="LOCAL-00067" summary="add conversion css App file to scss">
       <created>1646419910377</created>
@@ -446,7 +426,28 @@
       <option name="project" value="LOCAL" />
       <updated>1646599174468</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="delete variables">
+      <created>1646600083439</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1646600083439</updated>
+    </task>
+    <task id="LOCAL-00114" summary="add variables file">
+      <created>1646600092550</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1646600092550</updated>
+    </task>
+    <task id="LOCAL-00115" summary="add variables file to src folder">
+      <created>1646600580775</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1646600580775</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -465,9 +466,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add new class names" />
-    <MESSAGE value="add new default bg-color" />
-    <MESSAGE value="add upd of default bg-color" />
     <MESSAGE value="add text-transform titleText" />
     <MESSAGE value="add titleWrapper padding" />
     <MESSAGE value="add titleText margin" />
@@ -490,6 +488,9 @@
     <MESSAGE value="add upd workPreview__link hover styles" />
     <MESSAGE value="add upd workPreview before styles" />
     <MESSAGE value="add upd workPreview__link paddings" />
-    <option name="LAST_COMMIT_MESSAGE" value="add upd workPreview__link paddings" />
+    <MESSAGE value="delete variables" />
+    <MESSAGE value="add variables file" />
+    <MESSAGE value="add variables file to src folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="add variables file to src folder" />
   </component>
 </project>

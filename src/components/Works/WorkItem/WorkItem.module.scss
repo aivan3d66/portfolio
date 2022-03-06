@@ -1,3 +1,5 @@
+@import "./src/styles/variables";
+
 .workItem {
   flex-grow: 1;
   flex-wrap: wrap;
@@ -6,7 +8,7 @@
   margin: 0 auto 40px auto;
   text-align: center;
   font-family: 'Josefin Sans', sans-serif;
-  background-color: #252527;
+  background-color: $special_dark-gray-2;
 }
 
 .workPreview {
@@ -29,7 +31,7 @@
   left: 0;
   right: 0;
   content: '';
-  background-color: #000000;
+  background-color: $basic_black;
   opacity: 0.4;
 }
 
@@ -42,19 +44,19 @@
   font-size: 20px;
   vertical-align: center;
   text-transform: uppercase;
-  background-color: rgba(194, 194, 194, 0.7);
+  background-color: $special_light-gray;
   transition: 0.3s;
 
   &:hover {
-    color: #4e93e6;
-    background-color: #ffffff;
+    color: $special_blue;
+    background-color: $basic_white;
   }
 }
 
 .workDescription {
   padding: 0 20px;
   text-align: left;
-  color: #ffffff;
+  color: $basic_white;
   font-family: 'Josefin Sans', sans-serif;
   font-size: 16px;
   letter-spacing: 1px;

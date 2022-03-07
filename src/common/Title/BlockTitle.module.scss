@@ -1,3 +1,5 @@
+@import "./src/styles/variables";
+
 .titleWrapper {
   padding: 30px 0;
 }
@@ -8,7 +10,7 @@
   padding: 0;
   text-align: center;
   text-transform: capitalize;
-  font-family: "Josefin Sans", sans-serif;
+  font-family: $basic_font;
   font-size: 36px;
   line-height: 1.2;
   letter-spacing: 5px;
@@ -22,6 +24,6 @@
   left: 50%;
   width: 55px;
   height: 1px;
-  background-color: #4e93e6;
+  background-color: $special_blue;
   transform: translate(-50%, 50%);
 }

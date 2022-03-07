@@ -45,7 +45,7 @@
   z-index: 1;
   width: 50px;
   height: auto;
-  margin: 12px auto 0 auto;
+  margin: 12px auto 20px auto;
   color: $special_blue;
 }
 
@@ -58,6 +58,10 @@
   .skillsList {
     display: flex;
     flex-direction: column;
+
+    li {
+      margin: 40px 0;
+    }
   }
 }
 

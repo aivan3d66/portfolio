@@ -1,3 +1,5 @@
+@import "./src/styles/variables";
+
 .contactsContainer {
   min-width: 320px;
   margin: 0;
@@ -45,14 +47,14 @@
   margin: 20px auto;
 }
 
-@media (max-width: 320px) {
+@media (max-width: $mobile-width-only) {
   .contactsWrapper {
     max-width: 320px;
     margin: 0 auto;
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: $tablet-width) {
   .contactsWrapper {
     min-width: 768px;
   }

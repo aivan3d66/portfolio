@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add React-icons imports">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" afterDir="false" />
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add skillItem__img pseudo background">
+      <change beforePath="$PROJECT_DIR$/src/components/Works/Works.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/Works.module.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,20 +103,6 @@
       <workItem from="1646502395620" duration="7823000" />
       <workItem from="1646586819834" duration="9697000" />
       <workItem from="1646634027557" duration="3530000" />
-    </task>
-    <task id="LOCAL-00089" summary="add new default bg-color">
-      <created>1646511352408</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1646511352408</updated>
-    </task>
-    <task id="LOCAL-00090" summary="add upd of default bg-color">
-      <created>1646511380728</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1646511380728</updated>
     </task>
     <task id="LOCAL-00091" summary="add text-transform titleText">
       <created>1646511567819</created>
@@ -449,7 +433,21 @@
       <option name="project" value="LOCAL" />
       <updated>1646641543211</updated>
     </task>
-    <option name="localTasksCounter" value="138" />
+    <task id="LOCAL-00138" summary="add new Skill item">
+      <created>1646642660730</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1646642660730</updated>
+    </task>
+    <task id="LOCAL-00139" summary="add skillItem__img pseudo background">
+      <created>1646642687478</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1646642687478</updated>
+    </task>
+    <option name="localTasksCounter" value="140" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -468,8 +466,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="delete variables" />
-    <MESSAGE value="add variables file" />
     <MESSAGE value="add variables file to src folder" />
     <MESSAGE value="add special_light-gray variable" />
     <MESSAGE value="add substitute colours bu colours variables" />
@@ -493,6 +489,8 @@
     <MESSAGE value="delete fortawesome dependencies" />
     <MESSAGE value="add React-icons dependencies" />
     <MESSAGE value="add React-icons imports" />
-    <option name="LAST_COMMIT_MESSAGE" value="add React-icons imports" />
+    <MESSAGE value="add new Skill item" />
+    <MESSAGE value="add skillItem__img pseudo background" />
+    <option name="LAST_COMMIT_MESSAGE" value="add skillItem__img pseudo background" />
   </component>
 </project>

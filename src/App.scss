@@ -1,3 +1,5 @@
+@import "./src/styles/variables";
+
 html {
   height: 100%;
   overflow-x: hidden;
@@ -15,7 +17,7 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
-  background-color: #1f1f20;
+  background-color: $special_dark-gray;
 }
 
 ul {

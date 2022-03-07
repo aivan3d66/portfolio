@@ -24,7 +24,6 @@
   text-align: center;
   font-size: 18px;
   font-weight: 300;
-  border: 1px solid blue;
 }
 
 .aboutText__greeting {
@@ -60,7 +59,6 @@
   position: relative;
   max-width: 320px;
   margin: 0 auto 40px auto;
-  background-color: darkgray;
 
   &::before {
     position: absolute;
@@ -69,7 +67,7 @@
     right: -30px;
     content: '';
     width: 300px;
-    height: 490px;
+    height: 530px;
     border: 5px solid #4e93e6;
   }
 
@@ -137,6 +135,5 @@
 
     text-align: left;
     font-size: 26px;
-    border: 1px solid blue;
   }
 }

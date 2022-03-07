@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add upd aboutImage styles">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add upd AboutMe styles">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Employ/Employ.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Employ/Employ.module.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,21 +119,7 @@
       <workItem from="1646502395620" duration="7823000" />
       <workItem from="1646586819834" duration="9697000" />
       <workItem from="1646634027557" duration="3530000" />
-      <workItem from="1646654918132" duration="4480000" />
-    </task>
-    <task id="LOCAL-00097" summary="add Title directory">
-      <created>1646592032768</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1646592032768</updated>
-    </task>
-    <task id="LOCAL-00098" summary="add upd BlockTitle imports">
-      <created>1646592050326</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1646592050326</updated>
+      <workItem from="1646654918132" duration="5130000" />
     </task>
     <task id="LOCAL-00099" summary="add new Skills items">
       <created>1646593366126</created>
@@ -465,7 +450,21 @@
       <option name="project" value="LOCAL" />
       <updated>1646658144131</updated>
     </task>
-    <option name="localTasksCounter" value="146" />
+    <task id="LOCAL-00146" summary="add upd aboutText__name">
+      <created>1646659781463</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1646659781463</updated>
+    </task>
+    <task id="LOCAL-00147" summary="add upd AboutMe styles">
+      <created>1646659802136</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1646659802136</updated>
+    </task>
+    <option name="localTasksCounter" value="148" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -484,8 +483,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add screen variables" />
-    <MESSAGE value="add variables import and upd titleText" />
     <MESSAGE value="add variables import to AboutMe" />
     <MESSAGE value="add variables import to Contacts" />
     <MESSAGE value="add variables import to Employ" />
@@ -509,6 +506,8 @@
     <MESSAGE value="add author photo" />
     <MESSAGE value="add header bg-color and position fixed" />
     <MESSAGE value="add upd aboutImage styles" />
-    <option name="LAST_COMMIT_MESSAGE" value="add upd aboutImage styles" />
+    <MESSAGE value="add upd aboutText__name" />
+    <MESSAGE value="add upd AboutMe styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="add upd AboutMe styles" />
   </component>
 </project>

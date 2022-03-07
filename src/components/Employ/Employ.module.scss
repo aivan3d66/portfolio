@@ -17,4 +17,17 @@
   padding: 0 20px;
 
   border: 1px solid red;
+
+  button {
+    position: relative;
+    width: 140px;
+    padding: 10px;
+    color: $basic_white;
+    font-family: $additional_font;
+    font-size: 14px;
+    line-height: 1.2;
+    text-transform: uppercase;
+    border: 1px solid $special_dark-gray-2;
+    background-color: $special_dark-gray-2;
+  }
 }

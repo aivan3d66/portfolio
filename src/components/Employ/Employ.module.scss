@@ -1,8 +1,10 @@
+@import "./src/styles/variables";
+
 .employContainer {
   min-width: 320px;
   margin: 0;
   padding: 0;
-  background-color: #252527;
+  background-color: $special_dark-gray-2;
 }
 
 .employWrapper {

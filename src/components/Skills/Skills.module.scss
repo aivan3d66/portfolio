@@ -15,25 +15,38 @@
 .skillsWrapper {
   max-width: 1120px;
   margin: 0 auto;
-  border: 1px solid red;
 }
 
 .skillsList {
   width: 100%;
-  margin: 0 auto;
+  margin: 40px auto 0 auto;
   padding: 0;
 
   li {
+    position: relative;
     display: flex;
     flex-direction: column;
+  }
+
+  li::before {
+    position: absolute;
+    left: 100px;
+    content: '';
+    width: 80px;
+    height: 80px;
+    padding: 20px;
+    background-color: $special_dark-gray-3;
+    transform: rotate(45deg);
   }
 }
 
 .skillItem__img {
-  width: 60px;
+  position: relative;
+  z-index: 1;
+  width: 50px;
   height: auto;
-  margin: 0 auto;
-  background-color: red;
+  margin: 12px auto 0 auto;
+  color: $special_blue;
 }
 
 @media (max-width: $mobile-width-only) {
@@ -60,7 +73,7 @@
     justify-content: center;
     width: 100%;
     padding: 0;
-    margin: 0;
+    margin: 40px auto 0 auto;
   }
 }
 

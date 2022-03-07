@@ -1,13 +1,20 @@
+@import "./src/styles/variables";
+
 .navList {
   display: flex;
   justify-content: space-between;
   max-width: 320px;
   margin: 0 auto;
-
   border: 1px solid blue;
+
+  li:hover {
+    color: $special_blue;
+    cursor: pointer;
+    transition: 0.3s;
+  }
 }
 
-@media (min-width: 768px) {
+@media (min-width: $tablet-width) {
   .navList {
     margin: 0 0 0 auto;
   }

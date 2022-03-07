@@ -7,7 +7,7 @@
   max-width: 360px;
   margin: 0 auto 40px auto;
   text-align: center;
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: $basic_font;
   background-color: $special_dark-gray-2;
 }
 
@@ -57,7 +57,7 @@
   padding: 0 20px;
   text-align: left;
   color: $basic_white;
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: $additional_font;
   font-size: 16px;
   letter-spacing: 1px;
 }

@@ -7,8 +7,8 @@ export const AboutMe = () => {
       <div className={style.aboutWrapper}>
         <div className={style.aboutText}>
           <span className={style.aboutText__greeting}>Hello there!</span>
-          <span className={style.aboutText__name}>My name <br/>
-            <b>is Ivan Adamouski</b>
+          <span className={style.aboutText__name}>My name is<br/>
+            <b>Ivan Adamouski</b>
           </span>
           <span className={style.aboutText__profession}>And I am a Front-end Developer</span>
         </div>

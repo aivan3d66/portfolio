@@ -1,6 +1,8 @@
 @import "./src/styles/variables";
 
 .headerContainer {
+  position: fixed;
+  z-index: 2;
   min-width: 320px;
   width: 100%;
   margin: 0;
@@ -8,6 +10,7 @@
   font-family: $additional_font;
   letter-spacing: 1px;
   color: $basic_white;
+  background-color: $special_dark-gray;
 }
 
 .headerWrapper {

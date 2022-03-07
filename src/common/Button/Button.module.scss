@@ -1,0 +1,37 @@
+@import "./src/styles/variables";
+
+.default {
+  position: relative;
+  z-index: 1;
+  width: 140px;
+  padding: 10px;
+  color: $basic_white;
+  font-family: $additional_font;
+  font-size: 14px;
+  line-height: 1.2;
+  text-transform: uppercase;
+  border: 1px solid $special_dark-gray-2;
+  background-color: $special_dark-gray-2;
+  cursor: pointer;
+  transition: 0.3s;
+
+  &::before {
+    position: absolute;
+    z-index: -1;
+    left: 50%;
+    bottom: 0;
+    content: '';
+    width: 70px;
+    height: 10px;
+    background-color: $special_blue;
+    transform: translate(-50%, 50%);
+    transition: all 0.2s ease-in-out 0s;
+  }
+
+  &:hover::before {
+    bottom: 18px;
+    width: 120%;
+    height: 40px;
+    background-color: $special_blue;
+  }
+}

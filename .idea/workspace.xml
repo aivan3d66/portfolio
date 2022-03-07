@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add upd Contacts inputs styles">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add Button directory">
+      <change afterPath="$PROJECT_DIR$/src/common/Button/Button.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/Button/Button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/Button/Button.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Contacts/Contacts.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts/Contacts.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Contacts/Contacts.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts/Contacts.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Employ/Employ.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Employ/Employ.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Employ/Employ.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Employ/Employ.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript JSX File" />
         <option value="CSS File" />
+        <option value="TypeScript JSX File" />
         <option value="SCSS File" />
       </list>
     </option>
@@ -42,7 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tasksFromIgnat" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -118,14 +124,7 @@
       <workItem from="1646502395620" duration="7823000" />
       <workItem from="1646586819834" duration="9697000" />
       <workItem from="1646634027557" duration="3530000" />
-      <workItem from="1646654918132" duration="6900000" />
-    </task>
-    <task id="LOCAL-00103" summary="add default img's">
-      <created>1646596278211</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1646596278211</updated>
+      <workItem from="1646654918132" duration="7561000" />
     </task>
     <task id="LOCAL-00104" summary="add default bg-img styles">
       <created>1646596293459</created>
@@ -463,7 +462,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646662093449</updated>
     </task>
-    <option name="localTasksCounter" value="152" />
+    <task id="LOCAL-00152" summary="add Button directory">
+      <created>1646662263742</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1646662263742</updated>
+    </task>
+    <option name="localTasksCounter" value="153" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -482,7 +488,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add variables import to Socials" />
     <MESSAGE value="add variables import to Header, upd font-family" />
     <MESSAGE value="add variables import to Navigation and li:hover styles" />
     <MESSAGE value="add variables import to Skills and upd font styles" />
@@ -507,6 +512,7 @@
     <MESSAGE value="add upd Employ hover button styles" />
     <MESSAGE value="add upd Contacts inputs placeholders" />
     <MESSAGE value="add upd Contacts inputs styles" />
-    <option name="LAST_COMMIT_MESSAGE" value="add upd Contacts inputs styles" />
+    <MESSAGE value="add Button directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Button directory" />
   </component>
 </project>

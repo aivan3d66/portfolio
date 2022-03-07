@@ -1,8 +1,6 @@
 @import "./src/styles/variables";
 
 .headerContainer {
-  position: fixed;
-  z-index: 2;
   min-width: 320px;
   width: 100%;
   margin: 0;
@@ -17,8 +15,6 @@
   min-height: 40px;
   margin: 0 auto 0 auto;
   padding: 20px 0;
-
-  border: 1px solid red;
 }
 
 @media (max-width: $mobile-width-only) {
@@ -41,8 +37,6 @@
     min-height: 40px;
     margin: 0 auto;
     padding: 20px 20px;
-
-    border: 1px solid red;
   }
 }
 
@@ -58,7 +52,5 @@
     min-height: 40px;
     margin: 0 auto;
     padding: 20px 20px;
-
-    border: 1px solid red;
   }
 }

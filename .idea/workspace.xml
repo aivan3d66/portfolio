@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add Social icons and links">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add upd footerWrapper height">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer/Footer.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer/Socials/Socials.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Socials/Socials.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer/Socials/Socials.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Socials/Socials.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Navigation/Navigation.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Navigation/Navigation.module.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,28 +121,7 @@
       <workItem from="1646502395620" duration="7823000" />
       <workItem from="1646586819834" duration="9697000" />
       <workItem from="1646634027557" duration="3530000" />
-      <workItem from="1646654918132" duration="9726000" />
-    </task>
-    <task id="LOCAL-00110" summary="add upd workPreview__link hover styles">
-      <created>1646598920480</created>
-      <option name="number" value="00110" />
-      <option name="presentableId" value="LOCAL-00110" />
-      <option name="project" value="LOCAL" />
-      <updated>1646598920480</updated>
-    </task>
-    <task id="LOCAL-00111" summary="add upd workPreview before styles">
-      <created>1646598931719</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1646598931719</updated>
-    </task>
-    <task id="LOCAL-00112" summary="add upd workPreview__link paddings">
-      <created>1646599174468</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1646599174468</updated>
+      <workItem from="1646654918132" duration="9959000" />
     </task>
     <task id="LOCAL-00113" summary="delete variables">
       <created>1646600083439</created>
@@ -466,7 +445,28 @@
       <option name="project" value="LOCAL" />
       <updated>1646664733447</updated>
     </task>
-    <option name="localTasksCounter" value="159" />
+    <task id="LOCAL-00159" summary="add upd Social li's">
+      <created>1646665109634</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1646665109634</updated>
+    </task>
+    <task id="LOCAL-00160" summary="add upd Social a's styles">
+      <created>1646665134182</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1646665134182</updated>
+    </task>
+    <task id="LOCAL-00161" summary="add upd footerWrapper height">
+      <created>1646665145950</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1646665145950</updated>
+    </task>
+    <option name="localTasksCounter" value="162" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -485,9 +485,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="delete image from SkillItem" />
-    <MESSAGE value="add Skills refactoring" />
-    <MESSAGE value="add Skills li styles" />
     <MESSAGE value="delete fortawesome dependencies" />
     <MESSAGE value="add React-icons dependencies" />
     <MESSAGE value="add React-icons imports" />
@@ -510,6 +507,9 @@
     <MESSAGE value="delete Button styles" />
     <MESSAGE value="add upd contactsForm margins" />
     <MESSAGE value="add Social icons and links" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Social icons and links" />
+    <MESSAGE value="add upd Social li's" />
+    <MESSAGE value="add upd Social a's styles" />
+    <MESSAGE value="add upd footerWrapper height" />
+    <option name="LAST_COMMIT_MESSAGE" value="add upd footerWrapper height" />
   </component>
 </project>

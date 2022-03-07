@@ -1,5 +1,6 @@
 import style from "./Contacts.module.scss";
 import {BlockTitle} from "../../common/Title/BlockTitle";
+import {Button} from "../../common/Button/Button";
 
 export const Contacts = () => {
   return (
@@ -13,7 +14,7 @@ export const Contacts = () => {
             <input type="text" placeholder={"E-mail"}/>
             <textarea placeholder={"Your message"}/>
           </div>
-          <button type="submit" className={style.contactsForm__btn}>Send</button>
+          <Button type="submit">Send message</Button>
         </form>
       </div>
     </section>

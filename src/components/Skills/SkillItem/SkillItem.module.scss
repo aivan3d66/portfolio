@@ -1,3 +1,5 @@
+@import "./src/styles/variables";
+
 .skillItem {
   flex-wrap: wrap;
   min-width: 100px;
@@ -5,32 +7,31 @@
   padding: 0 20px;
   margin: 0 auto 20px auto;
   text-align: center;
-  border: 1px solid blue;
+
+  h3 {
+    width: 100%;
+    margin: 20px auto;
+    padding: 0 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 1px;
+  }
+
+  p {
+    margin: 20px 0;
+  }
 }
 
 .skillItem__img {
-  width: 40px;
-  height: 40px;
+  width: 60px;
+  height: auto;
   margin: 0 auto;
   background-color: red;
 }
 
-.skillItem__title {
-  width: 100%;
-  margin: 20px auto;
-  padding: 0 20px;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  font-weight: bold;
-  background-color: darkgray;
-}
-
-.skillItem__text {
-  margin: 20px 0;
-  background-color: darkgray;
-}
-
-@media (min-width: 768px) {
+@media (min-width: $tablet-width) {
   .skillItem {
     margin: 20px auto;
   }

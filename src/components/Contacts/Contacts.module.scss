@@ -26,20 +26,32 @@
 .contactsForm__fields {
   display: flex;
   flex-direction: column;
-}
 
-.contactsForm__fields input {
-  width: 100%;
-  margin: 0 0 10px 0;
-  padding: 4px 8px;
-}
+  input,
+  textarea {
+    width: 100%;
+    margin: 0 0 10px 0;
+    padding: 8px 10px;
+    color: $special_light-gray;
+    background-color: $special_dark-gray-2;
+    border: 1px solid $special_dark-gray-3;
+    outline: none;
 
-.contactsForm__fields textarea {
-  width: 100%;
-  min-height: 100px;
-  margin: 0 0 10px 0;
-  padding: 4px 8px;
-  resize: none;
+    &:hover,
+    &:focus {
+      transition: 0.5s;
+      border-color: $special_blue;
+    }
+
+    &:active {
+      border-color: $special_blue;
+    }
+  }
+
+  textarea {
+    min-height: 100px;
+    resize: none;
+  }
 }
 
 .contactsForm__btn {
@@ -65,6 +77,6 @@
     justify-content: space-between;
     min-width: 320px;
     max-width: 500px;
-    margin: 200px auto;
+    margin: 100px auto;
   }
 }

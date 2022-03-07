@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add valid tags">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="delete fortawesome dependencies">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Skills/SkillItem/SkillItem.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/SkillItem/SkillItem.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Skills/SkillItem/SkillItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/SkillItem/SkillItem.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,34 +106,6 @@
       <workItem from="1646502395620" duration="7823000" />
       <workItem from="1646586819834" duration="9697000" />
       <workItem from="1646634027557" duration="3530000" />
-    </task>
-    <task id="LOCAL-00083" summary="add upd projects">
-      <created>1646508458258</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1646508458258</updated>
-    </task>
-    <task id="LOCAL-00084" summary="add valid tags">
-      <created>1646508672521</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1646508672521</updated>
-    </task>
-    <task id="LOCAL-00085" summary="add submit type">
-      <created>1646509290338</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1646509290338</updated>
-    </task>
-    <task id="LOCAL-00086" summary="add new titleText styles">
-      <created>1646509975600</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1646509975600</updated>
     </task>
     <task id="LOCAL-00087" summary="delete all titleText (h2) styles">
       <created>1646509998000</created>
@@ -451,7 +422,35 @@
       <option name="project" value="LOCAL" />
       <updated>1646637553872</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="delete image from SkillItem">
+      <created>1646640820361</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1646640820361</updated>
+    </task>
+    <task id="LOCAL-00133" summary="add Skills refactoring">
+      <created>1646640839616</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1646640839616</updated>
+    </task>
+    <task id="LOCAL-00134" summary="add Skills li styles">
+      <created>1646641030866</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1646641030866</updated>
+    </task>
+    <task id="LOCAL-00135" summary="delete fortawesome dependencies">
+      <created>1646641080343</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1646641080343</updated>
+    </task>
+    <option name="localTasksCounter" value="136" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -470,10 +469,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add bg-img styles type" />
-    <MESSAGE value="add workPreview bg styles" />
-    <MESSAGE value="add upd workItem styles" />
-    <MESSAGE value="add upd workPreview__link hover styles" />
     <MESSAGE value="add upd workPreview before styles" />
     <MESSAGE value="add upd workPreview__link paddings" />
     <MESSAGE value="delete variables" />
@@ -495,6 +490,10 @@
     <MESSAGE value="add variables import to Skills and upd font styles" />
     <MESSAGE value="delete unused type" />
     <MESSAGE value="add valid tags" />
-    <option name="LAST_COMMIT_MESSAGE" value="add valid tags" />
+    <MESSAGE value="delete image from SkillItem" />
+    <MESSAGE value="add Skills refactoring" />
+    <MESSAGE value="add Skills li styles" />
+    <MESSAGE value="delete fortawesome dependencies" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete fortawesome dependencies" />
   </component>
 </project>

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add variables file to src folder">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add substitute colours bu colours variables">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/variables.scss" afterDir="false" />
@@ -102,21 +102,8 @@
       <workItem from="1646159297029" duration="712000" />
       <workItem from="1646418365186" duration="4004000" />
       <workItem from="1646502395620" duration="7823000" />
-      <workItem from="1646586819834" duration="9618000" />
-    </task>
-    <task id="LOCAL-00067" summary="add conversion css App file to scss">
-      <created>1646419910377</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1646419910377</updated>
-    </task>
-    <task id="LOCAL-00068" summary="add fix App scss import">
-      <created>1646419947748</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1646419947748</updated>
+      <workItem from="1646586819834" duration="9697000" />
+      <workItem from="1646634027557" duration="94000" />
     </task>
     <task id="LOCAL-00069" summary="add colour scheme variables">
       <created>1646420733493</created>
@@ -447,7 +434,21 @@
       <option name="project" value="LOCAL" />
       <updated>1646600580775</updated>
     </task>
-    <option name="localTasksCounter" value="116" />
+    <task id="LOCAL-00116" summary="add special_light-gray variable">
+      <created>1646600660105</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1646600660105</updated>
+    </task>
+    <task id="LOCAL-00117" summary="add substitute colours bu colours variables">
+      <created>1646600687623</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1646600687623</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -466,8 +467,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add text-transform titleText" />
-    <MESSAGE value="add titleWrapper padding" />
     <MESSAGE value="add titleText margin" />
     <MESSAGE value="add titleText line-height, letter-spacing" />
     <MESSAGE value="add br tag to AboutMe" />
@@ -491,6 +490,8 @@
     <MESSAGE value="delete variables" />
     <MESSAGE value="add variables file" />
     <MESSAGE value="add variables file to src folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="add variables file to src folder" />
+    <MESSAGE value="add special_light-gray variable" />
+    <MESSAGE value="add substitute colours bu colours variables" />
+    <option name="LAST_COMMIT_MESSAGE" value="add substitute colours bu colours variables" />
   </component>
 </project>

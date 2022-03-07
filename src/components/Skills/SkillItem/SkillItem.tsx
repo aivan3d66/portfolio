@@ -12,8 +12,8 @@ export const SkillItem: React.FC<SkillItemType> = ({title, text}) => {
   return (
     <div className={style.skillItem}>
       <FontAwesomeIcon icon={faReact} className={style.skillItem__img}/>
-      <div className={style.skillItem__title}>{title}</div>
-      <div className={style.skillItem__text}>{text}</div>
+      <h3 className={style.skillItem__title}>{title}</h3>
+      <p className={style.skillItem__text}>{text}</p>
     </div>
   )
 }

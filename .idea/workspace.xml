@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add variables import to Header, upd font-family">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add variables import to Navigation and li:hover styles">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Navigation/Navigation.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Navigation/Navigation.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Skills/SkillItem/SkillItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/SkillItem/SkillItem.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,14 +104,7 @@
       <workItem from="1646418365186" duration="4004000" />
       <workItem from="1646502395620" duration="7823000" />
       <workItem from="1646586819834" duration="9697000" />
-      <workItem from="1646634027557" duration="2699000" />
-    </task>
-    <task id="LOCAL-00079" summary="add BlockTitle titleText styles">
-      <created>1646507075557</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1646507075557</updated>
+      <workItem from="1646634027557" duration="3079000" />
     </task>
     <task id="LOCAL-00080" summary="add BlockTitle title props">
       <created>1646507089870</created>
@@ -447,7 +442,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646636678728</updated>
     </task>
-    <option name="localTasksCounter" value="128" />
+    <task id="LOCAL-00128" summary="add variables import to Navigation and li:hover styles">
+      <created>1646637134858</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1646637134858</updated>
+    </task>
+    <option name="localTasksCounter" value="129" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -466,7 +468,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add default img's" />
     <MESSAGE value="add default bg-img styles" />
     <MESSAGE value="add img imports" />
     <MESSAGE value="add bg-img styles to props" />
@@ -491,6 +492,7 @@
     <MESSAGE value="add variables import to Footer, upd font family" />
     <MESSAGE value="add variables import to Socials" />
     <MESSAGE value="add variables import to Header, upd font-family" />
-    <option name="LAST_COMMIT_MESSAGE" value="add variables import to Header, upd font-family" />
+    <MESSAGE value="add variables import to Navigation and li:hover styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="add variables import to Navigation and li:hover styles" />
   </component>
 </project>

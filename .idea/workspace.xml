@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add upd Employ hover button styles">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add upd Contacts inputs styles">
       <change beforePath="$PROJECT_DIR$/src/components/Contacts/Contacts.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts/Contacts.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Contacts/Contacts.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts/Contacts.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,21 +118,7 @@
       <workItem from="1646502395620" duration="7823000" />
       <workItem from="1646586819834" duration="9697000" />
       <workItem from="1646634027557" duration="3530000" />
-      <workItem from="1646654918132" duration="6760000" />
-    </task>
-    <task id="LOCAL-00101" summary="add workDescription font styles">
-      <created>1646593837233</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1646593837233</updated>
-    </task>
-    <task id="LOCAL-00102" summary="add workPreview__link styles">
-      <created>1646595449832</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1646595449832</updated>
+      <workItem from="1646654918132" duration="6900000" />
     </task>
     <task id="LOCAL-00103" summary="add default img's">
       <created>1646596278211</created>
@@ -465,7 +449,21 @@
       <option name="project" value="LOCAL" />
       <updated>1646661187508</updated>
     </task>
-    <option name="localTasksCounter" value="150" />
+    <task id="LOCAL-00150" summary="add upd Contacts inputs placeholders">
+      <created>1646662083312</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1646662083312</updated>
+    </task>
+    <task id="LOCAL-00151" summary="add upd Contacts inputs styles">
+      <created>1646662093449</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1646662093449</updated>
+    </task>
+    <option name="localTasksCounter" value="152" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -484,8 +482,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add variables import to Employ" />
-    <MESSAGE value="add variables import to Footer, upd font family" />
     <MESSAGE value="add variables import to Socials" />
     <MESSAGE value="add variables import to Header, upd font-family" />
     <MESSAGE value="add variables import to Navigation and li:hover styles" />
@@ -509,6 +505,8 @@
     <MESSAGE value="add upd AboutMe styles" />
     <MESSAGE value="add upd Employ default button styles" />
     <MESSAGE value="add upd Employ hover button styles" />
-    <option name="LAST_COMMIT_MESSAGE" value="add upd Employ hover button styles" />
+    <MESSAGE value="add upd Contacts inputs placeholders" />
+    <MESSAGE value="add upd Contacts inputs styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="add upd Contacts inputs styles" />
   </component>
 </project>

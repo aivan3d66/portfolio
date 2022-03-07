@@ -6,6 +6,7 @@ import {DiJavascript1} from "react-icons/di";
 import {SiTypescript} from "react-icons/si";
 import {SiRedux} from "react-icons/si";
 import {SiJest} from "react-icons/si";
+import {SiStorybook} from "react-icons/si";
 
 export const Skills = () => {
   return (
@@ -17,7 +18,7 @@ export const Skills = () => {
             <DiJavascript1 className={style.skillItem__img}/>
             <SkillItem
               title={"JavaScript"}
-              text={"Every programmer has once killed entire hours to a funny little problem - two parameters, not in the order, variable that's somewhere with a big letter, but somewhere else not (Thank you JavaScript!"}
+              text={"The love and pain of millions of programmers around the world"}
             />
           </li>
           <li>
@@ -46,6 +47,13 @@ export const Skills = () => {
             <SkillItem
               title={"Unit test / Jest"}
               text={"TDD -  correct the error before the millions of your nerve cells die"}
+            />
+          </li>
+          <li>
+            <SiStorybook className={style.skillItem__img}/>
+            <SkillItem
+              title={"Storybook"}
+              text={"It streamlines UI development, testing, and documentation"}
             />
           </li>
         </ul>

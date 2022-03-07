@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="delete fortawesome dependencies">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add React-icons imports">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,20 +105,6 @@
       <workItem from="1646502395620" duration="7823000" />
       <workItem from="1646586819834" duration="9697000" />
       <workItem from="1646634027557" duration="3530000" />
-    </task>
-    <task id="LOCAL-00087" summary="delete all titleText (h2) styles">
-      <created>1646509998000</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1646509998000</updated>
-    </task>
-    <task id="LOCAL-00088" summary="add new class names">
-      <created>1646510136159</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1646510136159</updated>
     </task>
     <task id="LOCAL-00089" summary="add new default bg-color">
       <created>1646511352408</created>
@@ -450,7 +435,21 @@
       <option name="project" value="LOCAL" />
       <updated>1646641080343</updated>
     </task>
-    <option name="localTasksCounter" value="136" />
+    <task id="LOCAL-00136" summary="add React-icons dependencies">
+      <created>1646641459701</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1646641459701</updated>
+    </task>
+    <task id="LOCAL-00137" summary="add React-icons imports">
+      <created>1646641543211</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1646641543211</updated>
+    </task>
+    <option name="localTasksCounter" value="138" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -469,8 +468,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add upd workPreview before styles" />
-    <MESSAGE value="add upd workPreview__link paddings" />
     <MESSAGE value="delete variables" />
     <MESSAGE value="add variables file" />
     <MESSAGE value="add variables file to src folder" />
@@ -494,6 +491,8 @@
     <MESSAGE value="add Skills refactoring" />
     <MESSAGE value="add Skills li styles" />
     <MESSAGE value="delete fortawesome dependencies" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete fortawesome dependencies" />
+    <MESSAGE value="add React-icons dependencies" />
+    <MESSAGE value="add React-icons imports" />
+    <option name="LAST_COMMIT_MESSAGE" value="add React-icons imports" />
   </component>
 </project>

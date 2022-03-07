@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add Button directory">
-      <change afterPath="$PROJECT_DIR$/src/common/Button/Button.module.scss" afterDir="false" />
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="delete Button styles">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/Button/Button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/Button/Button.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Contacts/Contacts.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts/Contacts.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Contacts/Contacts.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts/Contacts.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Employ/Employ.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Employ/Employ.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Employ/Employ.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Employ/Employ.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,35 +119,7 @@
       <workItem from="1646502395620" duration="7823000" />
       <workItem from="1646586819834" duration="9697000" />
       <workItem from="1646634027557" duration="3530000" />
-      <workItem from="1646654918132" duration="7561000" />
-    </task>
-    <task id="LOCAL-00104" summary="add default bg-img styles">
-      <created>1646596293459</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1646596293459</updated>
-    </task>
-    <task id="LOCAL-00105" summary="add img imports">
-      <created>1646598032018</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1646598032018</updated>
-    </task>
-    <task id="LOCAL-00106" summary="add bg-img styles to props">
-      <created>1646598051300</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1646598051300</updated>
-    </task>
-    <task id="LOCAL-00107" summary="add bg-img styles type">
-      <created>1646598114249</created>
-      <option name="number" value="00107" />
-      <option name="presentableId" value="LOCAL-00107" />
-      <option name="project" value="LOCAL" />
-      <updated>1646598114249</updated>
+      <workItem from="1646654918132" duration="7726000" />
     </task>
     <task id="LOCAL-00108" summary="add workPreview bg styles">
       <created>1646598259594</created>
@@ -469,7 +436,35 @@
       <option name="project" value="LOCAL" />
       <updated>1646662263742</updated>
     </task>
-    <option name="localTasksCounter" value="153" />
+    <task id="LOCAL-00153" summary="add Button components">
+      <created>1646662855410</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1646662855410</updated>
+    </task>
+    <task id="LOCAL-00154" summary="add Button import">
+      <created>1646662867577</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1646662867577</updated>
+    </task>
+    <task id="LOCAL-00155" summary="delete Button styles">
+      <created>1646662880369</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1646662880369</updated>
+    </task>
+    <task id="LOCAL-00156" summary="delete Button styles">
+      <created>1646662890446</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1646662890446</updated>
+    </task>
+    <option name="localTasksCounter" value="157" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -488,9 +483,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add variables import to Header, upd font-family" />
-    <MESSAGE value="add variables import to Navigation and li:hover styles" />
-    <MESSAGE value="add variables import to Skills and upd font styles" />
     <MESSAGE value="delete unused type" />
     <MESSAGE value="add valid tags" />
     <MESSAGE value="delete image from SkillItem" />
@@ -513,6 +505,9 @@
     <MESSAGE value="add upd Contacts inputs placeholders" />
     <MESSAGE value="add upd Contacts inputs styles" />
     <MESSAGE value="add Button directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Button directory" />
+    <MESSAGE value="add Button components" />
+    <MESSAGE value="add Button import" />
+    <MESSAGE value="delete Button styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete Button styles" />
   </component>
 </project>

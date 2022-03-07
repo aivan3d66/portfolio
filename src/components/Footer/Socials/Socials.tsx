@@ -18,13 +18,13 @@ export const Socials = () => {
         </a>
       </li>
       <li className={style.socialsList__item}>
-        <a href="https://www.linkedin.com/in/ivan-adamouski-55a421227/">
-          <SiLinkedin/>
+        <a href="https://www.facebook.com/aivan3d66">
+          <SiFacebook/>
         </a>
       </li>
       <li className={style.socialsList__item}>
-        <a href="https://www.facebook.com/aivan3d66">
-          <SiFacebook/>
+        <a href="https://www.linkedin.com/in/ivan-adamouski-55a421227/">
+          <SiLinkedin/>
         </a>
       </li>
     </ul>

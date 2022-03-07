@@ -1,6 +1,8 @@
 @import "./src/styles/variables";
 
 .headerContainer {
+  position: static;
+  z-index: 5;
   min-width: 320px;
   width: 100%;
   margin: 0;
@@ -8,7 +10,7 @@
   font-family: $additional_font;
   letter-spacing: 1px;
   color: $basic_white;
-  background-color: $special_dark-gray;
+  background-color: $special_dark-gray-2;
 }
 
 .headerWrapper {
@@ -28,8 +30,6 @@
 @media (min-width: $tablet-width) {
   .headerContainer {
     min-width: 768px;
-    margin: 0;
-    padding: 0;
   }
 
   .headerWrapper {
@@ -43,8 +43,6 @@
 @media (min-width: $desktop-width) {
   .headerContainer {
     width: 100%;
-    margin: 0;
-    padding: 0;
   }
 
   .headerWrapper {

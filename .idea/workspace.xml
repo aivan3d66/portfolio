@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add variables import to AboutMe">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add variables import to Employ">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Contacts/Contacts.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts/Contacts.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer/Footer.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.module.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,21 +102,7 @@
       <workItem from="1646418365186" duration="4004000" />
       <workItem from="1646502395620" duration="7823000" />
       <workItem from="1646586819834" duration="9697000" />
-      <workItem from="1646634027557" duration="1614000" />
-    </task>
-    <task id="LOCAL-00074" summary="add new h2 font family">
-      <created>1646421561973</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1646421561973</updated>
-    </task>
-    <task id="LOCAL-00075" summary="add free icons dependencies">
-      <created>1646422146820</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1646422146820</updated>
+      <workItem from="1646634027557" duration="2042000" />
     </task>
     <task id="LOCAL-00076" summary="add faReact import">
       <created>1646422341831</created>
@@ -447,7 +433,21 @@
       <option name="project" value="LOCAL" />
       <updated>1646635963776</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="add variables import to Contacts">
+      <created>1646636028079</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1646636028079</updated>
+    </task>
+    <task id="LOCAL-00124" summary="add variables import to Employ">
+      <created>1646636140017</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1646636140017</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -466,8 +466,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add upd BlockTitle imports" />
-    <MESSAGE value="add new Skills items" />
     <MESSAGE value="add workDescription font family" />
     <MESSAGE value="add workDescription font styles" />
     <MESSAGE value="add workPreview__link styles" />
@@ -491,6 +489,8 @@
     <MESSAGE value="add screen variables" />
     <MESSAGE value="add variables import and upd titleText" />
     <MESSAGE value="add variables import to AboutMe" />
-    <option name="LAST_COMMIT_MESSAGE" value="add variables import to AboutMe" />
+    <MESSAGE value="add variables import to Contacts" />
+    <MESSAGE value="add variables import to Employ" />
+    <option name="LAST_COMMIT_MESSAGE" value="add variables import to Employ" />
   </component>
 </project>

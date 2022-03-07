@@ -1,8 +1,12 @@
+@import "./src/styles/variables";
+
 .footerContainer {
   min-width: 320px;
   margin: 0;
   padding: 0;
-  background-color: #252527;
+  font-family: $basic_font;
+  color: $basic_white;
+  background-color: $special_dark-gray-2;
 }
 
 .footerWrapper {
@@ -15,25 +19,23 @@
   height: 300px;
   margin: 0 auto;
   padding: 0;
-
   border: 1px solid red;
-
 }
 
 .footerInform {
   width: 200px;
   margin: 20px auto;
   text-align: center;
-  background-color: darkgray;
+  color: $special_light-gray;
 }
 
-@media (max-width: 320px) {
+@media (max-width: $mobile-width-only) {
   .footerWrapper {
     max-width: 320px;
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: $tablet-width) {
   .footerWrapper {
     min-width: 768px;
   }

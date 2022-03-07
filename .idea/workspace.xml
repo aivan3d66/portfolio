@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="delete containers border" />
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add Vanta.js dependencies">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,14 +122,7 @@
       <workItem from="1646502395620" duration="7823000" />
       <workItem from="1646586819834" duration="9697000" />
       <workItem from="1646634027557" duration="3530000" />
-      <workItem from="1646654918132" duration="10433000" />
-    </task>
-    <task id="LOCAL-00114" summary="add variables file">
-      <created>1646600092550</created>
-      <option name="number" value="00114" />
-      <option name="presentableId" value="LOCAL-00114" />
-      <option name="project" value="LOCAL" />
-      <updated>1646600092550</updated>
+      <workItem from="1646654918132" duration="13697000" />
     </task>
     <task id="LOCAL-00115" summary="add variables file to src folder">
       <created>1646600580775</created>
@@ -461,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646665289065</updated>
     </task>
-    <option name="localTasksCounter" value="163" />
+    <task id="LOCAL-00163" summary="add Vanta.js dependencies">
+      <created>1646665827855</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1646665827855</updated>
+    </task>
+    <option name="localTasksCounter" value="164" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -480,7 +486,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add React-icons dependencies" />
     <MESSAGE value="add React-icons imports" />
     <MESSAGE value="add new Skill item" />
     <MESSAGE value="add skillItem__img pseudo background" />
@@ -505,6 +510,7 @@
     <MESSAGE value="add upd Social a's styles" />
     <MESSAGE value="add upd footerWrapper height" />
     <MESSAGE value="delete containers border" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete containers border" />
+    <MESSAGE value="add Vanta.js dependencies" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Vanta.js dependencies" />
   </component>
 </project>

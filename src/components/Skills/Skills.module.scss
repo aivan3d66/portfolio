@@ -26,6 +26,18 @@
     position: relative;
     display: flex;
     flex-direction: column;
+    margin: 30px 0 50px 0;
+
+    &::after {
+      position: absolute;
+      content: '';
+      bottom: 0;
+      left: 50%;
+      width: 60px;
+      height: 1px;
+      background-color: #4e93e6;
+      transform: translate(-50%, 50%);
+    }
   }
 
   li::before {
@@ -78,6 +90,14 @@
     width: 100%;
     padding: 0;
     margin: 40px auto;
+
+    li {
+      margin: 20px 0;
+
+      &::after {
+        display: none;
+      }
+    }
   }
 }
 

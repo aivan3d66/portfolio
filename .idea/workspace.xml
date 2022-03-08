@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add upd workItem width">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add upd aboutText margin">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.module.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,14 +122,7 @@
       <workItem from="1646654918132" duration="14996000" />
       <workItem from="1646670652950" duration="683000" />
       <workItem from="1646671421053" duration="152000" />
-      <workItem from="1646726369876" duration="285000" />
-    </task>
-    <task id="LOCAL-00123" summary="add variables import to Contacts">
-      <created>1646636028079</created>
-      <option name="number" value="00123" />
-      <option name="presentableId" value="LOCAL-00123" />
-      <option name="project" value="LOCAL" />
-      <updated>1646636028079</updated>
+      <workItem from="1646726369876" duration="391000" />
     </task>
     <task id="LOCAL-00124" summary="add variables import to Employ">
       <created>1646636140017</created>
@@ -467,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646726550780</updated>
     </task>
-    <option name="localTasksCounter" value="172" />
+    <task id="LOCAL-00172" summary="add upd aboutText margin">
+      <created>1646726684653</created>
+      <option name="number" value="00172" />
+      <option name="presentableId" value="LOCAL-00172" />
+      <option name="project" value="LOCAL" />
+      <updated>1646726684653</updated>
+    </task>
+    <option name="localTasksCounter" value="173" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -486,7 +486,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add upd aboutText__name" />
     <MESSAGE value="add upd AboutMe styles" />
     <MESSAGE value="add upd Employ default button styles" />
     <MESSAGE value="add upd Employ hover button styles" />
@@ -511,6 +510,7 @@
     <MESSAGE value="add upd aboutImage margin" />
     <MESSAGE value="add skillsList item margin" />
     <MESSAGE value="add upd workItem width" />
-    <option name="LAST_COMMIT_MESSAGE" value="add upd workItem width" />
+    <MESSAGE value="add upd aboutText margin" />
+    <option name="LAST_COMMIT_MESSAGE" value="add upd aboutText margin" />
   </component>
 </project>

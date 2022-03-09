@@ -38,6 +38,10 @@
       background-color: #4e93e6;
       transform: translate(-50%, 50%);
     }
+
+    &:last-child::after {
+      display: none;
+    }
   }
 
   li::before {

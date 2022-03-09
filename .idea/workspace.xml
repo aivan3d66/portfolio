@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add new aboutImage margin bottom">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add fix SkillItem margins">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Skills/SkillItem/SkillItem.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/SkillItem/SkillItem.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.module.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -124,14 +123,7 @@
       <workItem from="1646670652950" duration="683000" />
       <workItem from="1646671421053" duration="152000" />
       <workItem from="1646726369876" duration="3001000" />
-      <workItem from="1646853528250" duration="1727000" />
-    </task>
-    <task id="LOCAL-00130" summary="delete unused type">
-      <created>1646637538992</created>
-      <option name="number" value="00130" />
-      <option name="presentableId" value="LOCAL-00130" />
-      <option name="project" value="LOCAL" />
-      <updated>1646637538992</updated>
+      <workItem from="1646853528250" duration="2023000" />
     </task>
     <task id="LOCAL-00131" summary="add valid tags">
       <created>1646637553872</created>
@@ -469,7 +461,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646854889389</updated>
     </task>
-    <option name="localTasksCounter" value="179" />
+    <task id="LOCAL-00179" summary="add fix SkillItem margins">
+      <created>1646855441171</created>
+      <option name="number" value="00179" />
+      <option name="presentableId" value="LOCAL-00179" />
+      <option name="project" value="LOCAL" />
+      <updated>1646855441171</updated>
+    </task>
+    <option name="localTasksCounter" value="180" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -488,7 +487,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add Button components" />
     <MESSAGE value="add Button import" />
     <MESSAGE value="delete Button styles" />
     <MESSAGE value="add upd contactsForm margins" />
@@ -513,6 +511,7 @@
     <MESSAGE value="add fix of bg-images of Works" />
     <MESSAGE value="add fix aboutImage::before height" />
     <MESSAGE value="add new aboutImage margin bottom" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new aboutImage margin bottom" />
+    <MESSAGE value="add fix SkillItem margins" />
+    <option name="LAST_COMMIT_MESSAGE" value="add fix SkillItem margins" />
   </component>
 </project>

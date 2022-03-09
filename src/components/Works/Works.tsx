@@ -13,10 +13,10 @@ export const Works = () => {
     backgroundImage: `url(${todos})`,
   };
   const socialNetworkBgImg = {
-    backgroundImage: `url(${trip})`,
+    backgroundImage: `url(${social})`,
   };
   const bigTripBgImg = {
-    backgroundImage: `url(${social})`,
+    backgroundImage: `url(${trip})`,
   };
 
   return (

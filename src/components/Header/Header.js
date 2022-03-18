@@ -116,7 +116,7 @@ export class HeaderSection extends React.Component {
           <Contacts/>
         </Element>
 
-        <a onClick={this.scrollToTop} className={style.scrollButton}>
+        <a onClick={this.scrollToTop} className={style.scrollButtonShow}>
           <FaChevronUp/>
           <span>
             to the top!

@@ -1,11 +1,11 @@
 import React from "react";
 import {Link, Element, Events, animateScroll as scroll, scroller} from 'react-scroll';
-import style from './../components/Header/Header.module.scss';
-import {AboutMe} from "../components/AboutMe/AboutMe";
-import {Skills} from "../components/Skills/Skills";
-import {Works} from "../components/Works/Works";
-import {Contacts} from "../components/Contacts/Contacts";
-import {Employ} from "../components/Employ/Employ";
+import style from './Header.module.scss';
+import {AboutMe} from "../AboutMe/AboutMe";
+import {Skills} from "../Skills/Skills";
+import {Works} from "../Works/Works";
+import {Contacts} from "../Contacts/Contacts";
+import {Employ} from "../Employ/Employ";
 import {FaChevronUp} from "react-icons/fa";
 
 export class HeaderSection extends React.Component {

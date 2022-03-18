@@ -30,6 +30,32 @@
   font-size: 16px;
 }
 
+.aboutText__profession {
+  width: 30ch;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 4px solid #4e93e6;
+  animation: flashing-border 0.75s step-end infinite;
+}
+
+@keyframes flashing-border {
+  0% {
+    border-color: #4e93e6;
+  }
+  50% {
+    border-color: transparent;
+  }
+  100% {
+    border-color: #4e93e6;
+  }
+}
+
+@keyframes printed-text {
+  from {
+    width: 0;
+  }
+}
+
 .aboutText__name {
   position: relative;
   z-index: 1;

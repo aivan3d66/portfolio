@@ -32,11 +32,11 @@
 }
 
 .aboutText__profession {
-  width: 30ch;
+  width: 27ch;
   white-space: nowrap;
   overflow: hidden;
   border-right: 4px solid #4e93e6;
-  animation: flashing-border 0.75s step-end infinite;
+  animation: flashing-border 0.75s step-end infinite, printed-text 5s steps(32);
 }
 
 @keyframes flashing-border {
@@ -90,7 +90,7 @@
   &::before {
     position: absolute;
     z-index: 0;
-    top: -10px;
+    top: -15px;
     right: -30px;
     content: '';
     width: 300px;
@@ -161,9 +161,10 @@
   .aboutText {
     display: flex;
     flex-direction: column;
-    max-width: 500px;
+    align-items: flex-start;
+    max-width: 440px;
     min-height: 100px;
-    margin: 20px 0;
+    margin: 0;
 
     text-align: left;
     font-size: 26px;

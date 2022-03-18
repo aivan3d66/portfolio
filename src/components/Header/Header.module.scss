@@ -13,7 +13,11 @@
   background-color: $special_dark-gray-2;
 }
 
-.scrollButton {
+.scrollButtonHide {
+  display: none;
+}
+
+.scrollButtonShow {
   position: fixed;
   bottom: 5%;
   display: flex;

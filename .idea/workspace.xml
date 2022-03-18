@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add aboutContainer background-color style" />
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add react-scroll dependencies">
+      <change afterPath="$PROJECT_DIR$/src/common/Scroll.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Contacts/Contacts.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts/Contacts.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Works/Works.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/Works.module.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +24,7 @@
         <option value="CSS File" />
         <option value="TypeScript JSX File" />
         <option value="SCSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -121,13 +130,6 @@
       <workItem from="1646671421053" duration="152000" />
       <workItem from="1646726369876" duration="3001000" />
       <workItem from="1646853528250" duration="2023000" />
-    </task>
-    <task id="LOCAL-00135" summary="delete fortawesome dependencies">
-      <created>1646641080343</created>
-      <option name="number" value="00135" />
-      <option name="presentableId" value="LOCAL-00135" />
-      <option name="project" value="LOCAL" />
-      <updated>1646641080343</updated>
     </task>
     <task id="LOCAL-00136" summary="add React-icons dependencies">
       <created>1646641459701</created>
@@ -465,7 +467,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647625101273</updated>
     </task>
-    <option name="localTasksCounter" value="184" />
+    <task id="LOCAL-00184" summary="add react-scroll dependencies">
+      <created>1647625910243</created>
+      <option name="number" value="00184" />
+      <option name="presentableId" value="LOCAL-00184" />
+      <option name="project" value="LOCAL" />
+      <updated>1647625910243</updated>
+    </task>
+    <option name="localTasksCounter" value="185" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -484,7 +493,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add upd Social li's" />
     <MESSAGE value="add upd Social a's styles" />
     <MESSAGE value="add upd footerWrapper height" />
     <MESSAGE value="delete containers border" />
@@ -509,6 +517,7 @@
     <MESSAGE value="add aboutText align-items: center style" />
     <MESSAGE value="add aboutText__profession animation" />
     <MESSAGE value="add aboutContainer background-color style" />
-    <option name="LAST_COMMIT_MESSAGE" value="add aboutContainer background-color style" />
+    <MESSAGE value="add react-scroll dependencies" />
+    <option name="LAST_COMMIT_MESSAGE" value="add react-scroll dependencies" />
   </component>
 </project>

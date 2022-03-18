@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add fix SkillItem margins">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +53,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="E:\rjs\portfolio\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="D:\Work\projects\portfolio\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -124,6 +126,7 @@
       <workItem from="1646671421053" duration="152000" />
       <workItem from="1646726369876" duration="3001000" />
       <workItem from="1646853528250" duration="2023000" />
+      <workItem from="1647597598663" duration="1065000" />
     </task>
     <task id="LOCAL-00131" summary="add valid tags">
       <created>1646637553872</created>

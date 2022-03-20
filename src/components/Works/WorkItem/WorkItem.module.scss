@@ -21,18 +21,18 @@
   margin: 0 auto;
   background-position: center;
   background-size: cover;
-}
 
-.workPreview::before {
-  position: absolute;
-  z-index: 0;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  content: '';
-  background-color: $basic_black;
-  opacity: 0.4;
+  &::before {
+    position: absolute;
+    z-index: 0;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    content: '';
+    background-color: $basic_black;
+    opacity: 0.4;
+  }
 }
 
 .workPreview__link {

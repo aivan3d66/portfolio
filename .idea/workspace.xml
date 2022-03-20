@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add scrollButtonShow className">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add pagesLink data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Works/Works.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/Works.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.module.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,21 +132,7 @@
       <workItem from="1646853528250" duration="2023000" />
       <workItem from="1647767155929" duration="66000" />
       <workItem from="1647775695540" duration="2820000" />
-      <workItem from="1647800048274" duration="573000" />
-    </task>
-    <task id="LOCAL-00151" summary="add upd Contacts inputs styles">
-      <created>1646662093449</created>
-      <option name="number" value="00151" />
-      <option name="presentableId" value="LOCAL-00151" />
-      <option name="project" value="LOCAL" />
-      <updated>1646662093449</updated>
-    </task>
-    <task id="LOCAL-00152" summary="add Button directory">
-      <created>1646662263742</created>
-      <option name="number" value="00152" />
-      <option name="presentableId" value="LOCAL-00152" />
-      <option name="project" value="LOCAL" />
-      <updated>1646662263742</updated>
+      <workItem from="1647800048274" duration="745000" />
     </task>
     <task id="LOCAL-00153" summary="add Button components">
       <created>1646662855410</created>
@@ -478,7 +463,21 @@
       <option name="project" value="LOCAL" />
       <updated>1647632948055</updated>
     </task>
-    <option name="localTasksCounter" value="200" />
+    <task id="LOCAL-00200" summary="add pagesLink to props">
+      <created>1647800664683</created>
+      <option name="number" value="00200" />
+      <option name="presentableId" value="LOCAL-00200" />
+      <option name="project" value="LOCAL" />
+      <updated>1647800664684</updated>
+    </task>
+    <task id="LOCAL-00201" summary="add pagesLink data">
+      <created>1647800671624</created>
+      <option name="number" value="00201" />
+      <option name="presentableId" value="LOCAL-00201" />
+      <option name="project" value="LOCAL" />
+      <updated>1647800671624</updated>
+    </task>
+    <option name="localTasksCounter" value="202" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -497,8 +496,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add upd btn margin bpttom" />
-    <MESSAGE value="add fix of bg-images of Works" />
     <MESSAGE value="add fix aboutImage::before height" />
     <MESSAGE value="add new aboutImage margin bottom" />
     <MESSAGE value="add fix SkillItem margins" />
@@ -522,6 +519,8 @@
     <MESSAGE value="add change headerContainer" />
     <MESSAGE value="add scrollButtonHide style" />
     <MESSAGE value="add scrollButtonShow className" />
-    <option name="LAST_COMMIT_MESSAGE" value="add scrollButtonShow className" />
+    <MESSAGE value="add pagesLink to props" />
+    <MESSAGE value="add pagesLink data" />
+    <option name="LAST_COMMIT_MESSAGE" value="add pagesLink data" />
   </component>
 </project>

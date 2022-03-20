@@ -27,16 +27,19 @@ export const Works = () => {
           <WorkItem
             style={todoListBgImg}
             title={"Todo List"}
-            description={"Simple todo list with storage of data on remote server. Technology stack: React, Redux, REST API, Storybook, Unit and snapshot tests"}
+            pagesLink={'https://aivan3d66.github.io/toDoList-TS/'}
+            description={"Simple todo list with storage of data on remote server. Technology stack: React, Redux (Redux-thunk), REST API, Storybook, Unit and snapshot tests"}
           />
           <WorkItem
             style={socialNetworkBgImg}
             title={"Social Network"}
+            pagesLink={'https://aivan3d66.github.io/profile'}
             description={"Mini-version of Social network. It is possible to write messages to another users, add posts, and search for new friends."}
           />
           <WorkItem
             style={bigTripBgImg}
             title={"Big trip"}
+            pagesLink={'https://aivan3d66.github.io/big-trip'}
             description={"Features: The MVP architectural pattern is used, based on the Object-oriented programming (classes)"}
           />
         </div>

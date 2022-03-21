@@ -39,7 +39,7 @@ export const Works = () => {
           <WorkItem
             style={bigTripBgImg}
             title={"Big trip"}
-            pagesLink={'https://aivan3d66.github.io/big-trip'}
+            pagesLink={'https://github.com/aivan3d66/Big-trip'}
             description={"Features: The MVP architectural pattern is used, based on the Object-oriented programming (classes)"}
           />
         </div>

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add fix aboutText__profession width">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add fix project 'social' path">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Works/Works.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/Works.tsx" afterDir="false" />
     </list>
@@ -125,13 +125,6 @@
       <workItem from="1646726369876" duration="3001000" />
       <workItem from="1646853528250" duration="2023000" />
       <workItem from="1647597598663" duration="1065000" />
-    </task>
-    <task id="LOCAL-00133" summary="add Skills refactoring">
-      <created>1646640839616</created>
-      <option name="number" value="00133" />
-      <option name="presentableId" value="LOCAL-00133" />
-      <option name="project" value="LOCAL" />
-      <updated>1646640839616</updated>
     </task>
     <task id="LOCAL-00134" summary="add Skills li styles">
       <created>1646641030866</created>
@@ -469,7 +462,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647842440882</updated>
     </task>
-    <option name="localTasksCounter" value="182" />
+    <task id="LOCAL-00182" summary="add fix project 'social' path">
+      <created>1647845013929</created>
+      <option name="number" value="00182" />
+      <option name="presentableId" value="LOCAL-00182" />
+      <option name="project" value="LOCAL" />
+      <updated>1647845013929</updated>
+    </task>
+    <option name="localTasksCounter" value="183" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -488,7 +488,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add upd contactsForm margins" />
     <MESSAGE value="add Social icons and links" />
     <MESSAGE value="add upd Social li's" />
     <MESSAGE value="add upd Social a's styles" />
@@ -513,6 +512,7 @@
     <MESSAGE value="add fix SkillItem margins" />
     <MESSAGE value="add upd deps." />
     <MESSAGE value="add fix aboutText__profession width" />
-    <option name="LAST_COMMIT_MESSAGE" value="add fix aboutText__profession width" />
+    <MESSAGE value="add fix project 'social' path" />
+    <option name="LAST_COMMIT_MESSAGE" value="add fix project 'social' path" />
   </component>
 </project>

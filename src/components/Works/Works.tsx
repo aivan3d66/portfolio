@@ -20,6 +20,9 @@ export const Works = () => {
   const bigTripBgImg = {
     backgroundImage: `url(${trip})`,
   };
+  const maroonBgImg = {
+    backgroundImage: `url(${maroon})`,
+  };
 
   return (
     <section className={style.worksContainer}>

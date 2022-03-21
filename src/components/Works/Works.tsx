@@ -7,6 +7,8 @@ import todos from "../../assets/images/todos.PNG";
 import trip from "./../../assets/images/trip.PNG";
 // @ts-ignore
 import social from "./../../assets/images/social.PNG";
+// @ts-ignore
+import maroon from "./../../assets/images/maroonPrewiev.PNG";
 
 export const Works = () => {
   const todoListBgImg = {

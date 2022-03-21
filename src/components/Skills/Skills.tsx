@@ -7,6 +7,9 @@ import {SiTypescript} from "react-icons/si";
 import {SiRedux} from "react-icons/si";
 import {SiJest} from "react-icons/si";
 import {SiStorybook} from "react-icons/si";
+import {SiGithub} from "react-icons/si";
+import {SiSass} from "react-icons/si";
+import {SiTailwindcss} from "react-icons/si";
 
 export const Skills = () => {
   return (
@@ -54,6 +57,13 @@ export const Skills = () => {
             <SkillItem
               title={"Storybook"}
               text={"It streamlines UI development, testing, and documentation"}
+            />
+          </li>
+          <li>
+            <SiGithub className={style.skillItem__img}/>
+            <SkillItem
+              title={"GIT"}
+              text={"Where the world builds software"}
             />
           </li>
         </ul>

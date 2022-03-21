@@ -33,11 +33,11 @@
 }
 
 .aboutText__profession {
-  width: 30ch;
+  width: 27ch;
   white-space: nowrap;
   overflow: hidden;
   border-right: 4px solid #4e93e6;
-  animation: flashing-border 0.75s step-end infinite, printed-text 5s steps(30);
+  animation: flashing-border 0.75s step-end infinite, printed-text 5s steps(27);
 }
 
 @keyframes flashing-border {

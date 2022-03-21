@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add fix project 'big trip' path">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add new workItem">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Works/Works.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/Works.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../friday-project" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -62,11 +63,11 @@
       <recent name="E:\rjs\portfolio\src\components\Skills\SkillItem" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Work\projects\portfolio\public" />
       <recent name="E:\rjs\portfolio\src" />
       <recent name="E:\rjs\portfolio\src\common\Title" />
       <recent name="E:\rjs\portfolio\src\components\Works\WorkItem" />
       <recent name="E:\rjs\portfolio\src\components" />
-      <recent name="E:\rjs\portfolio\src\components\Header\Navigation\NavigationItem" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -126,28 +127,7 @@
       <workItem from="1646853528250" duration="2023000" />
       <workItem from="1647597598663" duration="1065000" />
       <workItem from="1647849656518" duration="13000" />
-      <workItem from="1647852994099" duration="426000" />
-    </task>
-    <task id="LOCAL-00135" summary="delete fortawesome dependencies">
-      <created>1646641080343</created>
-      <option name="number" value="00135" />
-      <option name="presentableId" value="LOCAL-00135" />
-      <option name="project" value="LOCAL" />
-      <updated>1646641080343</updated>
-    </task>
-    <task id="LOCAL-00136" summary="add React-icons dependencies">
-      <created>1646641459701</created>
-      <option name="number" value="00136" />
-      <option name="presentableId" value="LOCAL-00136" />
-      <option name="project" value="LOCAL" />
-      <updated>1646641459701</updated>
-    </task>
-    <task id="LOCAL-00137" summary="add React-icons imports">
-      <created>1646641543211</created>
-      <option name="number" value="00137" />
-      <option name="presentableId" value="LOCAL-00137" />
-      <option name="project" value="LOCAL" />
-      <updated>1646641543211</updated>
+      <workItem from="1647852994099" duration="1594000" />
     </task>
     <task id="LOCAL-00138" summary="add new Skill item">
       <created>1646642660730</created>
@@ -471,7 +451,28 @@
       <option name="project" value="LOCAL" />
       <updated>1647847139309</updated>
     </task>
-    <option name="localTasksCounter" value="184" />
+    <task id="LOCAL-00184" summary="add maroon preview import">
+      <created>1647855244061</created>
+      <option name="number" value="00184" />
+      <option name="presentableId" value="LOCAL-00184" />
+      <option name="project" value="LOCAL" />
+      <updated>1647855244061</updated>
+    </task>
+    <task id="LOCAL-00185" summary="add maroonBgImg">
+      <created>1647855256921</created>
+      <option name="number" value="00185" />
+      <option name="presentableId" value="LOCAL-00185" />
+      <option name="project" value="LOCAL" />
+      <updated>1647855256921</updated>
+    </task>
+    <task id="LOCAL-00186" summary="add new workItem">
+      <created>1647855273935</created>
+      <option name="number" value="00186" />
+      <option name="presentableId" value="LOCAL-00186" />
+      <option name="project" value="LOCAL" />
+      <updated>1647855273935</updated>
+    </task>
+    <option name="localTasksCounter" value="187" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,9 +491,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add upd Social li's" />
-    <MESSAGE value="add upd Social a's styles" />
-    <MESSAGE value="add upd footerWrapper height" />
     <MESSAGE value="delete containers border" />
     <MESSAGE value="add Vanta.js dependencies" />
     <MESSAGE value="add Vanta.js script" />
@@ -515,6 +513,9 @@
     <MESSAGE value="add fix aboutText__profession width" />
     <MESSAGE value="add fix project 'social' path" />
     <MESSAGE value="add fix project 'big trip' path" />
-    <option name="LAST_COMMIT_MESSAGE" value="add fix project 'big trip' path" />
+    <MESSAGE value="add maroon preview import" />
+    <MESSAGE value="add maroonBgImg" />
+    <MESSAGE value="add new workItem" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new workItem" />
   </component>
 </project>

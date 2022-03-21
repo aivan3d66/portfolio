@@ -25,11 +25,13 @@ export const Skills = () => {
         <ul className={style.skillsList}>
           <Swiper
             modules={[Navigation, Pagination, A11y]}
-            spaceBetween={20}
-            slidesPerView={"auto"}
             navigation
+            spaceBetween={20}
+            slidesPerView={'auto'}
+            centeredSlidesBounds={true}
             pagination={{clickable: true}}
             scrollbar={{draggable: true}}
+            grabCursor={true}
             onSwiper={(swiper) => console.log(swiper)}
             onSlideChange={() => console.log('slide change')}
           >

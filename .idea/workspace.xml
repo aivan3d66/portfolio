@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add redundant functional">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add upd Swiper slider styles">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Skills/SkillItem/SkillItem.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/SkillItem/SkillItem.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" afterDir="false" />
     </list>
@@ -128,21 +127,7 @@
       <workItem from="1646853528250" duration="2023000" />
       <workItem from="1647597598663" duration="1065000" />
       <workItem from="1647849656518" duration="13000" />
-      <workItem from="1647852994099" duration="7990000" />
-    </task>
-    <task id="LOCAL-00147" summary="add upd AboutMe styles">
-      <created>1646659802136</created>
-      <option name="number" value="00147" />
-      <option name="presentableId" value="LOCAL-00147" />
-      <option name="project" value="LOCAL" />
-      <updated>1646659802136</updated>
-    </task>
-    <task id="LOCAL-00148" summary="add upd Employ default button styles">
-      <created>1646660407578</created>
-      <option name="number" value="00148" />
-      <option name="presentableId" value="LOCAL-00148" />
-      <option name="project" value="LOCAL" />
-      <updated>1646660407578</updated>
+      <workItem from="1647852994099" duration="9779000" />
     </task>
     <task id="LOCAL-00149" summary="add upd Employ hover button styles">
       <created>1646661187508</created>
@@ -473,7 +458,21 @@
       <option name="project" value="LOCAL" />
       <updated>1647860134094</updated>
     </task>
-    <option name="localTasksCounter" value="196" />
+    <task id="LOCAL-00196" summary="add Swiper slider">
+      <created>1647863058485</created>
+      <option name="number" value="00196" />
+      <option name="presentableId" value="LOCAL-00196" />
+      <option name="project" value="LOCAL" />
+      <updated>1647863058485</updated>
+    </task>
+    <task id="LOCAL-00197" summary="add upd Swiper slider styles">
+      <created>1647863070545</created>
+      <option name="number" value="00197" />
+      <option name="presentableId" value="LOCAL-00197" />
+      <option name="project" value="LOCAL" />
+      <updated>1647863070545</updated>
+    </task>
+    <option name="localTasksCounter" value="198" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -492,8 +491,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add upd workItem width" />
-    <MESSAGE value="add upd aboutText margin" />
     <MESSAGE value="add upd skillsList margin" />
     <MESSAGE value="add upd skillsList item after" />
     <MESSAGE value="add upd btn margin bpttom" />
@@ -517,6 +514,8 @@
     <MESSAGE value="add new skill icons" />
     <MESSAGE value="add swiper dep." />
     <MESSAGE value="add redundant functional" />
-    <option name="LAST_COMMIT_MESSAGE" value="add redundant functional" />
+    <MESSAGE value="add Swiper slider" />
+    <MESSAGE value="add upd Swiper slider styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="add upd Swiper slider styles" />
   </component>
 </project>

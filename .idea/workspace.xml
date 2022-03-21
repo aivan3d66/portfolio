@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add favicon">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add upd BigTrip description">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Works/Works.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/Works.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,14 +127,7 @@
       <workItem from="1646853528250" duration="2023000" />
       <workItem from="1647597598663" duration="1065000" />
       <workItem from="1647849656518" duration="13000" />
-      <workItem from="1647852994099" duration="2205000" />
-    </task>
-    <task id="LOCAL-00139" summary="add skillItem__img pseudo background">
-      <created>1646642687478</created>
-      <option name="number" value="00139" />
-      <option name="presentableId" value="LOCAL-00139" />
-      <option name="project" value="LOCAL" />
-      <updated>1646642687478</updated>
+      <workItem from="1647852994099" duration="2924000" />
     </task>
     <task id="LOCAL-00140" summary="delete container border">
       <created>1646642713391</created>
@@ -471,7 +465,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647856803366</updated>
     </task>
-    <option name="localTasksCounter" value="188" />
+    <task id="LOCAL-00188" summary="add upd BigTrip description">
+      <created>1647857230634</created>
+      <option name="number" value="00188" />
+      <option name="presentableId" value="LOCAL-00188" />
+      <option name="project" value="LOCAL" />
+      <updated>1647857230634</updated>
+    </task>
+    <option name="localTasksCounter" value="189" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,7 +491,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add Vanta.js dependencies" />
     <MESSAGE value="add Vanta.js script" />
     <MESSAGE value="add variable import to App" />
     <MESSAGE value="add vantaEffect" />
@@ -515,6 +515,7 @@
     <MESSAGE value="add maroonBgImg" />
     <MESSAGE value="add new workItem" />
     <MESSAGE value="add favicon" />
-    <option name="LAST_COMMIT_MESSAGE" value="add favicon" />
+    <MESSAGE value="add upd BigTrip description" />
+    <option name="LAST_COMMIT_MESSAGE" value="add upd BigTrip description" />
   </component>
 </project>

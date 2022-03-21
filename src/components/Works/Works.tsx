@@ -44,8 +44,14 @@ export const Works = () => {
           <WorkItem
             style={bigTripBgImg}
             title={"Big trip"}
-            pagesLink={'https://github.com/aivan3d66/Big-trip'}
+            pagesLink={'https://aivan3d66.github.io/Big-trip/'}
             description={"Features: The MVP architectural pattern is used, based on the Object-oriented programming (classes)"}
+          />
+          <WorkItem
+            style={maroonBgImg}
+            title={"Maroon"}
+            pagesLink={'https://aivan3d66.github.io/Maroon/'}
+            description={"E-shop website with main, catalog, product card pages. Adaptive design (desktop, tablet, mobile) flex and grid-based layout, \"Mobile first\""}
           />
         </div>
       </div>

@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add swiper dep.">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add redundant functional">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Skills/SkillItem/SkillItem.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/SkillItem/SkillItem.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="TypeScript JSX File" />
         <option value="SCSS File" />
+        <option value="TypeScript JSX File" />
       </list>
     </option>
   </component>
@@ -126,14 +128,7 @@
       <workItem from="1646853528250" duration="2023000" />
       <workItem from="1647597598663" duration="1065000" />
       <workItem from="1647849656518" duration="13000" />
-      <workItem from="1647852994099" duration="5265000" />
-    </task>
-    <task id="LOCAL-00146" summary="add upd aboutText__name">
-      <created>1646659781463</created>
-      <option name="number" value="00146" />
-      <option name="presentableId" value="LOCAL-00146" />
-      <option name="project" value="LOCAL" />
-      <updated>1646659781463</updated>
+      <workItem from="1647852994099" duration="7990000" />
     </task>
     <task id="LOCAL-00147" summary="add upd AboutMe styles">
       <created>1646659802136</created>
@@ -471,7 +466,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647859996513</updated>
     </task>
-    <option name="localTasksCounter" value="195" />
+    <task id="LOCAL-00195" summary="add redundant functional">
+      <created>1647860134094</created>
+      <option name="number" value="00195" />
+      <option name="presentableId" value="LOCAL-00195" />
+      <option name="project" value="LOCAL" />
+      <updated>1647860134094</updated>
+    </task>
+    <option name="localTasksCounter" value="196" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,7 +492,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add skillsList item margin" />
     <MESSAGE value="add upd workItem width" />
     <MESSAGE value="add upd aboutText margin" />
     <MESSAGE value="add upd skillsList margin" />
@@ -515,6 +516,7 @@
     <MESSAGE value="add hide hover animation" />
     <MESSAGE value="add new skill icons" />
     <MESSAGE value="add swiper dep." />
-    <option name="LAST_COMMIT_MESSAGE" value="add swiper dep." />
+    <MESSAGE value="add redundant functional" />
+    <option name="LAST_COMMIT_MESSAGE" value="add redundant functional" />
   </component>
 </project>

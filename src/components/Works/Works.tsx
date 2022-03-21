@@ -45,7 +45,7 @@ export const Works = () => {
             style={bigTripBgImg}
             title={"Big trip"}
             pagesLink={'https://aivan3d66.github.io/Big-trip/'}
-            description={"Features: The MVP architectural pattern is used, based on the Object-oriented programming (classes)"}
+            description={"Features: The MVP architectural pattern is used, based on the Object-oriented programming (classes), Off-line mode (Service Worker)"}
           />
           <WorkItem
             style={maroonBgImg}

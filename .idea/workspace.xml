@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add textScrambler">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_03_2022_20_03__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_03_2022_20_03__Changes_.xml" afterDir="false" />
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add fix aboutText__profession width">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Works/Works.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/Works.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +43,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../socialNetwork-project" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -128,20 +125,6 @@
       <workItem from="1646726369876" duration="3001000" />
       <workItem from="1646853528250" duration="2023000" />
       <workItem from="1647597598663" duration="1065000" />
-    </task>
-    <task id="LOCAL-00131" summary="add valid tags">
-      <created>1646637553872</created>
-      <option name="number" value="00131" />
-      <option name="presentableId" value="LOCAL-00131" />
-      <option name="project" value="LOCAL" />
-      <updated>1646637553872</updated>
-    </task>
-    <task id="LOCAL-00132" summary="delete image from SkillItem">
-      <created>1646640820361</created>
-      <option name="number" value="00132" />
-      <option name="presentableId" value="LOCAL-00132" />
-      <option name="project" value="LOCAL" />
-      <updated>1646640820361</updated>
     </task>
     <task id="LOCAL-00133" summary="add Skills refactoring">
       <created>1646640839616</created>
@@ -472,7 +455,21 @@
       <option name="project" value="LOCAL" />
       <updated>1646855441171</updated>
     </task>
-    <option name="localTasksCounter" value="180" />
+    <task id="LOCAL-00180" summary="add upd deps.">
+      <created>1647842427733</created>
+      <option name="number" value="00180" />
+      <option name="presentableId" value="LOCAL-00180" />
+      <option name="project" value="LOCAL" />
+      <updated>1647842427734</updated>
+    </task>
+    <task id="LOCAL-00181" summary="add fix aboutText__profession width">
+      <created>1647842440882</created>
+      <option name="number" value="00181" />
+      <option name="presentableId" value="LOCAL-00181" />
+      <option name="project" value="LOCAL" />
+      <updated>1647842440882</updated>
+    </task>
+    <option name="localTasksCounter" value="182" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -491,8 +488,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add Button import" />
-    <MESSAGE value="delete Button styles" />
     <MESSAGE value="add upd contactsForm margins" />
     <MESSAGE value="add Social icons and links" />
     <MESSAGE value="add upd Social li's" />
@@ -516,6 +511,8 @@
     <MESSAGE value="add fix aboutImage::before height" />
     <MESSAGE value="add new aboutImage margin bottom" />
     <MESSAGE value="add fix SkillItem margins" />
-    <option name="LAST_COMMIT_MESSAGE" value="add fix SkillItem margins" />
+    <MESSAGE value="add upd deps." />
+    <MESSAGE value="add fix aboutText__profession width" />
+    <option name="LAST_COMMIT_MESSAGE" value="add fix aboutText__profession width" />
   </component>
 </project>

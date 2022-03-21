@@ -33,7 +33,7 @@ export const Works = () => {
           <WorkItem
             style={socialNetworkBgImg}
             title={"Social Network"}
-            pagesLink={'https://aivan3d66.github.io/profile'}
+            pagesLink={'https://aivan3d66.github.io/socialNetwork-project/'}
             description={"Mini-version of Social network. It is possible to write messages to another users, add posts, and search for new friends."}
           />
           <WorkItem

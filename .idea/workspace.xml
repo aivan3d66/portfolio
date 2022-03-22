@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add upd Swiper slider styles">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add upd skillsWrapper value">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Works/Works.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/Works.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../friday-project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -127,28 +128,10 @@
       <workItem from="1646853528250" duration="2023000" />
       <workItem from="1647597598663" duration="1065000" />
       <workItem from="1647849656518" duration="13000" />
-      <workItem from="1647852994099" duration="9779000" />
-    </task>
-    <task id="LOCAL-00149" summary="add upd Employ hover button styles">
-      <created>1646661187508</created>
-      <option name="number" value="00149" />
-      <option name="presentableId" value="LOCAL-00149" />
-      <option name="project" value="LOCAL" />
-      <updated>1646661187508</updated>
-    </task>
-    <task id="LOCAL-00150" summary="add upd Contacts inputs placeholders">
-      <created>1646662083312</created>
-      <option name="number" value="00150" />
-      <option name="presentableId" value="LOCAL-00150" />
-      <option name="project" value="LOCAL" />
-      <updated>1646662083312</updated>
-    </task>
-    <task id="LOCAL-00151" summary="add upd Contacts inputs styles">
-      <created>1646662093449</created>
-      <option name="number" value="00151" />
-      <option name="presentableId" value="LOCAL-00151" />
-      <option name="project" value="LOCAL" />
-      <updated>1646662093449</updated>
+      <workItem from="1647852994099" duration="10069000" />
+      <workItem from="1647927201055" duration="78000" />
+      <workItem from="1647936587958" duration="37000" />
+      <workItem from="1647938919403" duration="684000" />
     </task>
     <task id="LOCAL-00152" summary="add Button directory">
       <created>1646662263742</created>
@@ -472,7 +455,28 @@
       <option name="project" value="LOCAL" />
       <updated>1647863070545</updated>
     </task>
-    <option name="localTasksCounter" value="198" />
+    <task id="LOCAL-00198" summary="add upd Swiper props (centeredSlidesBounds, grabCursor)">
+      <created>1647865052662</created>
+      <option name="number" value="00198" />
+      <option name="presentableId" value="LOCAL-00198" />
+      <option name="project" value="LOCAL" />
+      <updated>1647865052662</updated>
+    </task>
+    <task id="LOCAL-00199" summary="add upd Swiper styles imports">
+      <created>1647865063893</created>
+      <option name="number" value="00199" />
+      <option name="presentableId" value="LOCAL-00199" />
+      <option name="project" value="LOCAL" />
+      <updated>1647865063893</updated>
+    </task>
+    <task id="LOCAL-00200" summary="add upd skillsWrapper value">
+      <created>1647865099390</created>
+      <option name="number" value="00200" />
+      <option name="presentableId" value="LOCAL-00200" />
+      <option name="project" value="LOCAL" />
+      <updated>1647865099390</updated>
+    </task>
+    <option name="localTasksCounter" value="201" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -491,9 +495,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add upd skillsList margin" />
-    <MESSAGE value="add upd skillsList item after" />
-    <MESSAGE value="add upd btn margin bpttom" />
     <MESSAGE value="add fix of bg-images of Works" />
     <MESSAGE value="add fix aboutImage::before height" />
     <MESSAGE value="add new aboutImage margin bottom" />
@@ -516,6 +517,9 @@
     <MESSAGE value="add redundant functional" />
     <MESSAGE value="add Swiper slider" />
     <MESSAGE value="add upd Swiper slider styles" />
-    <option name="LAST_COMMIT_MESSAGE" value="add upd Swiper slider styles" />
+    <MESSAGE value="add upd Swiper props (centeredSlidesBounds, grabCursor)" />
+    <MESSAGE value="add upd Swiper styles imports" />
+    <MESSAGE value="add upd skillsWrapper value" />
+    <option name="LAST_COMMIT_MESSAGE" value="add upd skillsWrapper value" />
   </component>
 </project>

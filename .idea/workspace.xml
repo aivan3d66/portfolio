@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add upd workItem styles">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Works/Works.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/Works.module.scss" afterDir="false" />
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add variables to WorksItem.module.scss">
+      <change beforePath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.module.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,21 +128,7 @@
       <workItem from="1647852994099" duration="10069000" />
       <workItem from="1647927201055" duration="78000" />
       <workItem from="1647936587958" duration="37000" />
-      <workItem from="1647938919403" duration="1294000" />
-    </task>
-    <task id="LOCAL-00155" summary="delete Button styles">
-      <created>1646662880369</created>
-      <option name="number" value="00155" />
-      <option name="presentableId" value="LOCAL-00155" />
-      <option name="project" value="LOCAL" />
-      <updated>1646662880369</updated>
-    </task>
-    <task id="LOCAL-00156" summary="delete Button styles">
-      <created>1646662890446</created>
-      <option name="number" value="00156" />
-      <option name="presentableId" value="LOCAL-00156" />
-      <option name="project" value="LOCAL" />
-      <updated>1646662890446</updated>
+      <workItem from="1647938919403" duration="1535000" />
     </task>
     <task id="LOCAL-00157" summary="add upd contactsForm margins">
       <created>1646662995375</created>
@@ -475,7 +459,21 @@
       <option name="project" value="LOCAL" />
       <updated>1647939692889</updated>
     </task>
-    <option name="localTasksCounter" value="204" />
+    <task id="LOCAL-00204" summary="add variables to Works.module.scss">
+      <created>1647940348788</created>
+      <option name="number" value="00204" />
+      <option name="presentableId" value="LOCAL-00204" />
+      <option name="project" value="LOCAL" />
+      <updated>1647940348788</updated>
+    </task>
+    <task id="LOCAL-00205" summary="add variables to WorksItem.module.scss">
+      <created>1647940402932</created>
+      <option name="number" value="00205" />
+      <option name="presentableId" value="LOCAL-00205" />
+      <option name="project" value="LOCAL" />
+      <updated>1647940402932</updated>
+    </task>
+    <option name="localTasksCounter" value="206" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -494,8 +492,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add fix SkillItem margins" />
-    <MESSAGE value="add upd deps." />
     <MESSAGE value="add fix aboutText__profession width" />
     <MESSAGE value="add fix project 'social' path" />
     <MESSAGE value="add fix project 'big trip' path" />
@@ -519,6 +515,8 @@
     <MESSAGE value="add githubLink to WorkItem prop" />
     <MESSAGE value="add upd WorkItem props type and add githubLink" />
     <MESSAGE value="add upd workItem styles" />
-    <option name="LAST_COMMIT_MESSAGE" value="add upd workItem styles" />
+    <MESSAGE value="add variables to Works.module.scss" />
+    <MESSAGE value="add variables to WorksItem.module.scss" />
+    <option name="LAST_COMMIT_MESSAGE" value="add variables to WorksItem.module.scss" />
   </component>
 </project>

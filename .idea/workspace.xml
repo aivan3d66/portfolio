@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add upd skillsWrapper value">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add upd workItem styles">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Works/Works.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/Works.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Works/Works.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/Works.module.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,28 +130,7 @@
       <workItem from="1647852994099" duration="10069000" />
       <workItem from="1647927201055" duration="78000" />
       <workItem from="1647936587958" duration="37000" />
-      <workItem from="1647938919403" duration="684000" />
-    </task>
-    <task id="LOCAL-00152" summary="add Button directory">
-      <created>1646662263742</created>
-      <option name="number" value="00152" />
-      <option name="presentableId" value="LOCAL-00152" />
-      <option name="project" value="LOCAL" />
-      <updated>1646662263742</updated>
-    </task>
-    <task id="LOCAL-00153" summary="add Button components">
-      <created>1646662855410</created>
-      <option name="number" value="00153" />
-      <option name="presentableId" value="LOCAL-00153" />
-      <option name="project" value="LOCAL" />
-      <updated>1646662855410</updated>
-    </task>
-    <task id="LOCAL-00154" summary="add Button import">
-      <created>1646662867577</created>
-      <option name="number" value="00154" />
-      <option name="presentableId" value="LOCAL-00154" />
-      <option name="project" value="LOCAL" />
-      <updated>1646662867577</updated>
+      <workItem from="1647938919403" duration="1294000" />
     </task>
     <task id="LOCAL-00155" summary="delete Button styles">
       <created>1646662880369</created>
@@ -476,7 +454,28 @@
       <option name="project" value="LOCAL" />
       <updated>1647865099390</updated>
     </task>
-    <option name="localTasksCounter" value="201" />
+    <task id="LOCAL-00201" summary="add githubLink to WorkItem prop">
+      <created>1647939653818</created>
+      <option name="number" value="00201" />
+      <option name="presentableId" value="LOCAL-00201" />
+      <option name="project" value="LOCAL" />
+      <updated>1647939653818</updated>
+    </task>
+    <task id="LOCAL-00202" summary="add upd WorkItem props type and add githubLink">
+      <created>1647939680205</created>
+      <option name="number" value="00202" />
+      <option name="presentableId" value="LOCAL-00202" />
+      <option name="project" value="LOCAL" />
+      <updated>1647939680205</updated>
+    </task>
+    <task id="LOCAL-00203" summary="add upd workItem styles">
+      <created>1647939692889</created>
+      <option name="number" value="00203" />
+      <option name="presentableId" value="LOCAL-00203" />
+      <option name="project" value="LOCAL" />
+      <updated>1647939692889</updated>
+    </task>
+    <option name="localTasksCounter" value="204" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -495,9 +494,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add fix of bg-images of Works" />
-    <MESSAGE value="add fix aboutImage::before height" />
-    <MESSAGE value="add new aboutImage margin bottom" />
     <MESSAGE value="add fix SkillItem margins" />
     <MESSAGE value="add upd deps." />
     <MESSAGE value="add fix aboutText__profession width" />
@@ -520,6 +516,9 @@
     <MESSAGE value="add upd Swiper props (centeredSlidesBounds, grabCursor)" />
     <MESSAGE value="add upd Swiper styles imports" />
     <MESSAGE value="add upd skillsWrapper value" />
-    <option name="LAST_COMMIT_MESSAGE" value="add upd skillsWrapper value" />
+    <MESSAGE value="add githubLink to WorkItem prop" />
+    <MESSAGE value="add upd WorkItem props type and add githubLink" />
+    <MESSAGE value="add upd workItem styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="add upd workItem styles" />
   </component>
 </project>

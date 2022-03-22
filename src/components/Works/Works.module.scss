@@ -1,15 +1,15 @@
 @import "./src/styles/variables";
 
 .worksContainer {
-  min-width: 320px;
+  min-width: $mobile-width-only;
   margin: 0;
   padding: 0;
   background-color: $special_dark-gray;
 }
 
 .worksWrapper {
-  max-width: 1120px;
-  min-width: 320px;
+  max-width: $desktop-width;
+  min-width: $mobile-width-only;
   min-height: 100vh;
   margin: 0 auto;
 }
@@ -20,15 +20,15 @@
   justify-content: space-between;
 }
 
-@media (max-width: 320px) {
+@media (max-width: $mobile-width-only) {
   .worksWrapper {
-    max-width: 320px;
+    max-width: $mobile-width-only;
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: $tablet-width) {
   .worksWrapper {
-    min-width: 768px;
+    min-width: $tablet-width;
   }
 
   .worksList {
@@ -37,9 +37,9 @@
   }
 }
 
-@media (min-width: 1120px) {
+@media (min-width: $desktop-width) {
   .worksWrapper {
-    min-width: 1120px;
+    min-width: $desktop-width;
   }
 
   .worksList {

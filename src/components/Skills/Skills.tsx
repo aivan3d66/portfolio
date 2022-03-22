@@ -25,7 +25,6 @@ export const Skills = () => {
         <ul className={style.skillsList}>
           <Swiper
             modules={[Navigation, Pagination, A11y]}
-            navigation
             spaceBetween={20}
             slidesPerView={'auto'}
             centeredSlidesBounds={true}

@@ -3,7 +3,7 @@
 .headerContainer {
   position: static;
   z-index: 5;
-  min-width: 320px;
+  min-width: $mobile-width-only;
   width: 100%;
   margin: 0;
   padding: 0;
@@ -47,7 +47,7 @@
 .navList {
   display: flex;
   justify-content: space-between;
-  max-width: 320px;
+  max-width: $mobile-width-only;
   margin: 0 auto;
 
   a:hover {
@@ -59,7 +59,7 @@
 
 @media (max-width: $mobile-width-only) {
   .headerWrapper {
-    max-width: 320px;
+    max-width: $mobile-width-only;
     min-height: 40px;
     margin: 0 auto 0 auto;
   }
@@ -67,11 +67,11 @@
 
 @media (min-width: $tablet-width) {
   .headerContainer {
-    min-width: 768px;
+    min-width: $tablet-width;
   }
 
   .headerWrapper {
-    min-width: 768px;
+    min-width: $tablet-width;
     min-height: 40px;
     margin: 0 auto;
     padding: 20px 20px;
@@ -88,7 +88,7 @@
   }
 
   .headerWrapper {
-    max-width: 1120px;
+    max-width: $desktop-width;
     min-height: 40px;
     margin: 0 auto;
     padding: 20px 20px;

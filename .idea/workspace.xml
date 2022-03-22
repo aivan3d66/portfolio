@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add variables to Employ.module.scss">
-      <change beforePath="$PROJECT_DIR$/src/components/Footer/Footer.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.module.scss" afterDir="false" />
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add variables to Footer.module.scss">
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.module.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,14 +128,7 @@
       <workItem from="1647852994099" duration="10069000" />
       <workItem from="1647927201055" duration="78000" />
       <workItem from="1647936587958" duration="37000" />
-      <workItem from="1647938919403" duration="1682000" />
-    </task>
-    <task id="LOCAL-00160" summary="add upd Social a's styles">
-      <created>1646665134182</created>
-      <option name="number" value="00160" />
-      <option name="presentableId" value="LOCAL-00160" />
-      <option name="project" value="LOCAL" />
-      <updated>1646665134182</updated>
+      <workItem from="1647938919403" duration="1739000" />
     </task>
     <task id="LOCAL-00161" summary="add upd footerWrapper height">
       <created>1646665145950</created>
@@ -473,7 +466,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647940583393</updated>
     </task>
-    <option name="localTasksCounter" value="209" />
+    <task id="LOCAL-00209" summary="add variables to Footer.module.scss">
+      <created>1647940634538</created>
+      <option name="number" value="00209" />
+      <option name="presentableId" value="LOCAL-00209" />
+      <option name="project" value="LOCAL" />
+      <updated>1647940634538</updated>
+    </task>
+    <option name="localTasksCounter" value="210" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -492,7 +492,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add maroon preview import" />
     <MESSAGE value="add maroonBgImg" />
     <MESSAGE value="add new workItem" />
     <MESSAGE value="add favicon" />
@@ -517,6 +516,7 @@
     <MESSAGE value="add variables to AboutMe.module.scss" />
     <MESSAGE value="add variables to Contacts.module.scss" />
     <MESSAGE value="add variables to Employ.module.scss" />
-    <option name="LAST_COMMIT_MESSAGE" value="add variables to Employ.module.scss" />
+    <MESSAGE value="add variables to Footer.module.scss" />
+    <option name="LAST_COMMIT_MESSAGE" value="add variables to Footer.module.scss" />
   </component>
 </project>

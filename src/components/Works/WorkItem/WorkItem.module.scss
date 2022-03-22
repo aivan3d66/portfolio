@@ -8,12 +8,15 @@
   margin: 0 auto 40px auto;
   text-align: center;
   font-family: $basic_font;
+  border-radius: 5px;
+  overflow: hidden;
   background-color: $special_dark-gray-2;
 }
 
 .workPreview {
   position: relative;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   width: 100%;
@@ -42,7 +45,7 @@
   }
 
   &:hover::before {
-    opacity: 0.7;
+    opacity: 0.8;
   }
 }
 
@@ -52,6 +55,7 @@
   display: none;
   width: 100px;
   padding: 12px 12px 8px 12px;
+  margin: 10px 0;
   font-size: 20px;
   vertical-align: center;
   text-transform: uppercase;

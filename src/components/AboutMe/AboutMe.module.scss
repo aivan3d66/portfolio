@@ -7,6 +7,7 @@
   font-family: $additional_font;
   color: $basic_white;
   background-color: $special_dark-gray;
+  opacity: 0;
 }
 
 .aboutWrapper {
@@ -26,6 +27,7 @@
   text-align: center;
   font-size: 18px;
   font-weight: 300;
+  opacity: 0;
 }
 
 .aboutText__greeting {

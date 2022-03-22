@@ -1,7 +1,7 @@
 @import "./src/styles/variables";
 
 .footerContainer {
-  min-width: 320px;
+  min-width: $mobile-width-only;
   margin: 0;
   padding: 0;
   font-family: $basic_font;
@@ -14,8 +14,8 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  max-width: 1120px;
-  min-width: 320px;
+  max-width: $desktop-width;
+  min-width: $mobile-width-only;
   height: 240px;
   margin: 0 auto;
   padding: 0;
@@ -30,12 +30,12 @@
 
 @media (max-width: $mobile-width-only) {
   .footerWrapper {
-    max-width: 320px;
+    max-width: $mobile-width-only;
   }
 }
 
 @media (min-width: $tablet-width) {
   .footerWrapper {
-    min-width: 768px;
+    min-width: $tablet-width;
   }
 }

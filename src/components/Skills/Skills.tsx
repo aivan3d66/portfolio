@@ -26,6 +26,7 @@ export const Skills = () => {
           <Swiper
             modules={[Navigation, Pagination, A11y]}
             spaceBetween={20}
+            navigation
             slidesPerView={'auto'}
             centeredSlidesBounds={true}
             pagination={{clickable: true}}

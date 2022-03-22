@@ -76,15 +76,6 @@
     min-width: $mobile-width-only;
     max-width: $mobile-width-only;
   }
-
-  .skillsList {
-    display: flex;
-    flex-direction: column;
-
-    li {
-      margin: 40px 0;
-    }
-  }
 }
 
 @media (min-width: $tablet-width) {
@@ -112,12 +103,7 @@
 
 @media (min-width: $desktop-width) {
   .skillsWrapper {
-    min-width: $desktop-width;
-    padding: 0;
-  }
-
-  .skillsList {
-    width: 100%;
+    min-width: 100%;
     padding: 0;
   }
 }

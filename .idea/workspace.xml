@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add variables to AboutMe.module.scss">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Contacts/Contacts.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts/Contacts.module.scss" afterDir="false" />
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add variables to Contacts.module.scss">
+      <change beforePath="$PROJECT_DIR$/src/components/Employ/Employ.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Employ/Employ.module.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,14 +128,7 @@
       <workItem from="1647852994099" duration="10069000" />
       <workItem from="1647927201055" duration="78000" />
       <workItem from="1647936587958" duration="37000" />
-      <workItem from="1647938919403" duration="1612000" />
-    </task>
-    <task id="LOCAL-00158" summary="add Social icons and links">
-      <created>1646664733447</created>
-      <option name="number" value="00158" />
-      <option name="presentableId" value="LOCAL-00158" />
-      <option name="project" value="LOCAL" />
-      <updated>1646664733447</updated>
+      <workItem from="1647938919403" duration="1644000" />
     </task>
     <task id="LOCAL-00159" summary="add upd Social li's">
       <created>1646665109634</created>
@@ -474,7 +466,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647940499035</updated>
     </task>
-    <option name="localTasksCounter" value="207" />
+    <task id="LOCAL-00207" summary="add variables to Contacts.module.scss">
+      <created>1647940548221</created>
+      <option name="number" value="00207" />
+      <option name="presentableId" value="LOCAL-00207" />
+      <option name="project" value="LOCAL" />
+      <updated>1647940548221</updated>
+    </task>
+    <option name="localTasksCounter" value="208" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -493,7 +492,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add fix project 'social' path" />
     <MESSAGE value="add fix project 'big trip' path" />
     <MESSAGE value="add maroon preview import" />
     <MESSAGE value="add maroonBgImg" />
@@ -518,6 +516,7 @@
     <MESSAGE value="add variables to Works.module.scss" />
     <MESSAGE value="add variables to WorksItem.module.scss" />
     <MESSAGE value="add variables to AboutMe.module.scss" />
-    <option name="LAST_COMMIT_MESSAGE" value="add variables to AboutMe.module.scss" />
+    <MESSAGE value="add variables to Contacts.module.scss" />
+    <option name="LAST_COMMIT_MESSAGE" value="add variables to Contacts.module.scss" />
   </component>
 </project>

@@ -1,7 +1,7 @@
 @import "./src/styles/variables";
 
 .employContainer {
-  min-width: 320px;
+  min-width: $mobile-width-only;
   margin: 0;
   padding: 0;
   background-color: $special_dark-gray-2;
@@ -11,7 +11,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  max-width: 1120px;
+  max-width: $desktop-width;
   min-height: 100px;
   margin: 40px auto;
   padding: 0 20px;

@@ -11,7 +11,7 @@ import {SiGithub} from "react-icons/si";
 import {SiSass} from "react-icons/si";
 import {SiTailwindcss} from "react-icons/si";
 import {Swiper, SwiperSlide} from 'swiper/react';
-import {Navigation, Pagination, A11y} from 'swiper';
+import {Pagination, A11y} from 'swiper';
 
 import 'swiper/scss';
 import 'swiper/scss/navigation';
@@ -24,10 +24,23 @@ export const Skills = () => {
       <div className={style.skillsWrapper}>
         <ul className={style.skillsList}>
           <Swiper
-            modules={[Navigation, Pagination, A11y]}
-            spaceBetween={20}
-            navigation
-            slidesPerView={'auto'}
+            modules={[Pagination, A11y]}
+            spaceBetween={0}
+            breakpoints={{
+              320: {
+                slidesPerView: 1,
+              },
+              768: {
+                slidesPerView: 2,
+              },
+              1120: {
+                slidesPerView: 3,
+              },
+              1230: {
+                slidesPerView: 4,
+              },
+
+            }}
             centeredSlidesBounds={true}
             pagination={{clickable: true}}
             scrollbar={{draggable: true}}

@@ -1,7 +1,7 @@
 @import "./src/styles/variables";
 
 .skillsContainer {
-  min-width: 320px;
+  min-width: $mobile-width-only;
   min-height: 100vh;
   margin: 0;
   padding: 0;
@@ -13,7 +13,7 @@
 }
 
 .skillsWrapper {
-  max-width: 1120px;
+  max-width: $desktop-width;
   margin: 0 auto;
 }
 
@@ -73,8 +73,8 @@
 
 @media (max-width: $mobile-width-only) {
   .skillsWrapper {
-    min-width: 320px;
-    max-width: 320px;
+    min-width: $mobile-width-only;
+    max-width: $mobile-width-only;
   }
 
   .skillsList {
@@ -89,7 +89,7 @@
 
 @media (min-width: $tablet-width) {
   .skillsWrapper {
-    min-width: 768px;
+    min-width: $tablet-width;
   }
 
   .skillsList {
@@ -112,7 +112,7 @@
 
 @media (min-width: $desktop-width) {
   .skillsWrapper {
-    min-width: 1120px;
+    min-width: $desktop-width;
     padding: 0;
   }
 

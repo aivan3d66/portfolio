@@ -1,15 +1,15 @@
 @import "./src/styles/variables";
 
 .contactsContainer {
-  min-width: 320px;
+  min-width: $mobile-width-only;
   margin: 0;
   padding: 0;
   background-color: $special_dark-gray;
 }
 
 .contactsWrapper {
-  min-width: 320px;
-  max-width: 1120px;
+  min-width: $mobile-width-only;
+  max-width: $desktop-width;
   min-height: 400px;
   margin: 0 auto;
 }
@@ -18,7 +18,7 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  min-width: 320px;
+  min-width: $mobile-width-only;
   max-width: 400px;
   margin: 40px auto;
 
@@ -67,14 +67,14 @@
 
 @media (max-width: $mobile-width-only) {
   .contactsWrapper {
-    max-width: 320px;
+    max-width: $mobile-width-only;
     margin: 0 auto;
   }
 }
 
 @media (min-width: $tablet-width) {
   .contactsWrapper {
-    min-width: 768px;
+    min-width: $tablet-width;
   }
 
   .contactsForm {

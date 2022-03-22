@@ -7,6 +7,25 @@ import {Contacts} from "../Contacts/Contacts";
 import {Employ} from "../Employ/Employ";
 import {FaChevronUp} from "react-icons/fa";
 import style from './Header.module.scss';
+import {motion} from 'framer-motion';
+
+const transition = {
+  delay: 0.2
+}
+const container = {
+  hidden: { opacity: 0 },
+  show: {
+    opacity: 1,
+    transition: {
+      delayChildren: 0.5
+    }
+  }
+}
+
+const item = {
+  hidden: { opacity: 0 },
+  show: { opacity: 1 }
+}
 
 export class HeaderSection extends React.Component {
 
@@ -73,9 +92,14 @@ export class HeaderSection extends React.Component {
   render() {
     return (
       <section>
-        <div className={style.headerContainer}>
+        <motion.div className={style.headerContainer}>
           <div className={style.headerWrapper}>
-            <ul className={style.navList}>
+            <motion.ul
+              className={style.navList}
+              variants={container}
+              initial="hidden"
+              animate="show"
+            >
               <li>
                 <Link activeClass="active" className="test1" to="test1" spy={true} smooth={true}
                       duration={500}>Main</Link>
@@ -92,9 +116,9 @@ export class HeaderSection extends React.Component {
                 <Link activeClass="active" className="test4" to="test4" spy={true} smooth={true}
                       duration={500}>Contacts</Link>
               </li>
-            </ul>
+            </motion.ul>
           </div>
-        </div>
+        </motion.div>
 
         <Element name="test1" className="element">
           <AboutMe/>

@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add fix bug of mobile mapping">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_03_2022_20_02__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_03_2022_20_02__Changes_.xml" afterDir="false" />
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add emailjs deps.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Contacts/Contacts.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts/Contacts.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -133,20 +134,7 @@
       <workItem from="1647936587958" duration="37000" />
       <workItem from="1647938919403" duration="2388000" />
       <workItem from="1648014943634" duration="35000" />
-    </task>
-    <task id="LOCAL-00163" summary="add Vanta.js dependencies">
-      <created>1646665827855</created>
-      <option name="number" value="00163" />
-      <option name="presentableId" value="LOCAL-00163" />
-      <option name="project" value="LOCAL" />
-      <updated>1646665827855</updated>
-    </task>
-    <task id="LOCAL-00164" summary="add Vanta.js script">
-      <created>1646669035373</created>
-      <option name="number" value="00164" />
-      <option name="presentableId" value="LOCAL-00164" />
-      <option name="project" value="LOCAL" />
-      <updated>1646669035373</updated>
+      <workItem from="1648025226291" duration="6422000" />
     </task>
     <task id="LOCAL-00165" summary="add variable import to App">
       <created>1646669056566</created>
@@ -477,7 +465,21 @@
       <option name="project" value="LOCAL" />
       <updated>1647940729385</updated>
     </task>
-    <option name="localTasksCounter" value="212" />
+    <task id="LOCAL-00212" summary="add upd deps">
+      <created>1648025331137</created>
+      <option name="number" value="00212" />
+      <option name="presentableId" value="LOCAL-00212" />
+      <option name="project" value="LOCAL" />
+      <updated>1648025331138</updated>
+    </task>
+    <task id="LOCAL-00213" summary="add emailjs deps.">
+      <created>1648025627356</created>
+      <option name="number" value="00213" />
+      <option name="presentableId" value="LOCAL-00213" />
+      <option name="project" value="LOCAL" />
+      <updated>1648025627356</updated>
+    </task>
+    <option name="localTasksCounter" value="214" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -496,8 +498,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add favicon" />
-    <MESSAGE value="add upd BigTrip description" />
     <MESSAGE value="add rename of workPreview__link" />
     <MESSAGE value="add upd workPreview hover styles" />
     <MESSAGE value="add upd skillItem width" />
@@ -521,6 +521,8 @@
     <MESSAGE value="add variables to Footer.module.scss" />
     <MESSAGE value="add variables to Header.module.scss" />
     <MESSAGE value="add variables to Skills.module.scss" />
-    <option name="LAST_COMMIT_MESSAGE" value="add variables to Skills.module.scss" />
+    <MESSAGE value="add upd deps" />
+    <MESSAGE value="add emailjs deps." />
+    <option name="LAST_COMMIT_MESSAGE" value="add emailjs deps." />
   </component>
 </project>

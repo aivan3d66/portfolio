@@ -24,6 +24,8 @@
   margin: 0 auto;
   background-position: center;
   background-size: cover;
+  border: 1px solid inherit;
+  outline: none;
 
   &::before {
     position: absolute;
@@ -38,13 +40,15 @@
     transition: 0.3s;
   }
 
-  &:hover {
+  &:hover,
+  &:focus {
     .workPreview__link {
       display: block;
     }
   }
 
-  &:hover::before {
+  &:hover::before,
+  &:focus::before {
     opacity: 0.8;
   }
 }

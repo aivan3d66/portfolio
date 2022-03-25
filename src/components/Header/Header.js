@@ -94,19 +94,19 @@ export class HeaderSection extends React.Component {
             >
               <li>
                 <Link activeClass="active" className="test1" to="test1" spy={true} smooth={true}
-                      duration={500}>Main</Link>
+                      duration={500}><a href={'#'}>Main</a></Link>
               </li>
               <li>
                 <Link activeClass="active" className="test2" to="test2" spy={true} smooth={true}
-                      duration={500}>Skills</Link>
+                      duration={500}><a href={'#'}>Skills</a></Link>
               </li>
               <li>
                 <Link activeClass="active" className="test3" to="test3" spy={true} smooth={true}
-                      duration={500}>Works</Link>
+                      duration={500}><a href={'#'}>Works</a></Link>
               </li>
               <li>
                 <Link activeClass="active" className="test4" to="test4" spy={true} smooth={true}
-                      duration={500}>Contacts</Link>
+                      duration={500}><a href={'#'}>Contacts</a></Link>
               </li>
             </motion.ul>
           </div>

@@ -14,6 +14,7 @@
   background-color: $special_dark-gray-2;
   cursor: pointer;
   transition: 0.3s;
+  outline: none;
 
   &::before {
     position: absolute;
@@ -28,7 +29,8 @@
     transition: all 0.2s ease-in-out 0s;
   }
 
-  &:hover::before {
+  &:hover::before,
+  &:focus::before {
     bottom: 18px;
     width: 120%;
     height: 40px;

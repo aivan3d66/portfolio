@@ -28,9 +28,9 @@ export const Contacts = () => {
       <div className={style.contactsWrapper}>
         <form ref={form} className={style.contactsForm} onSubmit={sendEmail}>
           <div className={style.contactsForm__fields}>
-            <input type="text" placeholder={"Name"} name="user_name"/>
-            <input type="email" placeholder={"E-mail"} name="user_email"/>
-            <textarea name="message"/>
+            <input type="text" placeholder={"Name"} name="user_name" required/>
+            <input type="email" placeholder={"E-mail"} name="user_email" required/>
+            <textarea name="message" required/>
           </div>
           <Button type="submit">Send message</Button>
         </form>

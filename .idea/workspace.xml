@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add emailjs deps.">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add contacts form logic">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Contacts/Contacts.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts/Contacts.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,21 +131,8 @@
       <workItem from="1647936587958" duration="37000" />
       <workItem from="1647938919403" duration="2388000" />
       <workItem from="1648014943634" duration="35000" />
-      <workItem from="1648025226291" duration="6422000" />
-    </task>
-    <task id="LOCAL-00165" summary="add variable import to App">
-      <created>1646669056566</created>
-      <option name="number" value="00165" />
-      <option name="presentableId" value="LOCAL-00165" />
-      <option name="project" value="LOCAL" />
-      <updated>1646669056566</updated>
-    </task>
-    <task id="LOCAL-00166" summary="add vantaEffect">
-      <created>1646669084280</created>
-      <option name="number" value="00166" />
-      <option name="presentableId" value="LOCAL-00166" />
-      <option name="project" value="LOCAL" />
-      <updated>1646669084280</updated>
+      <workItem from="1648025226291" duration="10917000" />
+      <workItem from="1648192296016" duration="575000" />
     </task>
     <task id="LOCAL-00167" summary="delete container borders">
       <created>1646669347400</created>
@@ -479,7 +463,21 @@
       <option name="project" value="LOCAL" />
       <updated>1648025627356</updated>
     </task>
-    <option name="localTasksCounter" value="214" />
+    <task id="LOCAL-00214" summary="add гзв emailjs deps.">
+      <created>1648031790273</created>
+      <option name="number" value="00214" />
+      <option name="presentableId" value="LOCAL-00214" />
+      <option name="project" value="LOCAL" />
+      <updated>1648031790273</updated>
+    </task>
+    <task id="LOCAL-00215" summary="add contacts form logic">
+      <created>1648031849359</created>
+      <option name="number" value="00215" />
+      <option name="presentableId" value="LOCAL-00215" />
+      <option name="project" value="LOCAL" />
+      <updated>1648031849360</updated>
+    </task>
+    <option name="localTasksCounter" value="216" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -498,8 +496,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add rename of workPreview__link" />
-    <MESSAGE value="add upd workPreview hover styles" />
     <MESSAGE value="add upd skillItem width" />
     <MESSAGE value="add hide hover animation" />
     <MESSAGE value="add new skill icons" />
@@ -523,6 +519,8 @@
     <MESSAGE value="add variables to Skills.module.scss" />
     <MESSAGE value="add upd deps" />
     <MESSAGE value="add emailjs deps." />
-    <option name="LAST_COMMIT_MESSAGE" value="add emailjs deps." />
+    <MESSAGE value="add гзв emailjs deps." />
+    <MESSAGE value="add contacts form logic" />
+    <option name="LAST_COMMIT_MESSAGE" value="add contacts form logic" />
   </component>
 </project>

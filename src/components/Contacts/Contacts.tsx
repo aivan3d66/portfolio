@@ -15,9 +15,9 @@ export const Contacts = () => {
 
     emailjs.sendForm('service_lr0n7yj', 'template_6mdnqmr', form.current, 'z7UUPdA3csP5V8Jrx')
       .then((result) => {
-        console.log('SUCCESS', result);
+        alert('The message was sent')
       }, (error) => {
-        console.log('FAILED', error);
+        alert('Message send failed:' + error);
       });
   };
 

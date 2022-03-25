@@ -19,6 +19,7 @@ export const Contacts = () => {
       }, (error) => {
         alert('Message send failed:' + error);
       });
+    form.current.reset();
   };
 
   return (

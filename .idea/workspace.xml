@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add contacts form logic">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add form required fields">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Contacts/Contacts.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts/Contacts.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Contacts/Contacts.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts/Contacts.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,21 +133,7 @@
       <workItem from="1647938919403" duration="2388000" />
       <workItem from="1648014943634" duration="35000" />
       <workItem from="1648025226291" duration="10917000" />
-      <workItem from="1648192296016" duration="575000" />
-    </task>
-    <task id="LOCAL-00167" summary="delete container borders">
-      <created>1646669347400</created>
-      <option name="number" value="00167" />
-      <option name="presentableId" value="LOCAL-00167" />
-      <option name="project" value="LOCAL" />
-      <updated>1646669347400</updated>
-    </task>
-    <task id="LOCAL-00168" summary="add upd nav bg-color">
-      <created>1646669696812</created>
-      <option name="number" value="00168" />
-      <option name="presentableId" value="LOCAL-00168" />
-      <option name="project" value="LOCAL" />
-      <updated>1646669696812</updated>
+      <workItem from="1648192296016" duration="865000" />
     </task>
     <task id="LOCAL-00169" summary="add upd aboutImage margin">
       <created>1646670935681</created>
@@ -477,7 +464,21 @@
       <option name="project" value="LOCAL" />
       <updated>1648031849360</updated>
     </task>
-    <option name="localTasksCounter" value="216" />
+    <task id="LOCAL-00216" summary="add form messages">
+      <created>1648192895566</created>
+      <option name="number" value="00216" />
+      <option name="presentableId" value="LOCAL-00216" />
+      <option name="project" value="LOCAL" />
+      <updated>1648192895566</updated>
+    </task>
+    <task id="LOCAL-00217" summary="add form required fields">
+      <created>1648192908532</created>
+      <option name="number" value="00217" />
+      <option name="presentableId" value="LOCAL-00217" />
+      <option name="project" value="LOCAL" />
+      <updated>1648192908532</updated>
+    </task>
+    <option name="localTasksCounter" value="218" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -496,8 +497,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add upd skillItem width" />
-    <MESSAGE value="add hide hover animation" />
     <MESSAGE value="add new skill icons" />
     <MESSAGE value="add swiper dep." />
     <MESSAGE value="add redundant functional" />
@@ -521,6 +520,8 @@
     <MESSAGE value="add emailjs deps." />
     <MESSAGE value="add гзв emailjs deps." />
     <MESSAGE value="add contacts form logic" />
-    <option name="LAST_COMMIT_MESSAGE" value="add contacts form logic" />
+    <MESSAGE value="add form messages" />
+    <MESSAGE value="add form required fields" />
+    <option name="LAST_COMMIT_MESSAGE" value="add form required fields" />
   </component>
 </project>

@@ -9,9 +9,6 @@ import {FaChevronUp} from "react-icons/fa";
 import style from './Header.module.scss';
 import {motion} from 'framer-motion';
 
-const transition = {
-  delay: 0.2
-}
 const container = {
   hidden: { opacity: 0 },
   show: {
@@ -20,11 +17,6 @@ const container = {
       delayChildren: 0.5
     }
   }
-}
-
-const item = {
-  hidden: { opacity: 0 },
-  show: { opacity: 1 }
 }
 
 export class HeaderSection extends React.Component {
@@ -60,7 +52,7 @@ export class HeaderSection extends React.Component {
 
   scrollToWithContainer() {
 
-    let goToContainer = new Promise((resolve, reject) => {
+    let goToContainer = new Promise((resolve) => {
 
       Events.scrollEvent.register('end', () => {
         resolve();

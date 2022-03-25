@@ -9,12 +9,14 @@
   padding: 0;
 
   a {
-    font-size: 38px;
     padding: 10px;
+    font-size: 38px;
     color: $special_light-gray;
     transition: 0.3s;
+    outline: none;
 
-    &:hover {
+    &:hover,
+    &:focus {
       color: $special_blue;
     }
   }

@@ -43,14 +43,13 @@
     border: 1px solid $special_dark-gray-3;
     outline: none;
 
-    &:hover,
-    &:focus {
+    &:hover {
       transition: 0.5s;
       border-color: $special_blue;
     }
 
-    &:active {
-      border-color: $special_blue;
+    &:focus {
+      border-bottom: 1px solid $special_blue;
     }
   }
 

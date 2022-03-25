@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add btn focus style">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add a focus style">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer/Socials/Socials.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Socials/Socials.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,14 +135,7 @@
       <workItem from="1647938919403" duration="2388000" />
       <workItem from="1648014943634" duration="35000" />
       <workItem from="1648025226291" duration="10917000" />
-      <workItem from="1648192296016" duration="1435000" />
-    </task>
-    <task id="LOCAL-00172" summary="add upd aboutText margin">
-      <created>1646726684653</created>
-      <option name="number" value="00172" />
-      <option name="presentableId" value="LOCAL-00172" />
-      <option name="project" value="LOCAL" />
-      <updated>1646726684653</updated>
+      <workItem from="1648192296016" duration="2953000" />
     </task>
     <task id="LOCAL-00173" summary="add upd skillsList margin">
       <created>1646726930649</created>
@@ -477,7 +473,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648193684196</updated>
     </task>
-    <option name="localTasksCounter" value="221" />
+    <task id="LOCAL-00221" summary="add a focus style">
+      <created>1648193805764</created>
+      <option name="number" value="00221" />
+      <option name="presentableId" value="LOCAL-00221" />
+      <option name="project" value="LOCAL" />
+      <updated>1648193805764</updated>
+    </task>
+    <option name="localTasksCounter" value="222" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -496,7 +499,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add Swiper slider" />
     <MESSAGE value="add upd Swiper slider styles" />
     <MESSAGE value="add upd Swiper props (centeredSlidesBounds, grabCursor)" />
     <MESSAGE value="add upd Swiper styles imports" />
@@ -521,6 +523,7 @@
     <MESSAGE value="add cleaning  form inputs" />
     <MESSAGE value="add new form inputs styles" />
     <MESSAGE value="add btn focus style" />
-    <option name="LAST_COMMIT_MESSAGE" value="add btn focus style" />
+    <MESSAGE value="add a focus style" />
+    <option name="LAST_COMMIT_MESSAGE" value="add a focus style" />
   </component>
 </project>

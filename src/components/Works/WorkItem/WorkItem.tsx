@@ -12,9 +12,9 @@ type WorkItemType = {
 export const WorkItem: React.FC<WorkItemType> = ({title, pagesLink, description, githubLink, style}) => {
   return (
     <div className={s.workItem}>
-      <div className={s.workPreview} style={style}>
-        <a className={s.workPreview__link} href={pagesLink}>Demo</a>
-        <a className={s.workPreview__link} href={githubLink}>Code</a>
+      <div className={s.workPreview} style={style} tabIndex={0}>
+        <a className={s.workPreview__link} href={pagesLink} tabIndex={0}>Demo</a>
+        <a className={s.workPreview__link} href={githubLink} tabIndex={0}>Code</a>
       </div>
       <div className={s.workDescription}>
         <h3 className={s.workItem__title}>{title}</h3>

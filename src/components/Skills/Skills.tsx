@@ -10,6 +10,7 @@ import {SiStorybook} from "react-icons/si";
 import {SiGithub} from "react-icons/si";
 import {SiSass} from "react-icons/si";
 import {SiTailwindcss} from "react-icons/si";
+import {SiMobx} from "react-icons/si";
 import {Swiper, SwiperSlide} from 'swiper/react';
 import {Pagination, A11y} from 'swiper';
 
@@ -86,6 +87,15 @@ export const Skills = () => {
             </SwiperSlide>
             <SwiperSlide>
               <li>
+                <SiMobx className={style.skillItem__img}/>
+                <SkillItem
+                  title={"MobX"}
+                  text={"Anything that can be derived from the application state, should be. Automatically."}
+                />
+              </li>
+            </SwiperSlide>
+            <SwiperSlide>
+              <li>
                 <SiJest className={style.skillItem__img}/>
                 <SkillItem
                   title={"Unit test / Jest"}
@@ -125,7 +135,7 @@ export const Skills = () => {
                 <SiTailwindcss className={style.skillItem__img}/>
                 <SkillItem
                   title={"Tailwind CSS"}
-                  text={"Amazing ..."}
+                  text={"I feel like an idiot for not using this amazing thing until now"}
                 />
               </li>
             </SwiperSlide>

@@ -4,23 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add AboutMe animation">
-      <change afterPath="$PROJECT_DIR$/src/assets/images/converter.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/todo.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_03_2022_20_03_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_03_2022_20_03__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_03_2022_20_02_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_03_2022_20_02__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_21_2022_8_49_AM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_21_2022_8_49_AM__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_23_2022_8_17_AM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_23_2022_8_17_AM__Changes_.xml" beforeDir="false" />
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add new worksList mb">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/Capture.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/social.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/social.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Works/Works.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/Works.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Works/Works.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/Works.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,35 +138,7 @@
       <workItem from="1648238506595" duration="17000" />
       <workItem from="1648307457197" duration="1024000" />
       <workItem from="1648583386693" duration="478000" />
-      <workItem from="1648624576426" duration="1641000" />
-    </task>
-    <task id="LOCAL-00158" summary="add Social icons and links">
-      <created>1646664733447</created>
-      <option name="number" value="00158" />
-      <option name="presentableId" value="LOCAL-00158" />
-      <option name="project" value="LOCAL" />
-      <updated>1646664733447</updated>
-    </task>
-    <task id="LOCAL-00159" summary="add upd Social li's">
-      <created>1646665109634</created>
-      <option name="number" value="00159" />
-      <option name="presentableId" value="LOCAL-00159" />
-      <option name="project" value="LOCAL" />
-      <updated>1646665109634</updated>
-    </task>
-    <task id="LOCAL-00160" summary="add upd Social a's styles">
-      <created>1646665134182</created>
-      <option name="number" value="00160" />
-      <option name="presentableId" value="LOCAL-00160" />
-      <option name="project" value="LOCAL" />
-      <updated>1646665134182</updated>
-    </task>
-    <task id="LOCAL-00161" summary="add upd footerWrapper height">
-      <created>1646665145950</created>
-      <option name="number" value="00161" />
-      <option name="presentableId" value="LOCAL-00161" />
-      <option name="project" value="LOCAL" />
-      <updated>1646665145950</updated>
+      <workItem from="1648624576426" duration="2437000" />
     </task>
     <task id="LOCAL-00162" summary="delete containers border">
       <created>1646665289065</created>
@@ -497,7 +455,35 @@
       <option name="project" value="LOCAL" />
       <updated>1647973883496</updated>
     </task>
-    <option name="localTasksCounter" value="207" />
+    <task id="LOCAL-00207" summary="add upd img's">
+      <created>1648626444542</created>
+      <option name="number" value="00207" />
+      <option name="presentableId" value="LOCAL-00207" />
+      <option name="project" value="LOCAL" />
+      <updated>1648626444543</updated>
+    </task>
+    <task id="LOCAL-00208" summary="add upd social img">
+      <created>1648626459350</created>
+      <option name="number" value="00208" />
+      <option name="presentableId" value="LOCAL-00208" />
+      <option name="project" value="LOCAL" />
+      <updated>1648626459350</updated>
+    </task>
+    <task id="LOCAL-00209" summary="add new WorkItem">
+      <created>1648626483448</created>
+      <option name="number" value="00209" />
+      <option name="presentableId" value="LOCAL-00209" />
+      <option name="project" value="LOCAL" />
+      <updated>1648626483448</updated>
+    </task>
+    <task id="LOCAL-00210" summary="add new worksList mb">
+      <created>1648626493865</created>
+      <option name="number" value="00210" />
+      <option name="presentableId" value="LOCAL-00210" />
+      <option name="project" value="LOCAL" />
+      <updated>1648626493865</updated>
+    </task>
+    <option name="localTasksCounter" value="211" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -516,11 +502,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add aboutText__profession animation" />
-    <MESSAGE value="add aboutContainer background-color style" />
-    <MESSAGE value="add react-scroll dependencies" />
-    <MESSAGE value="add refactoring App components" />
-    <MESSAGE value="add scrollButton styles" />
     <MESSAGE value="add navList styles" />
     <MESSAGE value="add navList tablet/desktop styles" />
     <MESSAGE value="add HeaderSection component" />
@@ -541,6 +522,11 @@
     <MESSAGE value="add upd Swiper (adaptive change of slides count)" />
     <MESSAGE value="add upd skillsList margin value" />
     <MESSAGE value="add Framer motion dependencies" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Framer motion dependencies" />
+    <MESSAGE value="add upd img's" />
+    <MESSAGE value="add upd social img" />
+    <MESSAGE value="add upd deps." />
+    <MESSAGE value="add new WorkItem" />
+    <MESSAGE value="add new worksList mb" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new worksList mb" />
   </component>
 </project>

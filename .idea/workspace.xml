@@ -4,12 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add a focus style">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add AboutMe animation">
+      <change afterPath="$PROJECT_DIR$/src/assets/images/converter.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/todo.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_03_2022_20_03_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_03_2022_20_03__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_03_2022_20_02_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_03_2022_20_02__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_21_2022_8_49_AM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_21_2022_8_49_AM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_23_2022_8_17_AM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_23_2022_8_17_AM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Capture.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/social.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/social.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Works/Works.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/Works.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Works/Works.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/Works.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,12 +31,18 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="SCSS File" />
         <option value="TypeScript JSX File" />
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
   </component>
@@ -45,6 +62,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
@@ -54,7 +72,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="D:\Work\projects\portfolio\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="E:\rjs\portfolio\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -65,7 +83,7 @@
       <recent name="E:\rjs\portfolio\src\components\Skills\SkillItem" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Work\projects\portfolio\public" />
+      <recent name="E:\rjs\portfolio\src\components\Header" />
       <recent name="E:\rjs\portfolio\src" />
       <recent name="E:\rjs\portfolio\src\common\Title" />
       <recent name="E:\rjs\portfolio\src\components\Works\WorkItem" />
@@ -127,15 +145,119 @@
       <workItem from="1646671421053" duration="152000" />
       <workItem from="1646726369876" duration="3001000" />
       <workItem from="1646853528250" duration="2023000" />
-      <workItem from="1647597598663" duration="1065000" />
-      <workItem from="1647849656518" duration="13000" />
-      <workItem from="1647852994099" duration="10069000" />
-      <workItem from="1647927201055" duration="78000" />
-      <workItem from="1647936587958" duration="37000" />
-      <workItem from="1647938919403" duration="2388000" />
-      <workItem from="1648014943634" duration="35000" />
-      <workItem from="1648025226291" duration="10917000" />
-      <workItem from="1648192296016" duration="2953000" />
+      <workItem from="1647767155929" duration="66000" />
+      <workItem from="1647775695540" duration="2820000" />
+      <workItem from="1647800048274" duration="1585000" />
+      <workItem from="1648233793404" duration="241000" />
+      <workItem from="1648238506595" duration="17000" />
+      <workItem from="1648307457197" duration="1024000" />
+      <workItem from="1648583386693" duration="478000" />
+      <workItem from="1648624576426" duration="1641000" />
+    </task>
+    <task id="LOCAL-00158" summary="add Social icons and links">
+      <created>1646664733447</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1646664733447</updated>
+    </task>
+    <task id="LOCAL-00159" summary="add upd Social li's">
+      <created>1646665109634</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1646665109634</updated>
+    </task>
+    <task id="LOCAL-00160" summary="add upd Social a's styles">
+      <created>1646665134182</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1646665134182</updated>
+    </task>
+    <task id="LOCAL-00161" summary="add upd footerWrapper height">
+      <created>1646665145950</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1646665145950</updated>
+    </task>
+    <task id="LOCAL-00162" summary="delete containers border">
+      <created>1646665289065</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1646665289065</updated>
+    </task>
+    <task id="LOCAL-00163" summary="add Vanta.js dependencies">
+      <created>1646665827855</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1646665827855</updated>
+    </task>
+    <task id="LOCAL-00164" summary="add Vanta.js script">
+      <created>1646669035373</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1646669035373</updated>
+    </task>
+    <task id="LOCAL-00165" summary="add variable import to App">
+      <created>1646669056566</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1646669056566</updated>
+    </task>
+    <task id="LOCAL-00166" summary="add vantaEffect">
+      <created>1646669084280</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1646669084280</updated>
+    </task>
+    <task id="LOCAL-00167" summary="delete container borders">
+      <created>1646669347400</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1646669347400</updated>
+    </task>
+    <task id="LOCAL-00168" summary="add upd nav bg-color">
+      <created>1646669696812</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1646669696812</updated>
+    </task>
+    <task id="LOCAL-00169" summary="add upd aboutImage margin">
+      <created>1646670935681</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1646670935681</updated>
+    </task>
+    <task id="LOCAL-00170" summary="add skillsList item margin">
+      <created>1646671255171</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1646671255171</updated>
+    </task>
+    <task id="LOCAL-00171" summary="add upd workItem width">
+      <created>1646726550780</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1646726550780</updated>
+    </task>
+    <task id="LOCAL-00172" summary="add upd aboutText margin">
+      <created>1646726684653</created>
+      <option name="number" value="00172" />
+      <option name="presentableId" value="LOCAL-00172" />
+      <option name="project" value="LOCAL" />
+      <updated>1646726684653</updated>
     </task>
     <task id="LOCAL-00173" summary="add upd skillsList margin">
       <created>1646726930649</created>
@@ -186,301 +308,196 @@
       <option name="project" value="LOCAL" />
       <updated>1646855441171</updated>
     </task>
-    <task id="LOCAL-00180" summary="add upd deps.">
-      <created>1647842427733</created>
+    <task id="LOCAL-00180" summary="add spaces upd">
+      <created>1647624794663</created>
       <option name="number" value="00180" />
       <option name="presentableId" value="LOCAL-00180" />
       <option name="project" value="LOCAL" />
-      <updated>1647842427734</updated>
+      <updated>1647624794664</updated>
     </task>
-    <task id="LOCAL-00181" summary="add fix aboutText__profession width">
-      <created>1647842440882</created>
+    <task id="LOCAL-00181" summary="add aboutText align-items: center style">
+      <created>1647624864143</created>
       <option name="number" value="00181" />
       <option name="presentableId" value="LOCAL-00181" />
       <option name="project" value="LOCAL" />
-      <updated>1647842440882</updated>
+      <updated>1647624864143</updated>
     </task>
-    <task id="LOCAL-00182" summary="add fix project 'social' path">
-      <created>1647845013929</created>
+    <task id="LOCAL-00182" summary="add aboutText__profession animation">
+      <created>1647624876937</created>
       <option name="number" value="00182" />
       <option name="presentableId" value="LOCAL-00182" />
       <option name="project" value="LOCAL" />
-      <updated>1647845013929</updated>
+      <updated>1647624876937</updated>
     </task>
-    <task id="LOCAL-00183" summary="add fix project 'big trip' path">
-      <created>1647847139308</created>
+    <task id="LOCAL-00183" summary="add aboutContainer background-color style">
+      <created>1647625101273</created>
       <option name="number" value="00183" />
       <option name="presentableId" value="LOCAL-00183" />
       <option name="project" value="LOCAL" />
-      <updated>1647847139309</updated>
+      <updated>1647625101273</updated>
     </task>
-    <task id="LOCAL-00184" summary="add maroon preview import">
-      <created>1647855244061</created>
+    <task id="LOCAL-00184" summary="add react-scroll dependencies">
+      <created>1647625910243</created>
       <option name="number" value="00184" />
       <option name="presentableId" value="LOCAL-00184" />
       <option name="project" value="LOCAL" />
-      <updated>1647855244061</updated>
+      <updated>1647625910243</updated>
     </task>
-    <task id="LOCAL-00185" summary="add maroonBgImg">
-      <created>1647855256921</created>
+    <task id="LOCAL-00185" summary="add refactoring App components">
+      <created>1647629529983</created>
       <option name="number" value="00185" />
       <option name="presentableId" value="LOCAL-00185" />
       <option name="project" value="LOCAL" />
-      <updated>1647855256921</updated>
+      <updated>1647629529983</updated>
     </task>
-    <task id="LOCAL-00186" summary="add new workItem">
-      <created>1647855273935</created>
+    <task id="LOCAL-00186" summary="add scrollButton styles">
+      <created>1647629551381</created>
       <option name="number" value="00186" />
       <option name="presentableId" value="LOCAL-00186" />
       <option name="project" value="LOCAL" />
-      <updated>1647855273935</updated>
+      <updated>1647629551381</updated>
     </task>
-    <task id="LOCAL-00187" summary="add favicon">
-      <created>1647856803366</created>
+    <task id="LOCAL-00187" summary="add navList styles">
+      <created>1647629559649</created>
       <option name="number" value="00187" />
       <option name="presentableId" value="LOCAL-00187" />
       <option name="project" value="LOCAL" />
-      <updated>1647856803366</updated>
+      <updated>1647629559649</updated>
     </task>
-    <task id="LOCAL-00188" summary="add upd BigTrip description">
-      <created>1647857230634</created>
+    <task id="LOCAL-00188" summary="add navList tablet/desktop styles">
+      <created>1647629603249</created>
       <option name="number" value="00188" />
       <option name="presentableId" value="LOCAL-00188" />
       <option name="project" value="LOCAL" />
-      <updated>1647857230634</updated>
+      <updated>1647629603249</updated>
     </task>
-    <task id="LOCAL-00189" summary="add rename of workPreview__link">
-      <created>1647858036430</created>
+    <task id="LOCAL-00189" summary="add HeaderSection component">
+      <created>1647629618011</created>
       <option name="number" value="00189" />
       <option name="presentableId" value="LOCAL-00189" />
       <option name="project" value="LOCAL" />
-      <updated>1647858036431</updated>
+      <updated>1647629618012</updated>
     </task>
-    <task id="LOCAL-00190" summary="add upd workPreview hover styles">
-      <created>1647858064234</created>
+    <task id="LOCAL-00190" summary="add worksContainer background-color style">
+      <created>1647629635645</created>
       <option name="number" value="00190" />
       <option name="presentableId" value="LOCAL-00190" />
       <option name="project" value="LOCAL" />
-      <updated>1647858064234</updated>
+      <updated>1647629635645</updated>
     </task>
-    <task id="LOCAL-00191" summary="add upd skillItem width">
-      <created>1647858951883</created>
+    <task id="LOCAL-00191" summary="add contactsContainer background-color style">
+      <created>1647629648384</created>
       <option name="number" value="00191" />
       <option name="presentableId" value="LOCAL-00191" />
       <option name="project" value="LOCAL" />
-      <updated>1647858951883</updated>
+      <updated>1647629648384</updated>
     </task>
-    <task id="LOCAL-00192" summary="add hide hover animation">
-      <created>1647858982351</created>
+    <task id="LOCAL-00192" summary="add upd aboutText__profession styles">
+      <created>1647629664735</created>
       <option name="number" value="00192" />
       <option name="presentableId" value="LOCAL-00192" />
       <option name="project" value="LOCAL" />
-      <updated>1647858982351</updated>
+      <updated>1647629664735</updated>
     </task>
-    <task id="LOCAL-00193" summary="add new skill icons">
-      <created>1647859074490</created>
+    <task id="LOCAL-00193" summary="delete navbar">
+      <created>1647629916219</created>
       <option name="number" value="00193" />
       <option name="presentableId" value="LOCAL-00193" />
       <option name="project" value="LOCAL" />
-      <updated>1647859074490</updated>
+      <updated>1647629916219</updated>
     </task>
-    <task id="LOCAL-00194" summary="add swiper dep.">
-      <created>1647859996513</created>
+    <task id="LOCAL-00194" summary="add upd imports">
+      <created>1647630121798</created>
       <option name="number" value="00194" />
       <option name="presentableId" value="LOCAL-00194" />
       <option name="project" value="LOCAL" />
-      <updated>1647859996513</updated>
+      <updated>1647630121798</updated>
     </task>
-    <task id="LOCAL-00195" summary="add redundant functional">
-      <created>1647860134094</created>
+    <task id="LOCAL-00195" summary="add rename Scroll by Header">
+      <created>1647630142332</created>
       <option name="number" value="00195" />
       <option name="presentableId" value="LOCAL-00195" />
       <option name="project" value="LOCAL" />
-      <updated>1647860134094</updated>
+      <updated>1647630142332</updated>
     </task>
-    <task id="LOCAL-00196" summary="add Swiper slider">
-      <created>1647863058485</created>
+    <task id="LOCAL-00196" summary="add navList a:hover styles">
+      <created>1647630169568</created>
       <option name="number" value="00196" />
       <option name="presentableId" value="LOCAL-00196" />
       <option name="project" value="LOCAL" />
-      <updated>1647863058485</updated>
+      <updated>1647630169568</updated>
     </task>
-    <task id="LOCAL-00197" summary="add upd Swiper slider styles">
-      <created>1647863070545</created>
+    <task id="LOCAL-00197" summary="add change headerContainer">
+      <created>1647631056230</created>
       <option name="number" value="00197" />
       <option name="presentableId" value="LOCAL-00197" />
       <option name="project" value="LOCAL" />
-      <updated>1647863070545</updated>
+      <updated>1647631056230</updated>
     </task>
-    <task id="LOCAL-00198" summary="add upd Swiper props (centeredSlidesBounds, grabCursor)">
-      <created>1647865052662</created>
+    <task id="LOCAL-00198" summary="add scrollButtonHide style">
+      <created>1647632906916</created>
       <option name="number" value="00198" />
       <option name="presentableId" value="LOCAL-00198" />
       <option name="project" value="LOCAL" />
-      <updated>1647865052662</updated>
+      <updated>1647632906916</updated>
     </task>
-    <task id="LOCAL-00199" summary="add upd Swiper styles imports">
-      <created>1647865063893</created>
+    <task id="LOCAL-00199" summary="add scrollButtonShow className">
+      <created>1647632948055</created>
       <option name="number" value="00199" />
       <option name="presentableId" value="LOCAL-00199" />
       <option name="project" value="LOCAL" />
-      <updated>1647865063893</updated>
+      <updated>1647632948055</updated>
     </task>
-    <task id="LOCAL-00200" summary="add upd skillsWrapper value">
-      <created>1647865099390</created>
+    <task id="LOCAL-00200" summary="add pagesLink to props">
+      <created>1647800664683</created>
       <option name="number" value="00200" />
       <option name="presentableId" value="LOCAL-00200" />
       <option name="project" value="LOCAL" />
-      <updated>1647865099390</updated>
+      <updated>1647800664684</updated>
     </task>
-    <task id="LOCAL-00201" summary="add githubLink to WorkItem prop">
-      <created>1647939653818</created>
+    <task id="LOCAL-00201" summary="add pagesLink data">
+      <created>1647800671624</created>
       <option name="number" value="00201" />
       <option name="presentableId" value="LOCAL-00201" />
       <option name="project" value="LOCAL" />
-      <updated>1647939653818</updated>
+      <updated>1647800671624</updated>
     </task>
-    <task id="LOCAL-00202" summary="add upd WorkItem props type and add githubLink">
-      <created>1647939680205</created>
+    <task id="LOCAL-00202" summary="add .workPreview::before">
+      <created>1647800942038</created>
       <option name="number" value="00202" />
       <option name="presentableId" value="LOCAL-00202" />
       <option name="project" value="LOCAL" />
-      <updated>1647939680205</updated>
+      <updated>1647800942038</updated>
     </task>
-    <task id="LOCAL-00203" summary="add upd workItem styles">
-      <created>1647939692889</created>
+    <task id="LOCAL-00203" summary="add upd dependencies">
+      <created>1647969479232</created>
       <option name="number" value="00203" />
       <option name="presentableId" value="LOCAL-00203" />
       <option name="project" value="LOCAL" />
-      <updated>1647939692889</updated>
+      <updated>1647969479232</updated>
     </task>
-    <task id="LOCAL-00204" summary="add variables to Works.module.scss">
-      <created>1647940348788</created>
+    <task id="LOCAL-00204" summary="add upd Swiper (adaptive change of slides count)">
+      <created>1647969544143</created>
       <option name="number" value="00204" />
       <option name="presentableId" value="LOCAL-00204" />
       <option name="project" value="LOCAL" />
-      <updated>1647940348788</updated>
+      <updated>1647969544143</updated>
     </task>
-    <task id="LOCAL-00205" summary="add variables to WorksItem.module.scss">
-      <created>1647940402932</created>
+    <task id="LOCAL-00205" summary="add upd skillsList margin value">
+      <created>1647969953311</created>
       <option name="number" value="00205" />
       <option name="presentableId" value="LOCAL-00205" />
       <option name="project" value="LOCAL" />
-      <updated>1647940402932</updated>
+      <updated>1647969953312</updated>
     </task>
-    <task id="LOCAL-00206" summary="add variables to AboutMe.module.scss">
-      <created>1647940499035</created>
+    <task id="LOCAL-00206" summary="add Framer motion dependencies">
+      <created>1647973883496</created>
       <option name="number" value="00206" />
       <option name="presentableId" value="LOCAL-00206" />
       <option name="project" value="LOCAL" />
-      <updated>1647940499035</updated>
+      <updated>1647973883496</updated>
     </task>
-    <task id="LOCAL-00207" summary="add variables to Contacts.module.scss">
-      <created>1647940548221</created>
-      <option name="number" value="00207" />
-      <option name="presentableId" value="LOCAL-00207" />
-      <option name="project" value="LOCAL" />
-      <updated>1647940548221</updated>
-    </task>
-    <task id="LOCAL-00208" summary="add variables to Employ.module.scss">
-      <created>1647940583393</created>
-      <option name="number" value="00208" />
-      <option name="presentableId" value="LOCAL-00208" />
-      <option name="project" value="LOCAL" />
-      <updated>1647940583393</updated>
-    </task>
-    <task id="LOCAL-00209" summary="add variables to Footer.module.scss">
-      <created>1647940634538</created>
-      <option name="number" value="00209" />
-      <option name="presentableId" value="LOCAL-00209" />
-      <option name="project" value="LOCAL" />
-      <updated>1647940634538</updated>
-    </task>
-    <task id="LOCAL-00210" summary="add variables to Header.module.scss">
-      <created>1647940682296</created>
-      <option name="number" value="00210" />
-      <option name="presentableId" value="LOCAL-00210" />
-      <option name="project" value="LOCAL" />
-      <updated>1647940682296</updated>
-    </task>
-    <task id="LOCAL-00211" summary="add variables to Skills.module.scss">
-      <created>1647940729385</created>
-      <option name="number" value="00211" />
-      <option name="presentableId" value="LOCAL-00211" />
-      <option name="project" value="LOCAL" />
-      <updated>1647940729385</updated>
-    </task>
-    <task id="LOCAL-00212" summary="add upd deps">
-      <created>1648025331137</created>
-      <option name="number" value="00212" />
-      <option name="presentableId" value="LOCAL-00212" />
-      <option name="project" value="LOCAL" />
-      <updated>1648025331138</updated>
-    </task>
-    <task id="LOCAL-00213" summary="add emailjs deps.">
-      <created>1648025627356</created>
-      <option name="number" value="00213" />
-      <option name="presentableId" value="LOCAL-00213" />
-      <option name="project" value="LOCAL" />
-      <updated>1648025627356</updated>
-    </task>
-    <task id="LOCAL-00214" summary="add гзв emailjs deps.">
-      <created>1648031790273</created>
-      <option name="number" value="00214" />
-      <option name="presentableId" value="LOCAL-00214" />
-      <option name="project" value="LOCAL" />
-      <updated>1648031790273</updated>
-    </task>
-    <task id="LOCAL-00215" summary="add contacts form logic">
-      <created>1648031849359</created>
-      <option name="number" value="00215" />
-      <option name="presentableId" value="LOCAL-00215" />
-      <option name="project" value="LOCAL" />
-      <updated>1648031849360</updated>
-    </task>
-    <task id="LOCAL-00216" summary="add form messages">
-      <created>1648192895566</created>
-      <option name="number" value="00216" />
-      <option name="presentableId" value="LOCAL-00216" />
-      <option name="project" value="LOCAL" />
-      <updated>1648192895566</updated>
-    </task>
-    <task id="LOCAL-00217" summary="add form required fields">
-      <created>1648192908532</created>
-      <option name="number" value="00217" />
-      <option name="presentableId" value="LOCAL-00217" />
-      <option name="project" value="LOCAL" />
-      <updated>1648192908532</updated>
-    </task>
-    <task id="LOCAL-00218" summary="add cleaning  form inputs">
-      <created>1648193258207</created>
-      <option name="number" value="00218" />
-      <option name="presentableId" value="LOCAL-00218" />
-      <option name="project" value="LOCAL" />
-      <updated>1648193258207</updated>
-    </task>
-    <task id="LOCAL-00219" summary="add new form inputs styles">
-      <created>1648193275103</created>
-      <option name="number" value="00219" />
-      <option name="presentableId" value="LOCAL-00219" />
-      <option name="project" value="LOCAL" />
-      <updated>1648193275103</updated>
-    </task>
-    <task id="LOCAL-00220" summary="add btn focus style">
-      <created>1648193684195</created>
-      <option name="number" value="00220" />
-      <option name="presentableId" value="LOCAL-00220" />
-      <option name="project" value="LOCAL" />
-      <updated>1648193684196</updated>
-    </task>
-    <task id="LOCAL-00221" summary="add a focus style">
-      <created>1648193805764</created>
-      <option name="number" value="00221" />
-      <option name="presentableId" value="LOCAL-00221" />
-      <option name="project" value="LOCAL" />
-      <updated>1648193805764</updated>
-    </task>
-    <option name="localTasksCounter" value="222" />
+    <option name="localTasksCounter" value="207" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -499,31 +516,31 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add upd Swiper slider styles" />
-    <MESSAGE value="add upd Swiper props (centeredSlidesBounds, grabCursor)" />
-    <MESSAGE value="add upd Swiper styles imports" />
-    <MESSAGE value="add upd skillsWrapper value" />
-    <MESSAGE value="add githubLink to WorkItem prop" />
-    <MESSAGE value="add upd WorkItem props type and add githubLink" />
-    <MESSAGE value="add upd workItem styles" />
-    <MESSAGE value="add variables to Works.module.scss" />
-    <MESSAGE value="add variables to WorksItem.module.scss" />
-    <MESSAGE value="add variables to AboutMe.module.scss" />
-    <MESSAGE value="add variables to Contacts.module.scss" />
-    <MESSAGE value="add variables to Employ.module.scss" />
-    <MESSAGE value="add variables to Footer.module.scss" />
-    <MESSAGE value="add variables to Header.module.scss" />
-    <MESSAGE value="add variables to Skills.module.scss" />
-    <MESSAGE value="add upd deps" />
-    <MESSAGE value="add emailjs deps." />
-    <MESSAGE value="add гзв emailjs deps." />
-    <MESSAGE value="add contacts form logic" />
-    <MESSAGE value="add form messages" />
-    <MESSAGE value="add form required fields" />
-    <MESSAGE value="add cleaning  form inputs" />
-    <MESSAGE value="add new form inputs styles" />
-    <MESSAGE value="add btn focus style" />
-    <MESSAGE value="add a focus style" />
-    <option name="LAST_COMMIT_MESSAGE" value="add a focus style" />
+    <MESSAGE value="add aboutText__profession animation" />
+    <MESSAGE value="add aboutContainer background-color style" />
+    <MESSAGE value="add react-scroll dependencies" />
+    <MESSAGE value="add refactoring App components" />
+    <MESSAGE value="add scrollButton styles" />
+    <MESSAGE value="add navList styles" />
+    <MESSAGE value="add navList tablet/desktop styles" />
+    <MESSAGE value="add HeaderSection component" />
+    <MESSAGE value="add worksContainer background-color style" />
+    <MESSAGE value="add contactsContainer background-color style" />
+    <MESSAGE value="add upd aboutText__profession styles" />
+    <MESSAGE value="delete navbar" />
+    <MESSAGE value="add upd imports" />
+    <MESSAGE value="add rename Scroll by Header" />
+    <MESSAGE value="add navList a:hover styles" />
+    <MESSAGE value="add change headerContainer" />
+    <MESSAGE value="add scrollButtonHide style" />
+    <MESSAGE value="add scrollButtonShow className" />
+    <MESSAGE value="add pagesLink to props" />
+    <MESSAGE value="add pagesLink data" />
+    <MESSAGE value="add .workPreview::before" />
+    <MESSAGE value="add upd dependencies" />
+    <MESSAGE value="add upd Swiper (adaptive change of slides count)" />
+    <MESSAGE value="add upd skillsList margin value" />
+    <MESSAGE value="add Framer motion dependencies" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Framer motion dependencies" />
   </component>
 </project>

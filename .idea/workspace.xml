@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add new worksList mb">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add new SkillItem">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Works/Works.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/Works.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,14 +138,9 @@
       <workItem from="1648238506595" duration="17000" />
       <workItem from="1648307457197" duration="1024000" />
       <workItem from="1648583386693" duration="478000" />
-      <workItem from="1648624576426" duration="2437000" />
-    </task>
-    <task id="LOCAL-00162" summary="delete containers border">
-      <created>1646665289065</created>
-      <option name="number" value="00162" />
-      <option name="presentableId" value="LOCAL-00162" />
-      <option name="project" value="LOCAL" />
-      <updated>1646665289065</updated>
+      <workItem from="1648624576426" duration="2492000" />
+      <workItem from="1648633873929" duration="115000" />
+      <workItem from="1648639643093" duration="252000" />
     </task>
     <task id="LOCAL-00163" summary="add Vanta.js dependencies">
       <created>1646665827855</created>
@@ -483,7 +478,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648626493865</updated>
     </task>
-    <option name="localTasksCounter" value="211" />
+    <task id="LOCAL-00211" summary="add new SkillItem">
+      <created>1648627218782</created>
+      <option name="number" value="00211" />
+      <option name="presentableId" value="LOCAL-00211" />
+      <option name="project" value="LOCAL" />
+      <updated>1648627218782</updated>
+    </task>
+    <option name="localTasksCounter" value="212" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -502,7 +504,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add navList styles" />
     <MESSAGE value="add navList tablet/desktop styles" />
     <MESSAGE value="add HeaderSection component" />
     <MESSAGE value="add worksContainer background-color style" />
@@ -527,6 +528,7 @@
     <MESSAGE value="add upd deps." />
     <MESSAGE value="add new WorkItem" />
     <MESSAGE value="add new worksList mb" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new worksList mb" />
+    <MESSAGE value="add new SkillItem" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new SkillItem" />
   </component>
 </project>

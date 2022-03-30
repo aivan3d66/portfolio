@@ -11,6 +11,8 @@ import social from "./../../assets/images/social.PNG";
 import maroon from "./../../assets/images/maroonPrewiev.PNG";
 // @ts-ignore
 import converter from "./../../assets/images/converter.PNG";
+// @ts-ignore
+import game from "./../../assets/images/game.PNG";
 
 export const Works = () => {
   const todoListBgImg = {
@@ -27,6 +29,9 @@ export const Works = () => {
   };
   const converterImg = {
     backgroundImage: `url(${converter})`,
+  };
+  const gameImg = {
+    backgroundImage: `url(${game})`,
   };
 
   return (
@@ -68,6 +73,13 @@ export const Works = () => {
             pagesLink={'https://currency-exchange-converter.herokuapp.com/'}
             githubLink={'https://github.com/aivan3d66/currency-converter'}
             description={"Simple Currency exchange app. Using stack: React + MobX library of state menagment, Styled components and Heroku deploying"}
+          />
+          <WorkItem
+            style={gameImg}
+            title={"2048"}
+            pagesLink={'https://the-2048-game-vanilla-js.herokuapp.com/'}
+            githubLink={'https://github.com/aivan3d66/game-2048'}
+            description={"A copy of a famous mobile game created with React.js and Heroku deploying"}
           />
         </div>
       </div>

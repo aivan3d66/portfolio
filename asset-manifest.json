@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.0797df32.css",
-    "main.js": "/portfolio/static/js/main.48445144.js",
+    "main.css": "/portfolio/static/css/main.00927441.css",
+    "main.js": "/portfolio/static/js/main.19e3aaeb.js",
     "static/media/maroonPrewiev.PNG": "/portfolio/static/media/maroonPrewiev.a49d5ec1c1e7b5c6f941.PNG",
-    "static/media/social.PNG": "/portfolio/static/media/social.ee7c3baacbffe201b962.PNG",
+    "static/media/converter.PNG": "/portfolio/static/media/converter.e6fdf6687f04b156b5d4.PNG",
+    "static/media/social.PNG": "/portfolio/static/media/social.536078319332ce9770c8.PNG",
     "static/media/trip.PNG": "/portfolio/static/media/trip.15e97aeddca09890ffe5.PNG",
     "static/media/photo1.jpg": "/portfolio/static/media/photo1.bd93de3f08f104ae2952.jpg",
-    "static/media/todos.PNG": "/portfolio/static/media/todos.258afe665f33450a18e7.PNG",
+    "static/media/game.PNG": "/portfolio/static/media/game.1464ad61cfe01490d102.PNG",
+    "static/media/todo.PNG": "/portfolio/static/media/todo.8ef8fd22db79201b6c8d.PNG",
     "index.html": "/portfolio/index.html",
-    "main.0797df32.css.map": "/portfolio/static/css/main.0797df32.css.map",
-    "main.48445144.js.map": "/portfolio/static/js/main.48445144.js.map"
+    "main.00927441.css.map": "/portfolio/static/css/main.00927441.css.map",
+    "main.19e3aaeb.js.map": "/portfolio/static/js/main.19e3aaeb.js.map"
   },
   "entrypoints": [
-    "static/css/main.0797df32.css",
-    "static/js/main.48445144.js"
+    "static/css/main.00927441.css",
+    "static/js/main.19e3aaeb.js"
   ]
 }

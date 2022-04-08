@@ -94,15 +94,15 @@ export class HeaderSection extends React.Component {
             >
               <li>
                 <Link activeClass="active" className="test1" to="test1" spy={true} smooth={true}
-                      duration={500}><a href={'#'}>Main</a></Link>
-              </li>
-              <li>
-                <Link activeClass="active" className="test2" to="test2" spy={true} smooth={true}
                       duration={500}><a href={'#'}>Skills</a></Link>
               </li>
               <li>
-                <Link activeClass="active" className="test3" to="test3" spy={true} smooth={true}
+                <Link activeClass="active" className="test2" to="test2" spy={true} smooth={true}
                       duration={500}><a href={'#'}>Works</a></Link>
+              </li>
+              <li>
+                <Link activeClass="active" className="test3" to="test3" spy={true} smooth={true}
+                      duration={500}><a href={'#'}>About me</a></Link>
               </li>
               <li>
                 <Link activeClass="active" className="test4" to="test4" spy={true} smooth={true}
@@ -112,23 +112,21 @@ export class HeaderSection extends React.Component {
           </div>
         </motion.div>
 
-        <Element name="test1" className="element">
-          <AboutMe/>
-        </Element>
+        <AboutMe/>
 
-        <Element name="test2" className="element">
+        <Element name="test1" className="element">
           <Skills/>
         </Element>
 
-        <Element name="test3" className="element">
+        <Element name="test2" className="element">
           <Works/>
         </Element>
 
-        <Element name="test4" className="element">
+        <Element name="test3" className="element">
           <Employ/>
         </Element>
 
-        <Element name="test5" className="element">
+        <Element name="test4" className="element">
           <Contacts/>
         </Element>
 

@@ -72,7 +72,7 @@ export const Works = () => {
             title={"Currency exchange"}
             pagesLink={'https://currency-exchange-converter.herokuapp.com/'}
             githubLink={'https://github.com/aivan3d66/currency-converter'}
-            description={"Simple Currency exchange app. Using stack: React + MobX library of state menagment, Styled components and Heroku deploying"}
+            description={"Simple Currency exchange app. Using stack: React + MobX library of state management, Styled components and Heroku deploying"}
           />
           <WorkItem
             style={gameImg}

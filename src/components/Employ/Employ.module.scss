@@ -9,6 +9,7 @@
 
 .employWrapper {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   max-width: $desktop-width;
@@ -16,7 +17,12 @@
   margin: 40px auto;
   padding: 0 20px;
 
-  button {
-    margin-bottom: 80px;
+  p {
+    max-width: $tablet-width;
+    margin: 0 0 100px 0;
+    padding: 0;
+    color: $special_light-gray;
+    font-size: 18px;
+    text-align: center;
   }
 }

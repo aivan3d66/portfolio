@@ -28,9 +28,11 @@
   font-size: 40px;
   transition: 0.3s;
   cursor: pointer;
+  opacity: 0.5;
 
   &:hover {
     color: $special_blue;
+    opacity: 1;
   }
 
   span {

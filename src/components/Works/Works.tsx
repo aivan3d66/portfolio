@@ -13,6 +13,8 @@ import maroon from "./../../assets/images/maroonPrewiev.PNG";
 import converter from "./../../assets/images/converter.PNG";
 // @ts-ignore
 import game from "./../../assets/images/game.PNG";
+// @ts-ignore
+import card from "./../../assets/images/card-prew.PNG";
 
 export const Works = () => {
   const todoListBgImg = {
@@ -32,6 +34,9 @@ export const Works = () => {
   };
   const gameImg = {
     backgroundImage: `url(${game})`,
+  };
+  const cardImg = {
+    backgroundImage: `url(${card})`,
   };
 
   return (

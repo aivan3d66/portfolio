@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add workPreview__wrapper styles">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add GraphQL skill">
       <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -153,14 +153,7 @@
       <workItem from="1648633873929" duration="115000" />
       <workItem from="1648639643093" duration="431000" />
       <workItem from="1648640766241" duration="1184000" />
-      <workItem from="1651518032578" duration="1804000" />
-    </task>
-    <task id="LOCAL-00172" summary="add upd aboutText margin">
-      <created>1646726684653</created>
-      <option name="number" value="00172" />
-      <option name="presentableId" value="LOCAL-00172" />
-      <option name="project" value="LOCAL" />
-      <updated>1646726684653</updated>
+      <workItem from="1651518032578" duration="2144000" />
     </task>
     <task id="LOCAL-00173" summary="add upd skillsList margin">
       <created>1646726930649</created>
@@ -498,7 +491,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651519560686</updated>
     </task>
-    <option name="localTasksCounter" value="221" />
+    <task id="LOCAL-00221" summary="add GraphQL skill">
+      <created>1651519891164</created>
+      <option name="number" value="00221" />
+      <option name="presentableId" value="LOCAL-00221" />
+      <option name="project" value="LOCAL" />
+      <updated>1651519891164</updated>
+    </task>
+    <option name="localTasksCounter" value="222" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -517,7 +517,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add rename Scroll by Header" />
     <MESSAGE value="add navList a:hover styles" />
     <MESSAGE value="add change headerContainer" />
     <MESSAGE value="add scrollButtonHide style" />
@@ -542,6 +541,7 @@
     <MESSAGE value="add upd Contact title" />
     <MESSAGE value="add workPreview__wrapper" />
     <MESSAGE value="add workPreview__wrapper styles" />
-    <option name="LAST_COMMIT_MESSAGE" value="add workPreview__wrapper styles" />
+    <MESSAGE value="add GraphQL skill" />
+    <option name="LAST_COMMIT_MESSAGE" value="add GraphQL skill" />
   </component>
 </project>

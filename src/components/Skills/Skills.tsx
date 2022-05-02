@@ -12,6 +12,7 @@ import {SiSass} from "react-icons/si";
 import {SiTailwindcss} from "react-icons/si";
 import {SiMobx} from "react-icons/si";
 import {SiGraphql} from "react-icons/si";
+import {SiNodedotjs} from "react-icons/si";
 import {Swiper, SwiperSlide} from 'swiper/react';
 import {Pagination, A11y} from 'swiper';
 
@@ -101,6 +102,15 @@ export const Skills = () => {
                 <SkillItem
                   title={"GraphQL"}
                   text={"Faster and powerful React APP without GrapQL? No thanks"}
+                />
+              </li>
+            </SwiperSlide>
+            <SwiperSlide>
+              <li>
+                <SiNodedotjs className={style.skillItem__img}/>
+                <SkillItem
+                  title={"Node.js"}
+                  text={"If you need simple Back-end, just leave it to me"}
                 />
               </li>
             </SwiperSlide>

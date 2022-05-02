@@ -52,6 +52,13 @@ export const Works = () => {
             description={"Simple todo list with storage of data on remote server. Technology stack: React, Redux (Redux-thunk), REST API, Storybook, Unit and snapshot tests"}
           />
           <WorkItem
+            style={cardImg}
+            title={"Cards"}
+            pagesLink={'https://ershisan99.github.io/cards/'}
+            githubLink={'https://github.com/aivan3d66/cards'}
+            description={"Team IT-INCUBATOR project. We used next technologies: JS, TypeScript, React, Redux, Redux-toolkit, Tailwind UI"}
+          />
+          <WorkItem
             style={bigTripBgImg}
             title={"Big trip"}
             pagesLink={'https://aivan3d66.github.io/Big-trip/'}

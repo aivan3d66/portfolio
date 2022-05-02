@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add new WorkItem">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Contacts/Contacts.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts/Contacts.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +50,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/images" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -57,11 +58,12 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="E:\rjs\portfolio\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="E:\projects\portfolio\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\projects\portfolio\src\assets\images" />
       <recent name="E:\rjs\portfolio\src\components\Footer" />
       <recent name="E:\rjs\portfolio\src\components\Contacts" />
       <recent name="E:\rjs\portfolio\src\components\Works" />
@@ -152,34 +154,7 @@
       <workItem from="1648633873929" duration="115000" />
       <workItem from="1648639643093" duration="431000" />
       <workItem from="1648640766241" duration="1184000" />
-    </task>
-    <task id="LOCAL-00165" summary="add variable import to App">
-      <created>1646669056566</created>
-      <option name="number" value="00165" />
-      <option name="presentableId" value="LOCAL-00165" />
-      <option name="project" value="LOCAL" />
-      <updated>1646669056566</updated>
-    </task>
-    <task id="LOCAL-00166" summary="add vantaEffect">
-      <created>1646669084280</created>
-      <option name="number" value="00166" />
-      <option name="presentableId" value="LOCAL-00166" />
-      <option name="project" value="LOCAL" />
-      <updated>1646669084280</updated>
-    </task>
-    <task id="LOCAL-00167" summary="delete container borders">
-      <created>1646669347400</created>
-      <option name="number" value="00167" />
-      <option name="presentableId" value="LOCAL-00167" />
-      <option name="project" value="LOCAL" />
-      <updated>1646669347400</updated>
-    </task>
-    <task id="LOCAL-00168" summary="add upd nav bg-color">
-      <created>1646669696812</created>
-      <option name="number" value="00168" />
-      <option name="presentableId" value="LOCAL-00168" />
-      <option name="project" value="LOCAL" />
-      <updated>1646669696812</updated>
+      <workItem from="1651518032578" duration="675000" />
     </task>
     <task id="LOCAL-00169" summary="add upd aboutImage margin">
       <created>1646670935681</created>
@@ -496,7 +471,35 @@
       <option name="project" value="LOCAL" />
       <updated>1648640066522</updated>
     </task>
-    <option name="localTasksCounter" value="214" />
+    <task id="LOCAL-00214" summary="add card-prew img">
+      <created>1651518217137</created>
+      <option name="number" value="00214" />
+      <option name="presentableId" value="LOCAL-00214" />
+      <option name="project" value="LOCAL" />
+      <updated>1651518217138</updated>
+    </task>
+    <task id="LOCAL-00215" summary="add upd yarn deps">
+      <created>1651518238289</created>
+      <option name="number" value="00215" />
+      <option name="presentableId" value="LOCAL-00215" />
+      <option name="project" value="LOCAL" />
+      <updated>1651518238289</updated>
+    </task>
+    <task id="LOCAL-00216" summary="add img import">
+      <created>1651518529875</created>
+      <option name="number" value="00216" />
+      <option name="presentableId" value="LOCAL-00216" />
+      <option name="project" value="LOCAL" />
+      <updated>1651518529875</updated>
+    </task>
+    <task id="LOCAL-00217" summary="add new WorkItem">
+      <created>1651518537873</created>
+      <option name="number" value="00217" />
+      <option name="presentableId" value="LOCAL-00217" />
+      <option name="project" value="LOCAL" />
+      <updated>1651518537873</updated>
+    </task>
+    <option name="localTasksCounter" value="218" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -515,9 +518,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add HeaderSection component" />
-    <MESSAGE value="add worksContainer background-color style" />
-    <MESSAGE value="add contactsContainer background-color style" />
     <MESSAGE value="add upd aboutText__profession styles" />
     <MESSAGE value="delete navbar" />
     <MESSAGE value="add upd imports" />
@@ -539,6 +539,9 @@
     <MESSAGE value="add new worksList mb" />
     <MESSAGE value="add new SkillItem" />
     <MESSAGE value="add game img" />
+    <MESSAGE value="add card-prew img" />
+    <MESSAGE value="add upd yarn deps" />
+    <MESSAGE value="add img import" />
     <MESSAGE value="add new WorkItem" />
     <option name="LAST_COMMIT_MESSAGE" value="add new WorkItem" />
   </component>

@@ -24,7 +24,7 @@ export const Contacts = () => {
 
   return (
     <section className={style.contactsContainer}>
-      <BlockTitle title={"Contacts"}/>
+      <BlockTitle title={"Contact"}/>
 
       <div className={style.contactsWrapper}>
         <form ref={form} className={style.contactsForm} onSubmit={sendEmail}>

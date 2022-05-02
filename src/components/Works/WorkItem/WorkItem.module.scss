@@ -13,6 +13,11 @@
   background-color: $special_dark-gray-2;
 }
 
+.workPreview__wrapper {
+  height: 200px;
+  overflow: hidden;
+}
+
 .workPreview {
   position: relative;
   display: flex;
@@ -26,6 +31,8 @@
   background-size: cover;
   border: 1px solid inherit;
   outline: none;
+  transition: all 0.3s;
+  overflow: hidden;
 
   &::before {
     position: absolute;
@@ -42,6 +49,8 @@
 
   &:hover,
   &:focus {
+    transform: scale(1.2);
+
     .workPreview__link {
       display: block;
     }
@@ -100,6 +109,10 @@
     flex-wrap: wrap;
     min-width: 400px;
     max-width: 500px;
+  }
+
+  .workPreview__wrapper {
+    height: 300px;
   }
 
   .workPreview{

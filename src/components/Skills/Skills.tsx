@@ -11,6 +11,7 @@ import {SiGithub} from "react-icons/si";
 import {SiSass} from "react-icons/si";
 import {SiTailwindcss} from "react-icons/si";
 import {SiMobx} from "react-icons/si";
+import {SiGraphql} from "react-icons/si";
 import {Swiper, SwiperSlide} from 'swiper/react';
 import {Pagination, A11y} from 'swiper';
 
@@ -91,6 +92,15 @@ export const Skills = () => {
                 <SkillItem
                   title={"MobX"}
                   text={"Anything that can be derived from the application state, should be. Automatically."}
+                />
+              </li>
+            </SwiperSlide>
+            <SwiperSlide>
+              <li>
+                <SiGraphql className={style.skillItem__img}/>
+                <SkillItem
+                  title={"GraphQL"}
+                  text={"Faster and powerful React APP without GrapQL? No thanks"}
                 />
               </li>
             </SwiperSlide>

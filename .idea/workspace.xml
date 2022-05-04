@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add movie WorkItem">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add new skills mt value">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,14 +157,7 @@
       <workItem from="1648640766241" duration="1184000" />
       <workItem from="1651518032578" duration="2664000" />
       <workItem from="1651578540823" duration="24000" />
-      <workItem from="1651689497155" duration="1895000" />
-    </task>
-    <task id="LOCAL-00177" summary="add fix aboutImage::before height">
-      <created>1646854787939</created>
-      <option name="number" value="00177" />
-      <option name="presentableId" value="LOCAL-00177" />
-      <option name="project" value="LOCAL" />
-      <updated>1646854787939</updated>
+      <workItem from="1651689497155" duration="2400000" />
     </task>
     <task id="LOCAL-00178" summary="add new aboutImage margin bottom">
       <created>1646854889389</created>
@@ -501,7 +495,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651690708237</updated>
     </task>
-    <option name="localTasksCounter" value="226" />
+    <task id="LOCAL-00226" summary="add new skills mt value">
+      <created>1651692019382</created>
+      <option name="number" value="00226" />
+      <option name="presentableId" value="LOCAL-00226" />
+      <option name="project" value="LOCAL" />
+      <updated>1651692019382</updated>
+    </task>
+    <option name="localTasksCounter" value="227" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -520,7 +521,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add pagesLink to props" />
     <MESSAGE value="add pagesLink data" />
     <MESSAGE value="add .workPreview::before" />
     <MESSAGE value="add upd dependencies" />
@@ -545,6 +545,7 @@
     <MESSAGE value="add new favicon" />
     <MESSAGE value="add movie preview" />
     <MESSAGE value="add movie WorkItem" />
-    <option name="LAST_COMMIT_MESSAGE" value="add movie WorkItem" />
+    <MESSAGE value="add new skills mt value" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new skills mt value" />
   </component>
 </project>

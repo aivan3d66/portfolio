@@ -77,6 +77,13 @@ export const AboutMe = () => {
           <motion.img
             src={photo1}
             alt="avatar"
+            drag
+            dragConstraints={{
+              top: -50,
+              left: -50,
+              right: 50,
+              bottom: 50,
+            }}
 
           />
         </motion.div>

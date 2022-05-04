@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add GraphQL skill">
-      <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" afterDir="false" />
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add Node.js skill">
+      <change afterPath="$PROJECT_DIR$/public/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/movie.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Works/Works.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/Works.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,11 +74,11 @@
       <recent name="E:\rjs\portfolio\src\components\Skills\SkillItem" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\projects\portfolio\public" />
       <recent name="E:\rjs\portfolio\src\components\Header" />
       <recent name="E:\rjs\portfolio\src" />
       <recent name="E:\rjs\portfolio\src\common\Title" />
       <recent name="E:\rjs\portfolio\src\components\Works\WorkItem" />
-      <recent name="E:\rjs\portfolio\src\components" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -153,14 +158,9 @@
       <workItem from="1648633873929" duration="115000" />
       <workItem from="1648639643093" duration="431000" />
       <workItem from="1648640766241" duration="1184000" />
-      <workItem from="1651518032578" duration="2144000" />
-    </task>
-    <task id="LOCAL-00173" summary="add upd skillsList margin">
-      <created>1646726930649</created>
-      <option name="number" value="00173" />
-      <option name="presentableId" value="LOCAL-00173" />
-      <option name="project" value="LOCAL" />
-      <updated>1646726930650</updated>
+      <workItem from="1651518032578" duration="2664000" />
+      <workItem from="1651578540823" duration="24000" />
+      <workItem from="1651689497155" duration="1067000" />
     </task>
     <task id="LOCAL-00174" summary="add upd skillsList item after">
       <created>1646727626297</created>
@@ -498,7 +498,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651519891164</updated>
     </task>
-    <option name="localTasksCounter" value="222" />
+    <task id="LOCAL-00222" summary="add Node.js skill">
+      <created>1651520594181</created>
+      <option name="number" value="00222" />
+      <option name="presentableId" value="LOCAL-00222" />
+      <option name="project" value="LOCAL" />
+      <updated>1651520594181</updated>
+    </task>
+    <option name="localTasksCounter" value="223" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -517,7 +524,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add navList a:hover styles" />
     <MESSAGE value="add change headerContainer" />
     <MESSAGE value="add scrollButtonHide style" />
     <MESSAGE value="add scrollButtonShow className" />
@@ -542,6 +548,7 @@
     <MESSAGE value="add workPreview__wrapper" />
     <MESSAGE value="add workPreview__wrapper styles" />
     <MESSAGE value="add GraphQL skill" />
-    <option name="LAST_COMMIT_MESSAGE" value="add GraphQL skill" />
+    <MESSAGE value="add Node.js skill" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Node.js skill" />
   </component>
 </project>

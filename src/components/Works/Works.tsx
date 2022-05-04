@@ -15,6 +15,8 @@ import converter from "./../../assets/images/converter.PNG";
 import game from "./../../assets/images/game.PNG";
 // @ts-ignore
 import card from "./../../assets/images/card-prew.PNG";
+// @ts-ignore
+import movie from "./../../assets/images/movie.PNG";
 
 export const Works = () => {
   const todoListBgImg = {
@@ -37,6 +39,9 @@ export const Works = () => {
   };
   const cardImg = {
     backgroundImage: `url(${card})`,
+  };
+  const movieImg = {
+    backgroundImage: `url(${movie})`,
   };
 
   return (
@@ -85,6 +90,13 @@ export const Works = () => {
             pagesLink={'https://currency-exchange-converter.herokuapp.com/'}
             githubLink={'https://github.com/aivan3d66/currency-converter'}
             description={"Simple Currency exchange app. Using stack: React + MobX library of state management, Styled components and Heroku deploying"}
+          />
+          <WorkItem
+            style={movieImg}
+            title={"Movie-graph"}
+            pagesLink={'https://movie-graph-front.herokuapp.com/'}
+            githubLink={'https://github.com/aivan3d66/movie-graph'}
+            description={"Movie-manager APP. For Back-end I used: Node.js + Express, GraphQl, MongoDB and Front-end: React, Apollo GraphQL, Material UI. All this stuff deploying to Heroku"}
           />
           <WorkItem
             style={gameImg}

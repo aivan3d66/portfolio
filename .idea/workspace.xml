@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add new skills mt value">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add motion drag to img">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,24 +43,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="TODO_SCOPE" value="All Places" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/images" />
-    <property name="list.type.of.created.stylesheet" value="SCSS" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_interpreter_path" value="node" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="E:\projects\portfolio\node_modules\typescript\lib" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/projects/portfolio",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "ts.external.directory.path": "E:\\projects\\portfolio\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\projects\portfolio\src\assets\images" />
@@ -157,21 +151,12 @@
       <workItem from="1648640766241" duration="1184000" />
       <workItem from="1651518032578" duration="2664000" />
       <workItem from="1651578540823" duration="24000" />
-      <workItem from="1651689497155" duration="2400000" />
-    </task>
-    <task id="LOCAL-00178" summary="add new aboutImage margin bottom">
-      <created>1646854889389</created>
-      <option name="number" value="00178" />
-      <option name="presentableId" value="LOCAL-00178" />
-      <option name="project" value="LOCAL" />
-      <updated>1646854889389</updated>
-    </task>
-    <task id="LOCAL-00179" summary="add fix SkillItem margins">
-      <created>1646855441171</created>
-      <option name="number" value="00179" />
-      <option name="presentableId" value="LOCAL-00179" />
-      <option name="project" value="LOCAL" />
-      <updated>1646855441171</updated>
+      <workItem from="1651689497155" duration="2841000" />
+      <workItem from="1651729858924" duration="675000" />
+      <workItem from="1651733506441" duration="1363000" />
+      <workItem from="1652532901282" duration="35000" />
+      <workItem from="1652638982362" duration="621000" />
+      <workItem from="1652788045694" duration="181000" />
     </task>
     <task id="LOCAL-00180" summary="add spaces upd">
       <created>1647624794663</created>
@@ -502,7 +487,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651692019382</updated>
     </task>
-    <option name="localTasksCounter" value="227" />
+    <task id="LOCAL-00227" summary="add upd img styles">
+      <created>1651692513869</created>
+      <option name="number" value="00227" />
+      <option name="presentableId" value="LOCAL-00227" />
+      <option name="project" value="LOCAL" />
+      <updated>1651692513869</updated>
+    </task>
+    <task id="LOCAL-00228" summary="add motion drag to img">
+      <created>1651692527500</created>
+      <option name="number" value="00228" />
+      <option name="presentableId" value="LOCAL-00228" />
+      <option name="project" value="LOCAL" />
+      <updated>1651692527500</updated>
+    </task>
+    <option name="localTasksCounter" value="229" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -521,8 +520,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add pagesLink data" />
-    <MESSAGE value="add .workPreview::before" />
     <MESSAGE value="add upd dependencies" />
     <MESSAGE value="add upd Swiper (adaptive change of slides count)" />
     <MESSAGE value="add upd skillsList margin value" />
@@ -546,6 +543,8 @@
     <MESSAGE value="add movie preview" />
     <MESSAGE value="add movie WorkItem" />
     <MESSAGE value="add new skills mt value" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new skills mt value" />
+    <MESSAGE value="add upd img styles" />
+    <MESSAGE value="add motion drag to img" />
+    <option name="LAST_COMMIT_MESSAGE" value="add motion drag to img" />
   </component>
 </project>

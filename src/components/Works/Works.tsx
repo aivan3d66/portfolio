@@ -2,11 +2,11 @@ import style from "./Works.module.scss";
 import {WorkItem} from "./WorkItem/WorkItem";
 import {BlockTitle} from "../../common/Title/BlockTitle";
 // @ts-ignore
-import todo from "../../assets/images/todo.PNG";
+import todo from "../../assets/images/todo-prew.PNG";
 // @ts-ignore
 import trip from "./../../assets/images/trip.PNG";
 // @ts-ignore
-import social from "./../../assets/images/social.PNG";
+import social from "./../../assets/images/social-prew.PNG";
 // @ts-ignore
 import maroon from "./../../assets/images/maroonPrewiev.PNG";
 // @ts-ignore

@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.263c97d1.css",
-    "main.js": "/portfolio/static/js/main.2ce2aab1.js",
+    "main.js": "/portfolio/static/js/main.575a3c4b.js",
     "static/media/maroonPrewiev.PNG": "/portfolio/static/media/maroonPrewiev.a49d5ec1c1e7b5c6f941.PNG",
     "static/media/converter.PNG": "/portfolio/static/media/converter.e6fdf6687f04b156b5d4.PNG",
     "static/media/card-prew.PNG": "/portfolio/static/media/card-prew.c1e3ab88267ab7610666.PNG",
-    "static/media/social.PNG": "/portfolio/static/media/social.536078319332ce9770c8.PNG",
+    "static/media/social-prew.PNG": "/portfolio/static/media/social-prew.9fda43ad46ed0e618d00.PNG",
     "static/media/trip.PNG": "/portfolio/static/media/trip.15e97aeddca09890ffe5.PNG",
     "static/media/photo1.jpg": "/portfolio/static/media/photo1.bd93de3f08f104ae2952.jpg",
     "static/media/game.PNG": "/portfolio/static/media/game.1464ad61cfe01490d102.PNG",
-    "static/media/todo.PNG": "/portfolio/static/media/todo.8ef8fd22db79201b6c8d.PNG",
+    "static/media/todo-prew.PNG": "/portfolio/static/media/todo-prew.b0d4b0e919a30e493b76.PNG",
     "static/media/movie.PNG": "/portfolio/static/media/movie.366b13e809968ac5e03e.PNG",
     "index.html": "/portfolio/index.html",
     "main.263c97d1.css.map": "/portfolio/static/css/main.263c97d1.css.map",
-    "main.2ce2aab1.js.map": "/portfolio/static/js/main.2ce2aab1.js.map"
+    "main.575a3c4b.js.map": "/portfolio/static/js/main.575a3c4b.js.map"
   },
   "entrypoints": [
     "static/css/main.263c97d1.css",
-    "static/js/main.2ce2aab1.js"
+    "static/js/main.575a3c4b.js"
   ]
 }

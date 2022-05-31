@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add upd aboutWrapper height">
-      <change afterPath="$PROJECT_DIR$/src/assets/images/foodShop-prew.png" afterDir="false" />
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Works/Works.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/Works.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +70,7 @@
       <recent name="E:\rjs\portfolio\src\components\Works\WorkItem" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.npm start">
+  <component name="RunManager" selected="npm.deploy">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -161,28 +159,7 @@
       <workItem from="1653672272473" duration="61000" />
       <workItem from="1653672345890" duration="672000" />
       <workItem from="1653674179383" duration="230000" />
-      <workItem from="1654006940045" duration="980000" />
-    </task>
-    <task id="LOCAL-00181" summary="add aboutText align-items: center style">
-      <created>1647624864143</created>
-      <option name="number" value="00181" />
-      <option name="presentableId" value="LOCAL-00181" />
-      <option name="project" value="LOCAL" />
-      <updated>1647624864143</updated>
-    </task>
-    <task id="LOCAL-00182" summary="add aboutText__profession animation">
-      <created>1647624876937</created>
-      <option name="number" value="00182" />
-      <option name="presentableId" value="LOCAL-00182" />
-      <option name="project" value="LOCAL" />
-      <updated>1647624876937</updated>
-    </task>
-    <task id="LOCAL-00183" summary="add aboutContainer background-color style">
-      <created>1647625101273</created>
-      <option name="number" value="00183" />
-      <option name="presentableId" value="LOCAL-00183" />
-      <option name="project" value="LOCAL" />
-      <updated>1647625101273</updated>
+      <workItem from="1654006940045" duration="2132000" />
     </task>
     <task id="LOCAL-00184" summary="add react-scroll dependencies">
       <created>1647625910243</created>
@@ -506,7 +483,28 @@
       <option name="project" value="LOCAL" />
       <updated>1652788262686</updated>
     </task>
-    <option name="localTasksCounter" value="230" />
+    <task id="LOCAL-00230" summary="add food-shop prew image">
+      <created>1654007953858</created>
+      <option name="number" value="00230" />
+      <option name="presentableId" value="LOCAL-00230" />
+      <option name="project" value="LOCAL" />
+      <updated>1654007953858</updated>
+    </task>
+    <task id="LOCAL-00231" summary="add upd yarn deps">
+      <created>1654007978844</created>
+      <option name="number" value="00231" />
+      <option name="presentableId" value="LOCAL-00231" />
+      <option name="project" value="LOCAL" />
+      <updated>1654007978844</updated>
+    </task>
+    <task id="LOCAL-00232" summary="add new Work item">
+      <created>1654007991737</created>
+      <option name="number" value="00232" />
+      <option name="presentableId" value="LOCAL-00232" />
+      <option name="project" value="LOCAL" />
+      <updated>1654007991737</updated>
+    </task>
+    <option name="localTasksCounter" value="233" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -525,8 +523,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add upd Swiper (adaptive change of slides count)" />
-    <MESSAGE value="add upd skillsList margin value" />
     <MESSAGE value="add Framer motion dependencies" />
     <MESSAGE value="add upd img's" />
     <MESSAGE value="add upd social img" />
@@ -535,7 +531,6 @@
     <MESSAGE value="add new SkillItem" />
     <MESSAGE value="add game img" />
     <MESSAGE value="add card-prew img" />
-    <MESSAGE value="add upd yarn deps" />
     <MESSAGE value="add img import" />
     <MESSAGE value="add new WorkItem" />
     <MESSAGE value="add upd Contact title" />
@@ -550,6 +545,9 @@
     <MESSAGE value="add upd img styles" />
     <MESSAGE value="add motion drag to img" />
     <MESSAGE value="add upd aboutWrapper height" />
-    <option name="LAST_COMMIT_MESSAGE" value="add upd aboutWrapper height" />
+    <MESSAGE value="add food-shop prew image" />
+    <MESSAGE value="add upd yarn deps" />
+    <MESSAGE value="add new Work item" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new Work item" />
   </component>
 </project>

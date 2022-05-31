@@ -17,6 +17,7 @@ import game from "./../../assets/images/game.PNG";
 import card from "./../../assets/images/card-prew.PNG";
 // @ts-ignore
 import movie from "./../../assets/images/movie.PNG";
+import shop from "./../../assets/images/foodShop-prew.png";
 
 export const Works = () => {
   const todoListBgImg = {
@@ -43,6 +44,9 @@ export const Works = () => {
   const movieImg = {
     backgroundImage: `url(${movie})`,
   };
+  const shopImg = {
+    backgroundImage: `url(${shop})`,
+  };
 
   return (
     <section className={style.worksContainer}>
@@ -63,6 +67,15 @@ export const Works = () => {
             githubLink={'https://github.com/aivan3d66/cards'}
             description={"Team IT-INCUBATOR project. We used next technologies: JS, TypeScript, React, Redux, Redux-toolkit, Tailwind UI"}
           />
+
+          <WorkItem
+              style={shopImg}
+              title={"Food-shop"}
+              pagesLink={'https://aivan3d66.github.io/food-shop/'}
+              githubLink={'https://github.com/aivan3d66/food-shop'}
+              description={"Test project with strong stack. Front-end: TypeScript, React, Redux, Redux-toolkit, Apollo GraphQL, Styled Components. Back-end (deployed to Heroku): Node.js + Express, MongoDB, GraphQL"}
+          />
+
           <WorkItem
             style={bigTripBgImg}
             title={"Big trip"}

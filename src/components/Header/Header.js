@@ -132,9 +132,6 @@ export class HeaderSection extends React.Component {
 
         <a onClick={this.scrollToTop} className={style.scrollButtonShow}>
           <FaChevronUp/>
-          <span>
-            to the top!
-          </span>
         </a>
       </section>
     );

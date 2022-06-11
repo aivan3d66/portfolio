@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add upd prewiews">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add images type refactoring">
+      <change afterPath="$PROJECT_DIR$/src/data/mock-data.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/card-prew.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/card-prew.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/converter.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/converter.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/game.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/game.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/maroonPrewiev.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/maroonPrewiev.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/movie.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/movie.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/social-prew.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/social-prew.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/social.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/social.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/todo-prew.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/todo-prew.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/todo.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/todo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/todos.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/todos.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/trip.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/trip.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Works/Works.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/Works.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +20,7 @@
         <option value="TypeScript JSX File" />
         <option value="SCSS File" />
         <option value="JavaScript File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -169,14 +159,7 @@
       <workItem from="1652638982362" duration="621000" />
       <workItem from="1652788045694" duration="611000" />
       <workItem from="1654941173454" duration="1153000" />
-      <workItem from="1654951930484" duration="1187000" />
-    </task>
-    <task id="LOCAL-00181" summary="add aboutText align-items: center style">
-      <created>1647624864143</created>
-      <option name="number" value="00181" />
-      <option name="presentableId" value="LOCAL-00181" />
-      <option name="project" value="LOCAL" />
-      <updated>1647624864143</updated>
+      <workItem from="1654951930484" duration="2739000" />
     </task>
     <task id="LOCAL-00182" summary="add aboutText__profession animation">
       <created>1647624876937</created>
@@ -514,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652788262686</updated>
     </task>
-    <option name="localTasksCounter" value="230" />
+    <task id="LOCAL-00230" summary="add images type refactoring">
+      <created>1654957427370</created>
+      <option name="number" value="00230" />
+      <option name="presentableId" value="LOCAL-00230" />
+      <option name="project" value="LOCAL" />
+      <updated>1654957427370</updated>
+    </task>
+    <option name="localTasksCounter" value="231" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -533,7 +523,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add upd Swiper (adaptive change of slides count)" />
     <MESSAGE value="add upd skillsList margin value" />
     <MESSAGE value="add Framer motion dependencies" />
     <MESSAGE value="add upd img's" />
@@ -558,6 +547,7 @@
     <MESSAGE value="add upd img styles" />
     <MESSAGE value="add motion drag to img" />
     <MESSAGE value="add upd aboutWrapper height" />
-    <option name="LAST_COMMIT_MESSAGE" value="add upd aboutWrapper height" />
+    <MESSAGE value="add images type refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="add images type refactoring" />
   </component>
 </project>

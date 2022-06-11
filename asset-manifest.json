@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.996b6b07.css",
-    "main.js": "/portfolio/static/js/main.0b062b79.js",
-    "static/media/maroonPrewiev.PNG": "/portfolio/static/media/maroonPrewiev.a49d5ec1c1e7b5c6f941.PNG",
+    "main.css": "/portfolio/static/css/main.263c97d1.css",
+    "main.js": "/portfolio/static/js/main.346f6514.js",
+    "static/media/maroonPrewiev.png": "/portfolio/static/media/maroonPrewiev.a49d5ec1c1e7b5c6f941.png",
     "static/media/foodShop-prew.png": "/portfolio/static/media/foodShop-prew.5830d148992ceadbddba.png",
-    "static/media/converter.PNG": "/portfolio/static/media/converter.e6fdf6687f04b156b5d4.PNG",
-    "static/media/card-prew.PNG": "/portfolio/static/media/card-prew.c1e3ab88267ab7610666.PNG",
-    "static/media/social-prew.PNG": "/portfolio/static/media/social-prew.9fda43ad46ed0e618d00.PNG",
-    "static/media/trip.PNG": "/portfolio/static/media/trip.15e97aeddca09890ffe5.PNG",
+    "static/media/converter.png": "/portfolio/static/media/converter.e6fdf6687f04b156b5d4.png",
+    "static/media/card-prew.png": "/portfolio/static/media/card-prew.c1e3ab88267ab7610666.png",
+    "static/media/social-prew.png": "/portfolio/static/media/social-prew.9fda43ad46ed0e618d00.png",
+    "static/media/trip.png": "/portfolio/static/media/trip.15e97aeddca09890ffe5.png",
     "static/media/photo1.jpg": "/portfolio/static/media/photo1.bd93de3f08f104ae2952.jpg",
-    "static/media/game.PNG": "/portfolio/static/media/game.1464ad61cfe01490d102.PNG",
-    "static/media/todo-prew.PNG": "/portfolio/static/media/todo-prew.b0d4b0e919a30e493b76.PNG",
-    "static/media/movie.PNG": "/portfolio/static/media/movie.366b13e809968ac5e03e.PNG",
+    "static/media/game.png": "/portfolio/static/media/game.1464ad61cfe01490d102.png",
+    "static/media/todo-prew.png": "/portfolio/static/media/todo-prew.b0d4b0e919a30e493b76.png",
+    "static/media/movie.png": "/portfolio/static/media/movie.366b13e809968ac5e03e.png",
     "index.html": "/portfolio/index.html",
-    "main.996b6b07.css.map": "/portfolio/static/css/main.996b6b07.css.map",
-    "main.0b062b79.js.map": "/portfolio/static/js/main.0b062b79.js.map"
+    "main.263c97d1.css.map": "/portfolio/static/css/main.263c97d1.css.map",
+    "main.346f6514.js.map": "/portfolio/static/js/main.346f6514.js.map"
   },
   "entrypoints": [
-    "static/css/main.996b6b07.css",
-    "static/js/main.0b062b79.js"
+    "static/css/main.263c97d1.css",
+    "static/js/main.346f6514.js"
   ]
 }

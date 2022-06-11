@@ -1,22 +1,14 @@
 import style from "./Works.module.scss";
 import {WorkItem} from "./WorkItem/WorkItem";
 import {BlockTitle} from "../../common/Title/BlockTitle";
-// @ts-ignore
-import todo from "../../assets/images/todo-prew.PNG";
-// @ts-ignore
-import trip from "./../../assets/images/trip.PNG";
-// @ts-ignore
-import social from "./../../assets/images/social-prew.PNG";
-// @ts-ignore
-import maroon from "./../../assets/images/maroonPrewiev.PNG";
-// @ts-ignore
-import converter from "./../../assets/images/converter.PNG";
-// @ts-ignore
-import game from "./../../assets/images/game.PNG";
-// @ts-ignore
-import card from "./../../assets/images/card-prew.PNG";
-// @ts-ignore
-import movie from "./../../assets/images/movie.PNG";
+import todo from "../../assets/images/todo-prew.png";
+import trip from "../../assets/images/trip.png";
+import social from "../../assets/images/social-prew.png";
+import maroon from "../../assets/images/maroonPrewiev.png";
+import converter from "../../assets/images/converter.png";
+import game from "../../assets/images/game.png";
+import card from "../../assets/images/card-prew.png";
+import movie from "../../assets/images/movie.png";
 import shop from "./../../assets/images/foodShop-prew.png";
 
 export const Works = () => {
@@ -69,11 +61,11 @@ export const Works = () => {
           />
 
           <WorkItem
-              style={shopImg}
-              title={"Food-shop"}
-              pagesLink={'https://aivan3d66.github.io/food-shop/'}
-              githubLink={'https://github.com/aivan3d66/food-shop'}
-              description={"Test project with strong stack. Front-end: TypeScript, React, Redux, Redux-toolkit, Apollo GraphQL, Styled Components. Back-end (deployed to Heroku): Node.js + Express, MongoDB, GraphQL"}
+            style={shopImg}
+            title={"Food-shop"}
+            pagesLink={'https://aivan3d66.github.io/food-shop/'}
+            githubLink={'https://github.com/aivan3d66/food-shop'}
+            description={"Test project with strong stack. Front-end: TypeScript, React, Redux, Redux-toolkit, Apollo GraphQL, Styled Components. Back-end (deployed to Heroku): Node.js + Express, MongoDB, GraphQL"}
           />
 
           <WorkItem

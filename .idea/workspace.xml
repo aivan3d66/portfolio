@@ -4,9 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add upd prewiews">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/card-prew.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/card-prew.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/converter.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/converter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/game.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/game.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/maroonPrewiev.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/maroonPrewiev.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/movie.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/movie.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/social-prew.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/social-prew.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/social.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/social.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/todo-prew.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/todo-prew.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/todo.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/todo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/todos.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/todos.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/trip.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/trip.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Works/Works.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/Works.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,17 +54,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="ts.external.directory.path" value="D:\Work\projects\portfolio\node_modules\typescript\lib" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/projects/portfolio&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;E:\\projects\\portfolio\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\projects\portfolio\src\assets\images" />
@@ -70,7 +83,7 @@
       <recent name="E:\rjs\portfolio\src\components\Works\WorkItem" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.deploy">
+  <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -155,12 +168,36 @@
       <workItem from="1652532901282" duration="35000" />
       <workItem from="1652638982362" duration="621000" />
       <workItem from="1652788045694" duration="611000" />
-      <workItem from="1653327470703" duration="111000" />
-      <workItem from="1653672272473" duration="61000" />
-      <workItem from="1653672345890" duration="672000" />
-      <workItem from="1653674179383" duration="230000" />
-      <workItem from="1654006940045" duration="2546000" />
-      <workItem from="1654168366766" duration="274000" />
+      <workItem from="1654941173454" duration="1153000" />
+      <workItem from="1654951930484" duration="1187000" />
+    </task>
+    <task id="LOCAL-00181" summary="add aboutText align-items: center style">
+      <created>1647624864143</created>
+      <option name="number" value="00181" />
+      <option name="presentableId" value="LOCAL-00181" />
+      <option name="project" value="LOCAL" />
+      <updated>1647624864143</updated>
+    </task>
+    <task id="LOCAL-00182" summary="add aboutText__profession animation">
+      <created>1647624876937</created>
+      <option name="number" value="00182" />
+      <option name="presentableId" value="LOCAL-00182" />
+      <option name="project" value="LOCAL" />
+      <updated>1647624876937</updated>
+    </task>
+    <task id="LOCAL-00183" summary="add aboutContainer background-color style">
+      <created>1647625101273</created>
+      <option name="number" value="00183" />
+      <option name="presentableId" value="LOCAL-00183" />
+      <option name="project" value="LOCAL" />
+      <updated>1647625101273</updated>
+    </task>
+    <task id="LOCAL-00184" summary="add react-scroll dependencies">
+      <created>1647625910243</created>
+      <option name="number" value="00184" />
+      <option name="presentableId" value="LOCAL-00184" />
+      <option name="project" value="LOCAL" />
+      <updated>1647625910243</updated>
     </task>
     <task id="LOCAL-00185" summary="add refactoring App components">
       <created>1647629529983</created>
@@ -477,35 +514,7 @@
       <option name="project" value="LOCAL" />
       <updated>1652788262686</updated>
     </task>
-    <task id="LOCAL-00230" summary="add food-shop prew image">
-      <created>1654007953858</created>
-      <option name="number" value="00230" />
-      <option name="presentableId" value="LOCAL-00230" />
-      <option name="project" value="LOCAL" />
-      <updated>1654007953858</updated>
-    </task>
-    <task id="LOCAL-00231" summary="add upd yarn deps">
-      <created>1654007978844</created>
-      <option name="number" value="00231" />
-      <option name="presentableId" value="LOCAL-00231" />
-      <option name="project" value="LOCAL" />
-      <updated>1654007978844</updated>
-    </task>
-    <task id="LOCAL-00232" summary="add new Work item">
-      <created>1654007991737</created>
-      <option name="number" value="00232" />
-      <option name="presentableId" value="LOCAL-00232" />
-      <option name="project" value="LOCAL" />
-      <updated>1654007991737</updated>
-    </task>
-    <task id="LOCAL-00233" summary="add new Skill item">
-      <created>1654009145378</created>
-      <option name="number" value="00233" />
-      <option name="presentableId" value="LOCAL-00233" />
-      <option name="project" value="LOCAL" />
-      <updated>1654009145379</updated>
-    </task>
-    <option name="localTasksCounter" value="234" />
+    <option name="localTasksCounter" value="230" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -524,6 +533,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="add upd Swiper (adaptive change of slides count)" />
+    <MESSAGE value="add upd skillsList margin value" />
+    <MESSAGE value="add Framer motion dependencies" />
     <MESSAGE value="add upd img's" />
     <MESSAGE value="add upd social img" />
     <MESSAGE value="add upd deps." />
@@ -531,6 +543,7 @@
     <MESSAGE value="add new SkillItem" />
     <MESSAGE value="add game img" />
     <MESSAGE value="add card-prew img" />
+    <MESSAGE value="add upd yarn deps" />
     <MESSAGE value="add img import" />
     <MESSAGE value="add new WorkItem" />
     <MESSAGE value="add upd Contact title" />
@@ -545,10 +558,6 @@
     <MESSAGE value="add upd img styles" />
     <MESSAGE value="add motion drag to img" />
     <MESSAGE value="add upd aboutWrapper height" />
-    <MESSAGE value="add food-shop prew image" />
-    <MESSAGE value="add upd yarn deps" />
-    <MESSAGE value="add new Work item" />
-    <MESSAGE value="add new Skill item" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new Skill item" />
+    <option name="LAST_COMMIT_MESSAGE" value="add upd aboutWrapper height" />
   </component>
 </project>

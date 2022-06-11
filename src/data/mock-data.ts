@@ -1,12 +1,12 @@
-import todo from "../../assets/images/todo-prew.png";
-import trip from "../../assets/images/trip.png";
-import social from "../../assets/images/social-prew.png";
-import maroon from "../../assets/images/maroonPrewiev.png";
-import converter from "../../assets/images/converter.png";
-import game from "../../assets/images/game.png";
-import card from "../../assets/images/card-prew.png";
-import movie from "../../assets/images/movie.png";
-import shop from "./../../assets/images/foodShop-prew.png";
+import todo from "../assets/images/todo-prew.png";
+import trip from "../assets/images/trip.png";
+import social from "../assets/images/social-prew.png";
+import maroon from "../assets/images/maroonPrewiev.png";
+import converter from "../assets/images/converter.png";
+import game from "../assets/images/game.png";
+import card from "../assets/images/card-prew.png";
+import movie from "../assets/images/movie.png";
+import shop from "./../assets/images/foodShop-prew.png";
 
 export type WorkItemType = {
   title: string,

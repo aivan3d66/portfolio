@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Contacts/Contacts.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts/Contacts.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,13 +160,6 @@
       <workItem from="1653674179383" duration="230000" />
       <workItem from="1654006940045" duration="2546000" />
       <workItem from="1654168366766" duration="274000" />
-    </task>
-    <task id="LOCAL-00185" summary="add refactoring App components">
-      <created>1647629529983</created>
-      <option name="number" value="00185" />
-      <option name="presentableId" value="LOCAL-00185" />
-      <option name="project" value="LOCAL" />
-      <updated>1647629529983</updated>
     </task>
     <task id="LOCAL-00186" summary="add scrollButton styles">
       <created>1647629551381</created>
@@ -505,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654009145379</updated>
     </task>
-    <option name="localTasksCounter" value="234" />
+    <task id="LOCAL-00234" summary="add upd Swiper (loop functional)">
+      <created>1655106060000</created>
+      <option name="number" value="00234" />
+      <option name="presentableId" value="LOCAL-00234" />
+      <option name="project" value="LOCAL" />
+      <updated>1655106060000</updated>
+    </task>
+    <option name="localTasksCounter" value="235" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -524,7 +523,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add upd img's" />
     <MESSAGE value="add upd social img" />
     <MESSAGE value="add upd deps." />
     <MESSAGE value="add new worksList mb" />
@@ -549,6 +547,7 @@
     <MESSAGE value="add upd yarn deps" />
     <MESSAGE value="add new Work item" />
     <MESSAGE value="add new Skill item" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new Skill item" />
+    <MESSAGE value="add upd Swiper (loop functional)" />
+    <option name="LAST_COMMIT_MESSAGE" value="add upd Swiper (loop functional)" />
   </component>
 </project>

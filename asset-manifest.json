@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.263c97d1.css",
-    "main.js": "/portfolio/static/js/main.346f6514.js",
+    "main.css": "/portfolio/static/css/main.996b6b07.css",
+    "main.js": "/portfolio/static/js/main.67084c0e.js",
     "static/media/maroonPrewiev.png": "/portfolio/static/media/maroonPrewiev.a49d5ec1c1e7b5c6f941.png",
     "static/media/foodShop-prew.png": "/portfolio/static/media/foodShop-prew.5830d148992ceadbddba.png",
     "static/media/converter.png": "/portfolio/static/media/converter.e6fdf6687f04b156b5d4.png",
@@ -13,11 +13,11 @@
     "static/media/todo-prew.png": "/portfolio/static/media/todo-prew.b0d4b0e919a30e493b76.png",
     "static/media/movie.png": "/portfolio/static/media/movie.366b13e809968ac5e03e.png",
     "index.html": "/portfolio/index.html",
-    "main.263c97d1.css.map": "/portfolio/static/css/main.263c97d1.css.map",
-    "main.346f6514.js.map": "/portfolio/static/js/main.346f6514.js.map"
+    "main.996b6b07.css.map": "/portfolio/static/css/main.996b6b07.css.map",
+    "main.67084c0e.js.map": "/portfolio/static/js/main.67084c0e.js.map"
   },
   "entrypoints": [
-    "static/css/main.263c97d1.css",
-    "static/js/main.346f6514.js"
+    "static/css/main.996b6b07.css",
+    "static/js/main.67084c0e.js"
   ]
 }

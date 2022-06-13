@@ -31,6 +31,7 @@ export const Skills = () => {
                     <Swiper
                         modules={[Pagination, A11y]}
                         spaceBetween={0}
+                        loop={true}
                         breakpoints={{
                             320: {
                                 slidesPerView: 1,

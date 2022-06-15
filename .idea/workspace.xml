@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add mock data">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add hide 'converter'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Works/Works.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/Works.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/data/mock-data.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/mock-data.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -162,6 +160,7 @@
       <workItem from="1652788045694" duration="611000" />
       <workItem from="1654941173454" duration="1153000" />
       <workItem from="1654951930484" duration="3202000" />
+      <workItem from="1655273799214" duration="18000" />
     </task>
     <task id="LOCAL-00183" summary="add aboutContainer background-color style">
       <created>1647625101273</created>

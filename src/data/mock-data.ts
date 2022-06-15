@@ -68,7 +68,7 @@ export const WorksData = [
   // },
   {
     title: 'Movie-graph',
-    pagesLink: 'https://movie-graph-front.herokuapp.com/',
+    pagesLink: 'https://aivan3d66.github.io/movie-graph/',
     githubLink: 'https://github.com/aivan3d66/movie-graph',
     description: 'Movie-manager APP. For Back-end I used: Node.js + Express, GraphQl, MongoDB and Front-end: React, Apollo GraphQL, Material UI. All this stuff deploying to Heroku',
     bgImage: `url(${movie})`,

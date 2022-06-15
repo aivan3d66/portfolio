@@ -59,13 +59,13 @@ export const WorksData = [
     description: 'E-shop website with main, catalog, product card pages. Adaptive design (desktop, tablet, mobile) flex and grid-based layout, "Mobile first"',
     bgImage: `url(${maroon})`,
   },
-  {
-    title: 'Currency exchange',
-    pagesLink: 'https://currency-exchange-converter.herokuapp.com/',
-    githubLink: 'https://github.com/aivan3d66/currency-converter',
-    description: 'Simple Currency exchange app. Using stack: React + MobX library of state management, Styled components and Heroku deploying',
-    bgImage: `url(${converter})`,
-  },
+  // {
+  //   title: 'Currency exchange',
+  //   pagesLink: 'https://currency-exchange-converter.herokuapp.com/',
+  //   githubLink: 'https://github.com/aivan3d66/currency-converter',
+  //   description: 'Simple Currency exchange app. Using stack: React + MobX library of state management, Styled components and Heroku deploying',
+  //   bgImage: `url(${converter})`,
+  // },
   {
     title: 'Movie-graph',
     pagesLink: 'https://movie-graph-front.herokuapp.com/',

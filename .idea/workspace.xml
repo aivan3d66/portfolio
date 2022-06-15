@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add mock data">
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add fix images imports">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/WorkItem/WorkItem.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Works/Works.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Works/Works.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/data/mock-data.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/mock-data.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -161,28 +159,10 @@
       <workItem from="1652638982362" duration="621000" />
       <workItem from="1652788045694" duration="611000" />
       <workItem from="1654941173454" duration="1153000" />
-      <workItem from="1654951930484" duration="3202000" />
-    </task>
-    <task id="LOCAL-00183" summary="add aboutContainer background-color style">
-      <created>1647625101273</created>
-      <option name="number" value="00183" />
-      <option name="presentableId" value="LOCAL-00183" />
-      <option name="project" value="LOCAL" />
-      <updated>1647625101273</updated>
-    </task>
-    <task id="LOCAL-00184" summary="add react-scroll dependencies">
-      <created>1647625910243</created>
-      <option name="number" value="00184" />
-      <option name="presentableId" value="LOCAL-00184" />
-      <option name="project" value="LOCAL" />
-      <updated>1647625910243</updated>
-    </task>
-    <task id="LOCAL-00185" summary="add refactoring App components">
-      <created>1647629529983</created>
-      <option name="number" value="00185" />
-      <option name="presentableId" value="LOCAL-00185" />
-      <option name="project" value="LOCAL" />
-      <updated>1647629529983</updated>
+      <workItem from="1654951930484" duration="4436000" />
+      <workItem from="1655058411639" duration="88000" />
+      <workItem from="1655062856627" duration="5000" />
+      <workItem from="1655273521320" duration="17000" />
     </task>
     <task id="LOCAL-00186" summary="add scrollButton styles">
       <created>1647629551381</created>
@@ -506,7 +486,28 @@
       <option name="project" value="LOCAL" />
       <updated>1654959570178</updated>
     </task>
-    <option name="localTasksCounter" value="232" />
+    <task id="LOCAL-00232" summary="add Works component refactoring">
+      <created>1654959933632</created>
+      <option name="number" value="00232" />
+      <option name="presentableId" value="LOCAL-00232" />
+      <option name="project" value="LOCAL" />
+      <updated>1654959933632</updated>
+    </task>
+    <task id="LOCAL-00233" summary="add WorkItem props type">
+      <created>1654959946085</created>
+      <option name="number" value="00233" />
+      <option name="presentableId" value="LOCAL-00233" />
+      <option name="project" value="LOCAL" />
+      <updated>1654959946085</updated>
+    </task>
+    <task id="LOCAL-00234" summary="add fix images imports">
+      <created>1654960008400</created>
+      <option name="number" value="00234" />
+      <option name="presentableId" value="LOCAL-00234" />
+      <option name="project" value="LOCAL" />
+      <updated>1654960008400</updated>
+    </task>
+    <option name="localTasksCounter" value="235" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -525,9 +526,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add Framer motion dependencies" />
-    <MESSAGE value="add upd img's" />
-    <MESSAGE value="add upd social img" />
     <MESSAGE value="add upd deps." />
     <MESSAGE value="add new worksList mb" />
     <MESSAGE value="add new SkillItem" />
@@ -550,6 +548,9 @@
     <MESSAGE value="add upd aboutWrapper height" />
     <MESSAGE value="add images type refactoring" />
     <MESSAGE value="add mock data" />
-    <option name="LAST_COMMIT_MESSAGE" value="add mock data" />
+    <MESSAGE value="add Works component refactoring" />
+    <MESSAGE value="add WorkItem props type" />
+    <MESSAGE value="add fix images imports" />
+    <option name="LAST_COMMIT_MESSAGE" value="add fix images imports" />
   </component>
 </project>

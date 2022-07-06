@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.263c97d1.css",
-    "main.js": "/portfolio/static/js/main.977e024e.js",
+    "main.js": "/portfolio/static/js/main.d86e2cb5.js",
     "static/media/maroonPrewiev.png": "/portfolio/static/media/maroonPrewiev.a49d5ec1c1e7b5c6f941.png",
     "static/media/foodShop-prew.png": "/portfolio/static/media/foodShop-prew.5830d148992ceadbddba.png",
     "static/media/card-prew.png": "/portfolio/static/media/card-prew.c1e3ab88267ab7610666.png",
@@ -13,10 +13,10 @@
     "static/media/movie.png": "/portfolio/static/media/movie.366b13e809968ac5e03e.png",
     "index.html": "/portfolio/index.html",
     "main.263c97d1.css.map": "/portfolio/static/css/main.263c97d1.css.map",
-    "main.977e024e.js.map": "/portfolio/static/js/main.977e024e.js.map"
+    "main.d86e2cb5.js.map": "/portfolio/static/js/main.d86e2cb5.js.map"
   },
   "entrypoints": [
     "static/css/main.263c97d1.css",
-    "static/js/main.977e024e.js"
+    "static/js/main.d86e2cb5.js"
   ]
 }

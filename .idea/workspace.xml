@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add SkillIcon component">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills/Skills.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/mock-data.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/mock-data.ts" afterDir="false" />
+    <list default="true" id="860c0257-33ec-4a79-a982-fbbd64f92511" name="Changes" comment="add Skills slider refactoring">
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.module.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,21 +162,7 @@
       <workItem from="1655273799214" duration="710000" />
       <workItem from="1657105411050" duration="563000" />
       <workItem from="1657106691993" duration="648000" />
-      <workItem from="1657130435516" duration="2103000" />
-    </task>
-    <task id="LOCAL-00187" summary="add navList styles">
-      <created>1647629559649</created>
-      <option name="number" value="00187" />
-      <option name="presentableId" value="LOCAL-00187" />
-      <option name="project" value="LOCAL" />
-      <updated>1647629559649</updated>
-    </task>
-    <task id="LOCAL-00188" summary="add navList tablet/desktop styles">
-      <created>1647629603249</created>
-      <option name="number" value="00188" />
-      <option name="presentableId" value="LOCAL-00188" />
-      <option name="project" value="LOCAL" />
-      <updated>1647629603249</updated>
+      <workItem from="1657130435516" duration="2255000" />
     </task>
     <task id="LOCAL-00189" summary="add HeaderSection component">
       <created>1647629618011</created>
@@ -509,7 +493,21 @@
       <option name="project" value="LOCAL" />
       <updated>1657133819540</updated>
     </task>
-    <option name="localTasksCounter" value="236" />
+    <task id="LOCAL-00236" summary="add skillsData">
+      <created>1657133926027</created>
+      <option name="number" value="00236" />
+      <option name="presentableId" value="LOCAL-00236" />
+      <option name="project" value="LOCAL" />
+      <updated>1657133926027</updated>
+    </task>
+    <task id="LOCAL-00237" summary="add Skills slider refactoring">
+      <created>1657133946613</created>
+      <option name="number" value="00237" />
+      <option name="presentableId" value="LOCAL-00237" />
+      <option name="project" value="LOCAL" />
+      <updated>1657133946614</updated>
+    </task>
+    <option name="localTasksCounter" value="238" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -528,8 +526,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="add new worksList mb" />
-    <MESSAGE value="add new SkillItem" />
     <MESSAGE value="add game img" />
     <MESSAGE value="add card-prew img" />
     <MESSAGE value="add upd yarn deps" />
@@ -553,6 +549,8 @@
     <MESSAGE value="add prettier" />
     <MESSAGE value="add prettier to gitignore" />
     <MESSAGE value="add SkillIcon component" />
-    <option name="LAST_COMMIT_MESSAGE" value="add SkillIcon component" />
+    <MESSAGE value="add skillsData" />
+    <MESSAGE value="add Skills slider refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Skills slider refactoring" />
   </component>
 </project>
